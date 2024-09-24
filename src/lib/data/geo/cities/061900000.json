@@ -1,0 +1,2490 @@
+{
+  "province": "Capiz",
+  "code": "061900000",
+  "cities": [
+    {
+      "name": "City of Roxas",
+      "code": "061914000",
+      "psgc": "0601914000",
+      "barangays": [
+        {
+          "name": "Adlawan",
+          "code": "061914001",
+          "psgc": "0601914001"
+        },
+        {
+          "name": "Bago",
+          "code": "061914002",
+          "psgc": "0601914002"
+        },
+        {
+          "name": "Balijuagan",
+          "code": "061914003",
+          "psgc": "0601914003"
+        },
+        {
+          "name": "Banica",
+          "code": "061914004",
+          "psgc": "0601914004"
+        },
+        {
+          "name": "Barra",
+          "code": "061914017",
+          "psgc": "0601914017"
+        },
+        {
+          "name": "Bato",
+          "code": "061914018",
+          "psgc": "0601914018"
+        },
+        {
+          "name": "Baybay",
+          "code": "061914019",
+          "psgc": "0601914019"
+        },
+        {
+          "name": "Bolo",
+          "code": "061914020",
+          "psgc": "0601914020"
+        },
+        {
+          "name": "Cabugao",
+          "code": "061914021",
+          "psgc": "0601914021"
+        },
+        {
+          "name": "Cagay",
+          "code": "061914022",
+          "psgc": "0601914022"
+        },
+        {
+          "name": "Cogon",
+          "code": "061914023",
+          "psgc": "0601914023"
+        },
+        {
+          "name": "Culajao",
+          "code": "061914024",
+          "psgc": "0601914024"
+        },
+        {
+          "name": "Culasi",
+          "code": "061914025",
+          "psgc": "0601914025"
+        },
+        {
+          "name": "Dayao",
+          "code": "061914027",
+          "psgc": "0601914027"
+        },
+        {
+          "name": "Dinginan",
+          "code": "061914028",
+          "psgc": "0601914028"
+        },
+        {
+          "name": "Dumolog",
+          "code": "061914026",
+          "psgc": "0601914026"
+        },
+        {
+          "name": "Gabu-an",
+          "code": "061914029",
+          "psgc": "0601914029"
+        },
+        {
+          "name": "Inzo Arnaldo Village",
+          "code": "061914030",
+          "psgc": "0601914030"
+        },
+        {
+          "name": "Jumaguicjic",
+          "code": "061914031",
+          "psgc": "0601914031"
+        },
+        {
+          "name": "Lanot",
+          "code": "061914032",
+          "psgc": "0601914032"
+        },
+        {
+          "name": "Lawa-an",
+          "code": "061914033",
+          "psgc": "0601914033"
+        },
+        {
+          "name": "Libas",
+          "code": "061914035",
+          "psgc": "0601914035"
+        },
+        {
+          "name": "Liong",
+          "code": "061914034",
+          "psgc": "0601914034"
+        },
+        {
+          "name": "Loctugan",
+          "code": "061914036",
+          "psgc": "0601914036"
+        },
+        {
+          "name": "Lonoy",
+          "code": "061914037",
+          "psgc": "0601914037"
+        },
+        {
+          "name": "Milibili",
+          "code": "061914039",
+          "psgc": "0601914039"
+        },
+        {
+          "name": "Mongpong",
+          "code": "061914040",
+          "psgc": "0601914040"
+        },
+        {
+          "name": "Olotayan",
+          "code": "061914041",
+          "psgc": "0601914041"
+        },
+        {
+          "name": "Poblacion I",
+          "code": "061914005",
+          "psgc": "0601914005"
+        },
+        {
+          "name": "Poblacion II",
+          "code": "061914009",
+          "psgc": "0601914009"
+        },
+        {
+          "name": "Poblacion III",
+          "code": "061914010",
+          "psgc": "0601914010"
+        },
+        {
+          "name": "Poblacion IV",
+          "code": "061914011",
+          "psgc": "0601914011"
+        },
+        {
+          "name": "Poblacion IX",
+          "code": "061914016",
+          "psgc": "0601914016"
+        },
+        {
+          "name": "Poblacion V",
+          "code": "061914012",
+          "psgc": "0601914012"
+        },
+        {
+          "name": "Poblacion VI",
+          "code": "061914013",
+          "psgc": "0601914013"
+        },
+        {
+          "name": "Poblacion VII",
+          "code": "061914014",
+          "psgc": "0601914014"
+        },
+        {
+          "name": "Poblacion VIII",
+          "code": "061914015",
+          "psgc": "0601914015"
+        },
+        {
+          "name": "Poblacion X",
+          "code": "061914006",
+          "psgc": "0601914006"
+        },
+        {
+          "name": "Poblacion XI",
+          "code": "061914007",
+          "psgc": "0601914007"
+        },
+        {
+          "name": "Punta Cogon",
+          "code": "061914042",
+          "psgc": "0601914042"
+        },
+        {
+          "name": "Punta Tabuc",
+          "code": "061914043",
+          "psgc": "0601914043"
+        },
+        {
+          "name": "San Jose",
+          "code": "061914044",
+          "psgc": "0601914044"
+        },
+        {
+          "name": "Sibaguan",
+          "code": "061914045",
+          "psgc": "0601914045"
+        },
+        {
+          "name": "Talon",
+          "code": "061914046",
+          "psgc": "0601914046"
+        },
+        {
+          "name": "Tanque",
+          "code": "061914047",
+          "psgc": "0601914047"
+        },
+        {
+          "name": "Tanza",
+          "code": "061914048",
+          "psgc": "0601914048"
+        },
+        {
+          "name": "Tiza",
+          "code": "061914049",
+          "psgc": "0601914049"
+        }
+      ]
+    },
+    {
+      "name": "Cuartero",
+      "code": "061901000",
+      "psgc": "0601901000",
+      "barangays": [
+        {
+          "name": "Agcabugao",
+          "code": "061901001",
+          "psgc": "0601901001"
+        },
+        {
+          "name": "Agdahon",
+          "code": "061901002",
+          "psgc": "0601901002"
+        },
+        {
+          "name": "Agnaga",
+          "code": "061901003",
+          "psgc": "0601901003"
+        },
+        {
+          "name": "Angub",
+          "code": "061901004",
+          "psgc": "0601901004"
+        },
+        {
+          "name": "Balingasag",
+          "code": "061901005",
+          "psgc": "0601901005"
+        },
+        {
+          "name": "Bito-on Ilawod",
+          "code": "061901007",
+          "psgc": "0601901007"
+        },
+        {
+          "name": "Bito-on Ilaya",
+          "code": "061901008",
+          "psgc": "0601901008"
+        },
+        {
+          "name": "Bun-od",
+          "code": "061901009",
+          "psgc": "0601901009"
+        },
+        {
+          "name": "Carataya",
+          "code": "061901010",
+          "psgc": "0601901010"
+        },
+        {
+          "name": "Lunayan",
+          "code": "061901011",
+          "psgc": "0601901011"
+        },
+        {
+          "name": "Mahabang Sapa",
+          "code": "061901023",
+          "psgc": "0601901023"
+        },
+        {
+          "name": "Mahunodhunod",
+          "code": "061901012",
+          "psgc": "0601901012"
+        },
+        {
+          "name": "Maindang",
+          "code": "061901013",
+          "psgc": "0601901013"
+        },
+        {
+          "name": "Mainit",
+          "code": "061901014",
+          "psgc": "0601901014"
+        },
+        {
+          "name": "Malagab-i",
+          "code": "061901015",
+          "psgc": "0601901015"
+        },
+        {
+          "name": "Nagba",
+          "code": "061901016",
+          "psgc": "0601901016"
+        },
+        {
+          "name": "Poblacion Ilawod",
+          "code": "061901017",
+          "psgc": "0601901017"
+        },
+        {
+          "name": "Poblacion Ilaya",
+          "code": "061901018",
+          "psgc": "0601901018"
+        },
+        {
+          "name": "Poblacion Takas",
+          "code": "061901019",
+          "psgc": "0601901019"
+        },
+        {
+          "name": "Puti-an",
+          "code": "061901020",
+          "psgc": "0601901020"
+        },
+        {
+          "name": "San Antonio",
+          "code": "061901021",
+          "psgc": "0601901021"
+        },
+        {
+          "name": "Sinabsaban",
+          "code": "061901022",
+          "psgc": "0601901022"
+        }
+      ]
+    },
+    {
+      "name": "Dao",
+      "code": "061902000",
+      "psgc": "0601902000",
+      "barangays": [
+        {
+          "name": "Aganan",
+          "code": "061902001",
+          "psgc": "0601902001"
+        },
+        {
+          "name": "Agtambi",
+          "code": "061902002",
+          "psgc": "0601902002"
+        },
+        {
+          "name": "Agtanguay",
+          "code": "061902003",
+          "psgc": "0601902003"
+        },
+        {
+          "name": "Balucuan",
+          "code": "061902004",
+          "psgc": "0601902004"
+        },
+        {
+          "name": "Bita",
+          "code": "061902005",
+          "psgc": "0601902005"
+        },
+        {
+          "name": "Centro",
+          "code": "061902006",
+          "psgc": "0601902006"
+        },
+        {
+          "name": "Daplas",
+          "code": "061902007",
+          "psgc": "0601902007"
+        },
+        {
+          "name": "Duyoc",
+          "code": "061902008",
+          "psgc": "0601902008"
+        },
+        {
+          "name": "Ilas Sur",
+          "code": "061902009",
+          "psgc": "0601902009"
+        },
+        {
+          "name": "Lacaron",
+          "code": "061902012",
+          "psgc": "0601902012"
+        },
+        {
+          "name": "Malonoy",
+          "code": "061902013",
+          "psgc": "0601902013"
+        },
+        {
+          "name": "Manhoy",
+          "code": "061902014",
+          "psgc": "0601902014"
+        },
+        {
+          "name": "Mapulang Bato",
+          "code": "061902015",
+          "psgc": "0601902015"
+        },
+        {
+          "name": "Matagnop",
+          "code": "061902016",
+          "psgc": "0601902016"
+        },
+        {
+          "name": "Nasunogan",
+          "code": "061902017",
+          "psgc": "0601902017"
+        },
+        {
+          "name": "Poblacion Ilawod",
+          "code": "061902018",
+          "psgc": "0601902018"
+        },
+        {
+          "name": "Poblacion Ilaya",
+          "code": "061902019",
+          "psgc": "0601902019"
+        },
+        {
+          "name": "Quinabcaban",
+          "code": "061902020",
+          "psgc": "0601902020"
+        },
+        {
+          "name": "Quinayuya",
+          "code": "061902021",
+          "psgc": "0601902021"
+        },
+        {
+          "name": "San Agustin",
+          "code": "061902022",
+          "psgc": "0601902022"
+        }
+      ]
+    },
+    {
+      "name": "Dumalag",
+      "code": "061903000",
+      "psgc": "0601903000",
+      "barangays": [
+        {
+          "name": "Concepcion",
+          "code": "061903001",
+          "psgc": "0601903001"
+        },
+        {
+          "name": "Consolacion",
+          "code": "061903002",
+          "psgc": "0601903002"
+        },
+        {
+          "name": "Dolores",
+          "code": "061903003",
+          "psgc": "0601903003"
+        },
+        {
+          "name": "Duran",
+          "code": "061903004",
+          "psgc": "0601903004"
+        },
+        {
+          "name": "Poblacion",
+          "code": "061903021",
+          "psgc": "0601903021"
+        },
+        {
+          "name": "San Agustin",
+          "code": "061903007",
+          "psgc": "0601903007"
+        },
+        {
+          "name": "San Jose",
+          "code": "061903008",
+          "psgc": "0601903008"
+        },
+        {
+          "name": "San Martin",
+          "code": "061903009",
+          "psgc": "0601903009"
+        },
+        {
+          "name": "San Miguel",
+          "code": "061903010",
+          "psgc": "0601903010"
+        },
+        {
+          "name": "San Rafael",
+          "code": "061903011",
+          "psgc": "0601903011"
+        },
+        {
+          "name": "San Roque",
+          "code": "061903012",
+          "psgc": "0601903012"
+        },
+        {
+          "name": "Santa Carmen",
+          "code": "061903013",
+          "psgc": "0601903013"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "061903014",
+          "psgc": "0601903014"
+        },
+        {
+          "name": "Santa Monica",
+          "code": "061903015",
+          "psgc": "0601903015"
+        },
+        {
+          "name": "Santa Rita",
+          "code": "061903016",
+          "psgc": "0601903016"
+        },
+        {
+          "name": "Santa Teresa",
+          "code": "061903017",
+          "psgc": "0601903017"
+        },
+        {
+          "name": "Santo Angel",
+          "code": "061903018",
+          "psgc": "0601903018"
+        },
+        {
+          "name": "Santo Niño",
+          "code": "061903019",
+          "psgc": "0601903019"
+        },
+        {
+          "name": "Santo Rosario",
+          "code": "061903020",
+          "psgc": "0601903020"
+        }
+      ]
+    },
+    {
+      "name": "Dumarao",
+      "code": "061904000",
+      "psgc": "0601904000",
+      "barangays": [
+        {
+          "name": "Agbatuan",
+          "code": "061904001",
+          "psgc": "0601904001"
+        },
+        {
+          "name": "Aglalana",
+          "code": "061904002",
+          "psgc": "0601904002"
+        },
+        {
+          "name": "Aglanot",
+          "code": "061904003",
+          "psgc": "0601904003"
+        },
+        {
+          "name": "Agsirab",
+          "code": "061904006",
+          "psgc": "0601904006"
+        },
+        {
+          "name": "Alipasiawan",
+          "code": "061904007",
+          "psgc": "0601904007"
+        },
+        {
+          "name": "Astorga",
+          "code": "061904008",
+          "psgc": "0601904008"
+        },
+        {
+          "name": "Bayog",
+          "code": "061904009",
+          "psgc": "0601904009"
+        },
+        {
+          "name": "Bungsuan",
+          "code": "061904010",
+          "psgc": "0601904010"
+        },
+        {
+          "name": "Calapawan",
+          "code": "061904011",
+          "psgc": "0601904011"
+        },
+        {
+          "name": "Codingle",
+          "code": "061904016",
+          "psgc": "0601904016"
+        },
+        {
+          "name": "Cubi",
+          "code": "061904012",
+          "psgc": "0601904012"
+        },
+        {
+          "name": "Dacuton",
+          "code": "061904013",
+          "psgc": "0601904013"
+        },
+        {
+          "name": "Dangula",
+          "code": "061904014",
+          "psgc": "0601904014"
+        },
+        {
+          "name": "Gibato",
+          "code": "061904015",
+          "psgc": "0601904015"
+        },
+        {
+          "name": "Guinotos",
+          "code": "061904017",
+          "psgc": "0601904017"
+        },
+        {
+          "name": "Jambad",
+          "code": "061904018",
+          "psgc": "0601904018"
+        },
+        {
+          "name": "Janguslob",
+          "code": "061904019",
+          "psgc": "0601904019"
+        },
+        {
+          "name": "Lawaan",
+          "code": "061904021",
+          "psgc": "0601904021"
+        },
+        {
+          "name": "Malonoy",
+          "code": "061904023",
+          "psgc": "0601904023"
+        },
+        {
+          "name": "Nagsulang",
+          "code": "061904024",
+          "psgc": "0601904024"
+        },
+        {
+          "name": "Ongol Ilawod",
+          "code": "061904026",
+          "psgc": "0601904026"
+        },
+        {
+          "name": "Ongol Ilaya",
+          "code": "061904027",
+          "psgc": "0601904027"
+        },
+        {
+          "name": "Poblacion Ilawod",
+          "code": "061904028",
+          "psgc": "0601904028"
+        },
+        {
+          "name": "Poblacion Ilaya",
+          "code": "061904029",
+          "psgc": "0601904029"
+        },
+        {
+          "name": "Sagrada Familia",
+          "code": "061904030",
+          "psgc": "0601904030"
+        },
+        {
+          "name": "Salcedo",
+          "code": "061904031",
+          "psgc": "0601904031"
+        },
+        {
+          "name": "San Juan",
+          "code": "061904032",
+          "psgc": "0601904032"
+        },
+        {
+          "name": "Sibariwan",
+          "code": "061904033",
+          "psgc": "0601904033"
+        },
+        {
+          "name": "Tamulalod",
+          "code": "061904034",
+          "psgc": "0601904034"
+        },
+        {
+          "name": "Taslan",
+          "code": "061904035",
+          "psgc": "0601904035"
+        },
+        {
+          "name": "Tina",
+          "code": "061904036",
+          "psgc": "0601904036"
+        },
+        {
+          "name": "Tinaytayan",
+          "code": "061904037",
+          "psgc": "0601904037"
+        },
+        {
+          "name": "Traciano",
+          "code": "061904038",
+          "psgc": "0601904038"
+        }
+      ]
+    },
+    {
+      "name": "Ivisan",
+      "code": "061905000",
+      "psgc": "0601905000",
+      "barangays": [
+        {
+          "name": "Agmalobo",
+          "code": "061905001",
+          "psgc": "0601905001"
+        },
+        {
+          "name": "Agustin Navarra",
+          "code": "061905002",
+          "psgc": "0601905002"
+        },
+        {
+          "name": "Balaring",
+          "code": "061905003",
+          "psgc": "0601905003"
+        },
+        {
+          "name": "Basiao",
+          "code": "061905004",
+          "psgc": "0601905004"
+        },
+        {
+          "name": "Cabugao",
+          "code": "061905005",
+          "psgc": "0601905005"
+        },
+        {
+          "name": "Cudian",
+          "code": "061905006",
+          "psgc": "0601905006"
+        },
+        {
+          "name": "Ilaya-Ivisan",
+          "code": "061905007",
+          "psgc": "0601905007"
+        },
+        {
+          "name": "Malocloc Norte",
+          "code": "061905008",
+          "psgc": "0601905008"
+        },
+        {
+          "name": "Malocloc Sur",
+          "code": "061905009",
+          "psgc": "0601905009"
+        },
+        {
+          "name": "Matnog",
+          "code": "061905010",
+          "psgc": "0601905010"
+        },
+        {
+          "name": "Mianay",
+          "code": "061905011",
+          "psgc": "0601905011"
+        },
+        {
+          "name": "Ondoy",
+          "code": "061905012",
+          "psgc": "0601905012"
+        },
+        {
+          "name": "Poblacion Norte",
+          "code": "061905013",
+          "psgc": "0601905013"
+        },
+        {
+          "name": "Poblacion Sur",
+          "code": "061905014",
+          "psgc": "0601905014"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "061905015",
+          "psgc": "0601905015"
+        }
+      ]
+    },
+    {
+      "name": "Jamindan",
+      "code": "061906000",
+      "psgc": "0601906000",
+      "barangays": [
+        {
+          "name": "Agambulong",
+          "code": "061906001",
+          "psgc": "0601906001"
+        },
+        {
+          "name": "Agbun-od",
+          "code": "061906002",
+          "psgc": "0601906002"
+        },
+        {
+          "name": "Agcagay",
+          "code": "061906003",
+          "psgc": "0601906003"
+        },
+        {
+          "name": "Aglibacao",
+          "code": "061906004",
+          "psgc": "0601906004"
+        },
+        {
+          "name": "Agloloway",
+          "code": "061906005",
+          "psgc": "0601906005"
+        },
+        {
+          "name": "Bayebaye",
+          "code": "061906006",
+          "psgc": "0601906006"
+        },
+        {
+          "name": "Caridad",
+          "code": "061906007",
+          "psgc": "0601906007"
+        },
+        {
+          "name": "Esperanza",
+          "code": "061906008",
+          "psgc": "0601906008"
+        },
+        {
+          "name": "Fe",
+          "code": "061906009",
+          "psgc": "0601906009"
+        },
+        {
+          "name": "Ganzon",
+          "code": "061906010",
+          "psgc": "0601906010"
+        },
+        {
+          "name": "Guintas",
+          "code": "061906011",
+          "psgc": "0601906011"
+        },
+        {
+          "name": "Igang",
+          "code": "061906012",
+          "psgc": "0601906012"
+        },
+        {
+          "name": "Jaena Norte",
+          "code": "061906013",
+          "psgc": "0601906013"
+        },
+        {
+          "name": "Jaena Sur",
+          "code": "061906014",
+          "psgc": "0601906014"
+        },
+        {
+          "name": "Jagnaya",
+          "code": "061906015",
+          "psgc": "0601906015"
+        },
+        {
+          "name": "Lapaz",
+          "code": "061906016",
+          "psgc": "0601906016"
+        },
+        {
+          "name": "Linambasan",
+          "code": "061906017",
+          "psgc": "0601906017"
+        },
+        {
+          "name": "Lucero",
+          "code": "061906018",
+          "psgc": "0601906018"
+        },
+        {
+          "name": "Maantol",
+          "code": "061906019",
+          "psgc": "0601906019"
+        },
+        {
+          "name": "Masgrau",
+          "code": "061906020",
+          "psgc": "0601906020"
+        },
+        {
+          "name": "Milan",
+          "code": "061906021",
+          "psgc": "0601906021"
+        },
+        {
+          "name": "Molet",
+          "code": "061906022",
+          "psgc": "0601906022"
+        },
+        {
+          "name": "Pangabat",
+          "code": "061906023",
+          "psgc": "0601906023"
+        },
+        {
+          "name": "Pangabuan",
+          "code": "061906024",
+          "psgc": "0601906024"
+        },
+        {
+          "name": "Pasol-o",
+          "code": "061906025",
+          "psgc": "0601906025"
+        },
+        {
+          "name": "Poblacion",
+          "code": "061906026",
+          "psgc": "0601906026"
+        },
+        {
+          "name": "San Jose",
+          "code": "061906027",
+          "psgc": "0601906027"
+        },
+        {
+          "name": "San Juan",
+          "code": "061906028",
+          "psgc": "0601906028"
+        },
+        {
+          "name": "San Vicente",
+          "code": "061906029",
+          "psgc": "0601906029"
+        },
+        {
+          "name": "Santo Rosario",
+          "code": "061906030",
+          "psgc": "0601906030"
+        }
+      ]
+    },
+    {
+      "name": "Ma-Ayon",
+      "code": "061907000",
+      "psgc": "0601907000",
+      "barangays": [
+        {
+          "name": "Aglimocon",
+          "code": "061907001",
+          "psgc": "0601907001"
+        },
+        {
+          "name": "Alasaging",
+          "code": "061907002",
+          "psgc": "0601907002"
+        },
+        {
+          "name": "Alayunan",
+          "code": "061907003",
+          "psgc": "0601907003"
+        },
+        {
+          "name": "Balighot",
+          "code": "061907004",
+          "psgc": "0601907004"
+        },
+        {
+          "name": "Batabat",
+          "code": "061907005",
+          "psgc": "0601907005"
+        },
+        {
+          "name": "Bongbongan",
+          "code": "061907006",
+          "psgc": "0601907006"
+        },
+        {
+          "name": "Cabungahan",
+          "code": "061907007",
+          "psgc": "0601907007"
+        },
+        {
+          "name": "Canapian",
+          "code": "061907008",
+          "psgc": "0601907008"
+        },
+        {
+          "name": "Carataya",
+          "code": "061907009",
+          "psgc": "0601907009"
+        },
+        {
+          "name": "Duluan",
+          "code": "061907010",
+          "psgc": "0601907010"
+        },
+        {
+          "name": "East Villaflores",
+          "code": "061907011",
+          "psgc": "0601907011"
+        },
+        {
+          "name": "Fernandez",
+          "code": "061907012",
+          "psgc": "0601907012"
+        },
+        {
+          "name": "Guinbi-alan",
+          "code": "061907013",
+          "psgc": "0601907013"
+        },
+        {
+          "name": "Indayagan",
+          "code": "061907014",
+          "psgc": "0601907014"
+        },
+        {
+          "name": "Jebaca",
+          "code": "061907015",
+          "psgc": "0601907015"
+        },
+        {
+          "name": "Maalan",
+          "code": "061907016",
+          "psgc": "0601907016"
+        },
+        {
+          "name": "Manayupit",
+          "code": "061907017",
+          "psgc": "0601907017"
+        },
+        {
+          "name": "New Guia",
+          "code": "061907018",
+          "psgc": "0601907018"
+        },
+        {
+          "name": "Old Guia",
+          "code": "061907020",
+          "psgc": "0601907020"
+        },
+        {
+          "name": "Palaguian",
+          "code": "061907021",
+          "psgc": "0601907021"
+        },
+        {
+          "name": "Parallan",
+          "code": "061907022",
+          "psgc": "0601907022"
+        },
+        {
+          "name": "Piña",
+          "code": "061907023",
+          "psgc": "0601907023"
+        },
+        {
+          "name": "Poblacion Ilawod",
+          "code": "061907024",
+          "psgc": "0601907024"
+        },
+        {
+          "name": "Poblacion Ilaya",
+          "code": "061907025",
+          "psgc": "0601907025"
+        },
+        {
+          "name": "Poblacion Tabuc",
+          "code": "061907026",
+          "psgc": "0601907026"
+        },
+        {
+          "name": "Quevedo",
+          "code": "061907019",
+          "psgc": "0601907019"
+        },
+        {
+          "name": "Quinabonglan",
+          "code": "061907028",
+          "psgc": "0601907028"
+        },
+        {
+          "name": "Quinat-uyan",
+          "code": "061907029",
+          "psgc": "0601907029"
+        },
+        {
+          "name": "Salgan",
+          "code": "061907030",
+          "psgc": "0601907030"
+        },
+        {
+          "name": "Tapulang",
+          "code": "061907031",
+          "psgc": "0601907031"
+        },
+        {
+          "name": "Tuburan",
+          "code": "061907032",
+          "psgc": "0601907032"
+        },
+        {
+          "name": "West Villaflores",
+          "code": "061907034",
+          "psgc": "0601907034"
+        }
+      ]
+    },
+    {
+      "name": "Mambusao",
+      "code": "061908000",
+      "psgc": "0601908000",
+      "barangays": [
+        {
+          "name": "Atiplo",
+          "code": "061908001",
+          "psgc": "0601908001"
+        },
+        {
+          "name": "Balat-an",
+          "code": "061908002",
+          "psgc": "0601908002"
+        },
+        {
+          "name": "Balit",
+          "code": "061908003",
+          "psgc": "0601908003"
+        },
+        {
+          "name": "Batiano",
+          "code": "061908004",
+          "psgc": "0601908004"
+        },
+        {
+          "name": "Bating",
+          "code": "061908005",
+          "psgc": "0601908005"
+        },
+        {
+          "name": "Bato Bato",
+          "code": "061908006",
+          "psgc": "0601908006"
+        },
+        {
+          "name": "Baye",
+          "code": "061908007",
+          "psgc": "0601908007"
+        },
+        {
+          "name": "Bergante",
+          "code": "061908008",
+          "psgc": "0601908008"
+        },
+        {
+          "name": "Bula",
+          "code": "061908010",
+          "psgc": "0601908010"
+        },
+        {
+          "name": "Bunga",
+          "code": "061908009",
+          "psgc": "0601908009"
+        },
+        {
+          "name": "Bungsi",
+          "code": "061908011",
+          "psgc": "0601908011"
+        },
+        {
+          "name": "Burias",
+          "code": "061908012",
+          "psgc": "0601908012"
+        },
+        {
+          "name": "Caidquid",
+          "code": "061908013",
+          "psgc": "0601908013"
+        },
+        {
+          "name": "Cala-agus",
+          "code": "061908014",
+          "psgc": "0601908014"
+        },
+        {
+          "name": "Libo-o",
+          "code": "061908015",
+          "psgc": "0601908015"
+        },
+        {
+          "name": "Manibad",
+          "code": "061908016",
+          "psgc": "0601908016"
+        },
+        {
+          "name": "Maralag",
+          "code": "061908017",
+          "psgc": "0601908017"
+        },
+        {
+          "name": "Najus-an",
+          "code": "061908018",
+          "psgc": "0601908018"
+        },
+        {
+          "name": "Pangpang Norte",
+          "code": "061908019",
+          "psgc": "0601908019"
+        },
+        {
+          "name": "Pangpang Sur",
+          "code": "061908020",
+          "psgc": "0601908020"
+        },
+        {
+          "name": "Pinay",
+          "code": "061908021",
+          "psgc": "0601908021"
+        },
+        {
+          "name": "Poblacion Proper",
+          "code": "061908022",
+          "psgc": "0601908022"
+        },
+        {
+          "name": "Poblacion Tabuc",
+          "code": "061908023",
+          "psgc": "0601908023"
+        },
+        {
+          "name": "Sinondojan",
+          "code": "061908024",
+          "psgc": "0601908024"
+        },
+        {
+          "name": "Tugas",
+          "code": "061908025",
+          "psgc": "0601908025"
+        },
+        {
+          "name": "Tumalalud",
+          "code": "061908026",
+          "psgc": "0601908026"
+        }
+      ]
+    },
+    {
+      "name": "Panay",
+      "code": "061909000",
+      "psgc": "0601909000",
+      "barangays": [
+        {
+          "name": "Agbalo",
+          "code": "061909001",
+          "psgc": "0601909001"
+        },
+        {
+          "name": "Agbanban",
+          "code": "061909002",
+          "psgc": "0601909002"
+        },
+        {
+          "name": "Agojo",
+          "code": "061909003",
+          "psgc": "0601909003"
+        },
+        {
+          "name": "Anhawon",
+          "code": "061909004",
+          "psgc": "0601909004"
+        },
+        {
+          "name": "Bagacay",
+          "code": "061909005",
+          "psgc": "0601909005"
+        },
+        {
+          "name": "Bago Chiquito",
+          "code": "061909006",
+          "psgc": "0601909006"
+        },
+        {
+          "name": "Bago Grande",
+          "code": "061909007",
+          "psgc": "0601909007"
+        },
+        {
+          "name": "Bahit",
+          "code": "061909008",
+          "psgc": "0601909008"
+        },
+        {
+          "name": "Bantique",
+          "code": "061909009",
+          "psgc": "0601909009"
+        },
+        {
+          "name": "Bato",
+          "code": "061909010",
+          "psgc": "0601909010"
+        },
+        {
+          "name": "Binangig",
+          "code": "061909011",
+          "psgc": "0601909011"
+        },
+        {
+          "name": "Binantuan",
+          "code": "061909012",
+          "psgc": "0601909012"
+        },
+        {
+          "name": "Bonga",
+          "code": "061909013",
+          "psgc": "0601909013"
+        },
+        {
+          "name": "Buntod",
+          "code": "061909014",
+          "psgc": "0601909014"
+        },
+        {
+          "name": "Butacal",
+          "code": "061909015",
+          "psgc": "0601909015"
+        },
+        {
+          "name": "Cabugao Este",
+          "code": "061909016",
+          "psgc": "0601909016"
+        },
+        {
+          "name": "Cabugao Oeste",
+          "code": "061909017",
+          "psgc": "0601909017"
+        },
+        {
+          "name": "Calapawan",
+          "code": "061909018",
+          "psgc": "0601909018"
+        },
+        {
+          "name": "Calitan",
+          "code": "061909019",
+          "psgc": "0601909019"
+        },
+        {
+          "name": "Candual",
+          "code": "061909020",
+          "psgc": "0601909020"
+        },
+        {
+          "name": "Cogon",
+          "code": "061909021",
+          "psgc": "0601909021"
+        },
+        {
+          "name": "Daga",
+          "code": "061909022",
+          "psgc": "0601909022"
+        },
+        {
+          "name": "Ilamnay",
+          "code": "061909023",
+          "psgc": "0601909023"
+        },
+        {
+          "name": "Jamul-awon",
+          "code": "061909024",
+          "psgc": "0601909024"
+        },
+        {
+          "name": "Lanipga",
+          "code": "061909025",
+          "psgc": "0601909025"
+        },
+        {
+          "name": "Lat-Asan",
+          "code": "061909026",
+          "psgc": "0601909026"
+        },
+        {
+          "name": "Libon",
+          "code": "061909027",
+          "psgc": "0601909027"
+        },
+        {
+          "name": "Linao",
+          "code": "061909028",
+          "psgc": "0601909028"
+        },
+        {
+          "name": "Linateran",
+          "code": "061909029",
+          "psgc": "0601909029"
+        },
+        {
+          "name": "Lomboy",
+          "code": "061909030",
+          "psgc": "0601909030"
+        },
+        {
+          "name": "Lus-Onan",
+          "code": "061909031",
+          "psgc": "0601909031"
+        },
+        {
+          "name": "Magubilan",
+          "code": "061909032",
+          "psgc": "0601909032"
+        },
+        {
+          "name": "Navitas",
+          "code": "061909033",
+          "psgc": "0601909033"
+        },
+        {
+          "name": "Pawa",
+          "code": "061909034",
+          "psgc": "0601909034"
+        },
+        {
+          "name": "Pili",
+          "code": "061909035",
+          "psgc": "0601909035"
+        },
+        {
+          "name": "Poblacion Ilawod",
+          "code": "061909036",
+          "psgc": "0601909036"
+        },
+        {
+          "name": "Poblacion Ilaya",
+          "code": "061909037",
+          "psgc": "0601909037"
+        },
+        {
+          "name": "Poblacion Tabuc",
+          "code": "061909038",
+          "psgc": "0601909038"
+        },
+        {
+          "name": "Talasa",
+          "code": "061909039",
+          "psgc": "0601909039"
+        },
+        {
+          "name": "Tanza Norte",
+          "code": "061909040",
+          "psgc": "0601909040"
+        },
+        {
+          "name": "Tanza Sur",
+          "code": "061909041",
+          "psgc": "0601909041"
+        },
+        {
+          "name": "Tico",
+          "code": "061909042",
+          "psgc": "0601909042"
+        }
+      ]
+    },
+    {
+      "name": "Panitan",
+      "code": "061910000",
+      "psgc": "0601910000",
+      "barangays": [
+        {
+          "name": "Agbabadiang",
+          "code": "061910001",
+          "psgc": "0601910001"
+        },
+        {
+          "name": "Agkilo",
+          "code": "061910002",
+          "psgc": "0601910002"
+        },
+        {
+          "name": "Agloway",
+          "code": "061910003",
+          "psgc": "0601910003"
+        },
+        {
+          "name": "Ambilay",
+          "code": "061910004",
+          "psgc": "0601910004"
+        },
+        {
+          "name": "Bahit",
+          "code": "061910005",
+          "psgc": "0601910005"
+        },
+        {
+          "name": "Balatucan",
+          "code": "061910006",
+          "psgc": "0601910006"
+        },
+        {
+          "name": "Banga-an",
+          "code": "061910007",
+          "psgc": "0601910007"
+        },
+        {
+          "name": "Cabangahan",
+          "code": "061910009",
+          "psgc": "0601910009"
+        },
+        {
+          "name": "Cabugao",
+          "code": "061910008",
+          "psgc": "0601910008"
+        },
+        {
+          "name": "Cadio",
+          "code": "061910010",
+          "psgc": "0601910010"
+        },
+        {
+          "name": "Cala-an",
+          "code": "061910011",
+          "psgc": "0601910011"
+        },
+        {
+          "name": "Capagao",
+          "code": "061910012",
+          "psgc": "0601910012"
+        },
+        {
+          "name": "Cogon",
+          "code": "061910013",
+          "psgc": "0601910013"
+        },
+        {
+          "name": "Conciencia",
+          "code": "061910014",
+          "psgc": "0601910014"
+        },
+        {
+          "name": "Ensenagan",
+          "code": "061910015",
+          "psgc": "0601910015"
+        },
+        {
+          "name": "Intampilan",
+          "code": "061910016",
+          "psgc": "0601910016"
+        },
+        {
+          "name": "Pasugue",
+          "code": "061910017",
+          "psgc": "0601910017"
+        },
+        {
+          "name": "Poblacion Ilawod",
+          "code": "061910018",
+          "psgc": "0601910018"
+        },
+        {
+          "name": "Poblacion Ilaya",
+          "code": "061910019",
+          "psgc": "0601910019"
+        },
+        {
+          "name": "Quios",
+          "code": "061910020",
+          "psgc": "0601910020"
+        },
+        {
+          "name": "Salocon",
+          "code": "061910021",
+          "psgc": "0601910021"
+        },
+        {
+          "name": "Tabuc Norte",
+          "code": "061910022",
+          "psgc": "0601910022"
+        },
+        {
+          "name": "Tabuc Sur",
+          "code": "061910023",
+          "psgc": "0601910023"
+        },
+        {
+          "name": "Timpas",
+          "code": "061910024",
+          "psgc": "0601910024"
+        },
+        {
+          "name": "Tincupon",
+          "code": "061910025",
+          "psgc": "0601910025"
+        },
+        {
+          "name": "Tinigban",
+          "code": "061910026",
+          "psgc": "0601910026"
+        }
+      ]
+    },
+    {
+      "name": "Pilar",
+      "code": "061911000",
+      "psgc": "0601911000",
+      "barangays": [
+        {
+          "name": "Balogo",
+          "code": "061911001",
+          "psgc": "0601911001"
+        },
+        {
+          "name": "Binaobawan",
+          "code": "061911002",
+          "psgc": "0601911002"
+        },
+        {
+          "name": "Blasco",
+          "code": "061911003",
+          "psgc": "0601911003"
+        },
+        {
+          "name": "Casanayan",
+          "code": "061911004",
+          "psgc": "0601911004"
+        },
+        {
+          "name": "Cayus",
+          "code": "061911005",
+          "psgc": "0601911005"
+        },
+        {
+          "name": "Dayhagan",
+          "code": "061911006",
+          "psgc": "0601911006"
+        },
+        {
+          "name": "Dulangan",
+          "code": "061911007",
+          "psgc": "0601911007"
+        },
+        {
+          "name": "Monteflor",
+          "code": "061911010",
+          "psgc": "0601911010"
+        },
+        {
+          "name": "Natividad",
+          "code": "061911011",
+          "psgc": "0601911011"
+        },
+        {
+          "name": "Olalo",
+          "code": "061911012",
+          "psgc": "0601911012"
+        },
+        {
+          "name": "Poblacion",
+          "code": "061911013",
+          "psgc": "0601911013"
+        },
+        {
+          "name": "Rosario",
+          "code": "061911014",
+          "psgc": "0601911014"
+        },
+        {
+          "name": "San Antonio",
+          "code": "061911015",
+          "psgc": "0601911015"
+        },
+        {
+          "name": "San Blas",
+          "code": "061911016",
+          "psgc": "0601911016"
+        },
+        {
+          "name": "San Esteban",
+          "code": "061911017",
+          "psgc": "0601911017"
+        },
+        {
+          "name": "San Fernando",
+          "code": "061911018",
+          "psgc": "0601911018"
+        },
+        {
+          "name": "San Nicolas",
+          "code": "061911019",
+          "psgc": "0601911019"
+        },
+        {
+          "name": "San Pedro",
+          "code": "061911020",
+          "psgc": "0601911020"
+        },
+        {
+          "name": "San Ramon",
+          "code": "061911021",
+          "psgc": "0601911021"
+        },
+        {
+          "name": "San Silvestre",
+          "code": "061911022",
+          "psgc": "0601911022"
+        },
+        {
+          "name": "Santa Fe",
+          "code": "061911024",
+          "psgc": "0601911024"
+        },
+        {
+          "name": "Sinamongan",
+          "code": "061911023",
+          "psgc": "0601911023"
+        },
+        {
+          "name": "Tabun-acan",
+          "code": "061911025",
+          "psgc": "0601911025"
+        },
+        {
+          "name": "Yating",
+          "code": "061911026",
+          "psgc": "0601911026"
+        }
+      ]
+    },
+    {
+      "name": "Pontevedra",
+      "code": "061912000",
+      "psgc": "0601912000",
+      "barangays": [
+        {
+          "name": "Agbanog",
+          "code": "061912001",
+          "psgc": "0601912001"
+        },
+        {
+          "name": "Agdalipe",
+          "code": "061912002",
+          "psgc": "0601912002"
+        },
+        {
+          "name": "Ameligan",
+          "code": "061912003",
+          "psgc": "0601912003"
+        },
+        {
+          "name": "Bailan",
+          "code": "061912004",
+          "psgc": "0601912004"
+        },
+        {
+          "name": "Banate",
+          "code": "061912005",
+          "psgc": "0601912005"
+        },
+        {
+          "name": "Bantigue",
+          "code": "061912006",
+          "psgc": "0601912006"
+        },
+        {
+          "name": "Binuntucan",
+          "code": "061912007",
+          "psgc": "0601912007"
+        },
+        {
+          "name": "Cabugao",
+          "code": "061912008",
+          "psgc": "0601912008"
+        },
+        {
+          "name": "Gabuc",
+          "code": "061912009",
+          "psgc": "0601912009"
+        },
+        {
+          "name": "Guba",
+          "code": "061912011",
+          "psgc": "0601912011"
+        },
+        {
+          "name": "Hipona",
+          "code": "061912012",
+          "psgc": "0601912012"
+        },
+        {
+          "name": "Ilawod (Pob.)",
+          "code": "061912019",
+          "psgc": "0601912019"
+        },
+        {
+          "name": "Ilaya (Pob.)",
+          "code": "061912020",
+          "psgc": "0601912020"
+        },
+        {
+          "name": "Intungcan",
+          "code": "061912013",
+          "psgc": "0601912013"
+        },
+        {
+          "name": "Jolongajog",
+          "code": "061912014",
+          "psgc": "0601912014"
+        },
+        {
+          "name": "Lantangan",
+          "code": "061912015",
+          "psgc": "0601912015"
+        },
+        {
+          "name": "Linampongan",
+          "code": "061912016",
+          "psgc": "0601912016"
+        },
+        {
+          "name": "Malag-it",
+          "code": "061912017",
+          "psgc": "0601912017"
+        },
+        {
+          "name": "Manapao",
+          "code": "061912018",
+          "psgc": "0601912018"
+        },
+        {
+          "name": "Rizal",
+          "code": "061912021",
+          "psgc": "0601912021"
+        },
+        {
+          "name": "San Pedro",
+          "code": "061912022",
+          "psgc": "0601912022"
+        },
+        {
+          "name": "Solo",
+          "code": "061912023",
+          "psgc": "0601912023"
+        },
+        {
+          "name": "Sublangon",
+          "code": "061912024",
+          "psgc": "0601912024"
+        },
+        {
+          "name": "Tabuc",
+          "code": "061912025",
+          "psgc": "0601912025"
+        },
+        {
+          "name": "Tacas",
+          "code": "061912026",
+          "psgc": "0601912026"
+        },
+        {
+          "name": "Yatingan",
+          "code": "061912027",
+          "psgc": "0601912027"
+        }
+      ]
+    },
+    {
+      "name": "President Roxas",
+      "code": "061913000",
+      "psgc": "0601913000",
+      "barangays": [
+        {
+          "name": "Aranguel",
+          "code": "061913001",
+          "psgc": "0601913001"
+        },
+        {
+          "name": "Badiangon",
+          "code": "061913002",
+          "psgc": "0601913002"
+        },
+        {
+          "name": "Bayuyan",
+          "code": "061913003",
+          "psgc": "0601913003"
+        },
+        {
+          "name": "Cabugcabug",
+          "code": "061913004",
+          "psgc": "0601913004"
+        },
+        {
+          "name": "Carmencita",
+          "code": "061913005",
+          "psgc": "0601913005"
+        },
+        {
+          "name": "Cubay",
+          "code": "061913006",
+          "psgc": "0601913006"
+        },
+        {
+          "name": "Culilang",
+          "code": "061913007",
+          "psgc": "0601913007"
+        },
+        {
+          "name": "Goce",
+          "code": "061913008",
+          "psgc": "0601913008"
+        },
+        {
+          "name": "Hanglid",
+          "code": "061913009",
+          "psgc": "0601913009"
+        },
+        {
+          "name": "Ibaca",
+          "code": "061913010",
+          "psgc": "0601913010"
+        },
+        {
+          "name": "Madulano",
+          "code": "061913011",
+          "psgc": "0601913011"
+        },
+        {
+          "name": "Manoling",
+          "code": "061913012",
+          "psgc": "0601913012"
+        },
+        {
+          "name": "Marita",
+          "code": "061913013",
+          "psgc": "0601913013"
+        },
+        {
+          "name": "Pandan",
+          "code": "061913014",
+          "psgc": "0601913014"
+        },
+        {
+          "name": "Pantalan Cabugcabug",
+          "code": "061913015",
+          "psgc": "0601913015"
+        },
+        {
+          "name": "Pinamihagan",
+          "code": "061913016",
+          "psgc": "0601913016"
+        },
+        {
+          "name": "Poblacion",
+          "code": "061913017",
+          "psgc": "0601913017"
+        },
+        {
+          "name": "Pondol",
+          "code": "061913018",
+          "psgc": "0601913018"
+        },
+        {
+          "name": "Quiajo",
+          "code": "061913019",
+          "psgc": "0601913019"
+        },
+        {
+          "name": "Sangkal",
+          "code": "061913020",
+          "psgc": "0601913020"
+        },
+        {
+          "name": "Santo Niño",
+          "code": "061913021",
+          "psgc": "0601913021"
+        },
+        {
+          "name": "Vizcaya",
+          "code": "061913022",
+          "psgc": "0601913022"
+        }
+      ]
+    },
+    {
+      "name": "Sapi-An",
+      "code": "061915000",
+      "psgc": "0601915000",
+      "barangays": [
+        {
+          "name": "Agsilab",
+          "code": "061915001",
+          "psgc": "0601915001"
+        },
+        {
+          "name": "Agtatacay Norte",
+          "code": "061915002",
+          "psgc": "0601915002"
+        },
+        {
+          "name": "Agtatacay Sur",
+          "code": "061915003",
+          "psgc": "0601915003"
+        },
+        {
+          "name": "Bilao",
+          "code": "061915004",
+          "psgc": "0601915004"
+        },
+        {
+          "name": "Damayan",
+          "code": "061915005",
+          "psgc": "0601915005"
+        },
+        {
+          "name": "Dapdapan",
+          "code": "061915006",
+          "psgc": "0601915006"
+        },
+        {
+          "name": "Lonoy",
+          "code": "061915007",
+          "psgc": "0601915007"
+        },
+        {
+          "name": "Majanlud",
+          "code": "061915008",
+          "psgc": "0601915008"
+        },
+        {
+          "name": "Maninang",
+          "code": "061915009",
+          "psgc": "0601915009"
+        },
+        {
+          "name": "Poblacion",
+          "code": "061915010",
+          "psgc": "0601915010"
+        }
+      ]
+    },
+    {
+      "name": "Sigma",
+      "code": "061916000",
+      "psgc": "0601916000",
+      "barangays": [
+        {
+          "name": "Acbo",
+          "code": "061916001",
+          "psgc": "0601916001"
+        },
+        {
+          "name": "Amaga",
+          "code": "061916002",
+          "psgc": "0601916002"
+        },
+        {
+          "name": "Balucuan",
+          "code": "061916003",
+          "psgc": "0601916003"
+        },
+        {
+          "name": "Bangonbangon",
+          "code": "061916004",
+          "psgc": "0601916004"
+        },
+        {
+          "name": "Capuyhan",
+          "code": "061916005",
+          "psgc": "0601916005"
+        },
+        {
+          "name": "Cogon",
+          "code": "061916006",
+          "psgc": "0601916006"
+        },
+        {
+          "name": "Dayhagon",
+          "code": "061916007",
+          "psgc": "0601916007"
+        },
+        {
+          "name": "Guintas",
+          "code": "061916008",
+          "psgc": "0601916008"
+        },
+        {
+          "name": "Malapad Cogon",
+          "code": "061916009",
+          "psgc": "0601916009"
+        },
+        {
+          "name": "Mangoso",
+          "code": "061916010",
+          "psgc": "0601916010"
+        },
+        {
+          "name": "Mansacul",
+          "code": "061916011",
+          "psgc": "0601916011"
+        },
+        {
+          "name": "Matangcong",
+          "code": "061916012",
+          "psgc": "0601916012"
+        },
+        {
+          "name": "Matinabus",
+          "code": "061916013",
+          "psgc": "0601916013"
+        },
+        {
+          "name": "Mianay",
+          "code": "061916014",
+          "psgc": "0601916014"
+        },
+        {
+          "name": "Oyong",
+          "code": "061916015",
+          "psgc": "0601916015"
+        },
+        {
+          "name": "Pagbunitan",
+          "code": "061916016",
+          "psgc": "0601916016"
+        },
+        {
+          "name": "Parian",
+          "code": "061916017",
+          "psgc": "0601916017"
+        },
+        {
+          "name": "Pinamalatican",
+          "code": "061916018",
+          "psgc": "0601916018"
+        },
+        {
+          "name": "Poblacion Norte",
+          "code": "061916019",
+          "psgc": "0601916019"
+        },
+        {
+          "name": "Poblacion Sur",
+          "code": "061916020",
+          "psgc": "0601916020"
+        },
+        {
+          "name": "Tawog",
+          "code": "061916021",
+          "psgc": "0601916021"
+        }
+      ]
+    },
+    {
+      "name": "Tapaz",
+      "code": "061917000",
+      "psgc": "0601917000",
+      "barangays": [
+        {
+          "name": "Abangay",
+          "code": "061917001",
+          "psgc": "0601917001"
+        },
+        {
+          "name": "Acuña",
+          "code": "061917002",
+          "psgc": "0601917002"
+        },
+        {
+          "name": "Agcococ",
+          "code": "061917003",
+          "psgc": "0601917003"
+        },
+        {
+          "name": "Aglinab",
+          "code": "061917004",
+          "psgc": "0601917004"
+        },
+        {
+          "name": "Aglupacan",
+          "code": "061917005",
+          "psgc": "0601917005"
+        },
+        {
+          "name": "Agpalali",
+          "code": "061917006",
+          "psgc": "0601917006"
+        },
+        {
+          "name": "Apero",
+          "code": "061917007",
+          "psgc": "0601917007"
+        },
+        {
+          "name": "Artuz",
+          "code": "061917008",
+          "psgc": "0601917008"
+        },
+        {
+          "name": "Bag-Ong Barrio",
+          "code": "061917009",
+          "psgc": "0601917009"
+        },
+        {
+          "name": "Bato-bato",
+          "code": "061917010",
+          "psgc": "0601917010"
+        },
+        {
+          "name": "Buri",
+          "code": "061917011",
+          "psgc": "0601917011"
+        },
+        {
+          "name": "Camburanan",
+          "code": "061917012",
+          "psgc": "0601917012"
+        },
+        {
+          "name": "Candelaria",
+          "code": "061917013",
+          "psgc": "0601917013"
+        },
+        {
+          "name": "Carida",
+          "code": "061917014",
+          "psgc": "0601917014"
+        },
+        {
+          "name": "Cristina",
+          "code": "061917015",
+          "psgc": "0601917015"
+        },
+        {
+          "name": "Da-an Banwa",
+          "code": "061917016",
+          "psgc": "0601917016"
+        },
+        {
+          "name": "Da-an Norte",
+          "code": "061917017",
+          "psgc": "0601917017"
+        },
+        {
+          "name": "Da-an Sur",
+          "code": "061917018",
+          "psgc": "0601917018"
+        },
+        {
+          "name": "Garcia",
+          "code": "061917019",
+          "psgc": "0601917019"
+        },
+        {
+          "name": "Gebio-an",
+          "code": "061917020",
+          "psgc": "0601917020"
+        },
+        {
+          "name": "Hilwan",
+          "code": "061917021",
+          "psgc": "0601917021"
+        },
+        {
+          "name": "Initan",
+          "code": "061917022",
+          "psgc": "0601917022"
+        },
+        {
+          "name": "Katipunan",
+          "code": "061917023",
+          "psgc": "0601917023"
+        },
+        {
+          "name": "Lagdungan",
+          "code": "061917024",
+          "psgc": "0601917024"
+        },
+        {
+          "name": "Lahug",
+          "code": "061917025",
+          "psgc": "0601917025"
+        },
+        {
+          "name": "Libertad",
+          "code": "061917026",
+          "psgc": "0601917026"
+        },
+        {
+          "name": "Mabini",
+          "code": "061917027",
+          "psgc": "0601917027"
+        },
+        {
+          "name": "Maliao",
+          "code": "061917028",
+          "psgc": "0601917028"
+        },
+        {
+          "name": "Malitbog",
+          "code": "061917029",
+          "psgc": "0601917029"
+        },
+        {
+          "name": "Minan",
+          "code": "061917030",
+          "psgc": "0601917030"
+        },
+        {
+          "name": "Nayawan",
+          "code": "061917031",
+          "psgc": "0601917031"
+        },
+        {
+          "name": "Poblacion",
+          "code": "061917032",
+          "psgc": "0601917032"
+        },
+        {
+          "name": "Rizal Norte",
+          "code": "061917033",
+          "psgc": "0601917033"
+        },
+        {
+          "name": "Rizal Sur",
+          "code": "061917034",
+          "psgc": "0601917034"
+        },
+        {
+          "name": "Roosevelt",
+          "code": "061917035",
+          "psgc": "0601917035"
+        },
+        {
+          "name": "Roxas",
+          "code": "061917036",
+          "psgc": "0601917036"
+        },
+        {
+          "name": "Salong",
+          "code": "061917037",
+          "psgc": "0601917037"
+        },
+        {
+          "name": "San Antonio",
+          "code": "061917038",
+          "psgc": "0601917038"
+        },
+        {
+          "name": "San Francisco",
+          "code": "061917039",
+          "psgc": "0601917039"
+        },
+        {
+          "name": "San Jose",
+          "code": "061917041",
+          "psgc": "0601917041"
+        },
+        {
+          "name": "San Julian",
+          "code": "061917042",
+          "psgc": "0601917042"
+        },
+        {
+          "name": "San Miguel Ilawod",
+          "code": "061917043",
+          "psgc": "0601917043"
+        },
+        {
+          "name": "San Miguel Ilaya",
+          "code": "061917044",
+          "psgc": "0601917044"
+        },
+        {
+          "name": "San Nicolas",
+          "code": "061917045",
+          "psgc": "0601917045"
+        },
+        {
+          "name": "San Pedro",
+          "code": "061917046",
+          "psgc": "0601917046"
+        },
+        {
+          "name": "San Roque",
+          "code": "061917047",
+          "psgc": "0601917047"
+        },
+        {
+          "name": "San Vicente",
+          "code": "061917048",
+          "psgc": "0601917048"
+        },
+        {
+          "name": "Santa Ana",
+          "code": "061917049",
+          "psgc": "0601917049"
+        },
+        {
+          "name": "Santa Petronila",
+          "code": "061917050",
+          "psgc": "0601917050"
+        },
+        {
+          "name": "Senonod",
+          "code": "061917051",
+          "psgc": "0601917051"
+        },
+        {
+          "name": "Siya",
+          "code": "061917052",
+          "psgc": "0601917052"
+        },
+        {
+          "name": "Switch",
+          "code": "061917053",
+          "psgc": "0601917053"
+        },
+        {
+          "name": "Tabon",
+          "code": "061917054",
+          "psgc": "0601917054"
+        },
+        {
+          "name": "Tacayan",
+          "code": "061917055",
+          "psgc": "0601917055"
+        },
+        {
+          "name": "Taft",
+          "code": "061917056",
+          "psgc": "0601917056"
+        },
+        {
+          "name": "Taganghin",
+          "code": "061917057",
+          "psgc": "0601917057"
+        },
+        {
+          "name": "Taslan",
+          "code": "061917058",
+          "psgc": "0601917058"
+        },
+        {
+          "name": "Wright",
+          "code": "061917059",
+          "psgc": "0601917059"
+        }
+      ]
+    }
+  ]
+}

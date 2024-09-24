@@ -1,0 +1,4309 @@
+{
+  "province": "Cagayan",
+  "code": "021500000",
+  "cities": [
+    {
+      "name": "Abulug",
+      "code": "021501000",
+      "psgc": "0201501000",
+      "barangays": [
+        {
+          "name": "Alinunu",
+          "code": "021501001",
+          "psgc": "0201501001"
+        },
+        {
+          "name": "Bagu",
+          "code": "021501002",
+          "psgc": "0201501002"
+        },
+        {
+          "name": "Banguian",
+          "code": "021501003",
+          "psgc": "0201501003"
+        },
+        {
+          "name": "Calog Norte",
+          "code": "021501004",
+          "psgc": "0201501004"
+        },
+        {
+          "name": "Calog Sur",
+          "code": "021501005",
+          "psgc": "0201501005"
+        },
+        {
+          "name": "Canayun",
+          "code": "021501006",
+          "psgc": "0201501006"
+        },
+        {
+          "name": "Centro (Pob.)",
+          "code": "021501007",
+          "psgc": "0201501007"
+        },
+        {
+          "name": "Dana-Ili",
+          "code": "021501008",
+          "psgc": "0201501008"
+        },
+        {
+          "name": "Guiddam",
+          "code": "021501009",
+          "psgc": "0201501009"
+        },
+        {
+          "name": "Libertad",
+          "code": "021501010",
+          "psgc": "0201501010"
+        },
+        {
+          "name": "Lucban",
+          "code": "021501011",
+          "psgc": "0201501011"
+        },
+        {
+          "name": "Pinili",
+          "code": "021501012",
+          "psgc": "0201501012"
+        },
+        {
+          "name": "San Agustin",
+          "code": "021501018",
+          "psgc": "0201501018"
+        },
+        {
+          "name": "San Julian",
+          "code": "021501019",
+          "psgc": "0201501019"
+        },
+        {
+          "name": "Santa Filomena",
+          "code": "021501013",
+          "psgc": "0201501013"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "021501020",
+          "psgc": "0201501020"
+        },
+        {
+          "name": "Santo Tomas",
+          "code": "021501014",
+          "psgc": "0201501014"
+        },
+        {
+          "name": "Siguiran",
+          "code": "021501015",
+          "psgc": "0201501015"
+        },
+        {
+          "name": "Simayung",
+          "code": "021501016",
+          "psgc": "0201501016"
+        },
+        {
+          "name": "Sirit",
+          "code": "021501017",
+          "psgc": "0201501017"
+        }
+      ]
+    },
+    {
+      "name": "Alcala",
+      "code": "021502000",
+      "psgc": "0201502000",
+      "barangays": [
+        {
+          "name": "Abbeg",
+          "code": "021502001",
+          "psgc": "0201502001"
+        },
+        {
+          "name": "Afusing Bato",
+          "code": "021502002",
+          "psgc": "0201502002"
+        },
+        {
+          "name": "Afusing Daga",
+          "code": "021502003",
+          "psgc": "0201502003"
+        },
+        {
+          "name": "Agani",
+          "code": "021502004",
+          "psgc": "0201502004"
+        },
+        {
+          "name": "Baculod",
+          "code": "021502005",
+          "psgc": "0201502005"
+        },
+        {
+          "name": "Baybayog",
+          "code": "021502006",
+          "psgc": "0201502006"
+        },
+        {
+          "name": "Cabuluan",
+          "code": "021502007",
+          "psgc": "0201502007"
+        },
+        {
+          "name": "Calantac",
+          "code": "021502008",
+          "psgc": "0201502008"
+        },
+        {
+          "name": "Carallangan",
+          "code": "021502009",
+          "psgc": "0201502009"
+        },
+        {
+          "name": "Centro Norte (Pob.)",
+          "code": "021502010",
+          "psgc": "0201502010"
+        },
+        {
+          "name": "Centro Sur (Pob.)",
+          "code": "021502011",
+          "psgc": "0201502011"
+        },
+        {
+          "name": "Dalaoig",
+          "code": "021502012",
+          "psgc": "0201502012"
+        },
+        {
+          "name": "Damurog",
+          "code": "021502013",
+          "psgc": "0201502013"
+        },
+        {
+          "name": "Jurisdiction",
+          "code": "021502014",
+          "psgc": "0201502014"
+        },
+        {
+          "name": "Malalatan",
+          "code": "021502015",
+          "psgc": "0201502015"
+        },
+        {
+          "name": "Maraburab",
+          "code": "021502016",
+          "psgc": "0201502016"
+        },
+        {
+          "name": "Masin",
+          "code": "021502017",
+          "psgc": "0201502017"
+        },
+        {
+          "name": "Pagbangkeruan",
+          "code": "021502018",
+          "psgc": "0201502018"
+        },
+        {
+          "name": "Pared",
+          "code": "021502019",
+          "psgc": "0201502019"
+        },
+        {
+          "name": "Piggatan",
+          "code": "021502020",
+          "psgc": "0201502020"
+        },
+        {
+          "name": "Pinopoc",
+          "code": "021502021",
+          "psgc": "0201502021"
+        },
+        {
+          "name": "Pussian",
+          "code": "021502022",
+          "psgc": "0201502022"
+        },
+        {
+          "name": "San Esteban",
+          "code": "021502023",
+          "psgc": "0201502023"
+        },
+        {
+          "name": "Tamban",
+          "code": "021502024",
+          "psgc": "0201502024"
+        },
+        {
+          "name": "Tupang",
+          "code": "021502025",
+          "psgc": "0201502025"
+        }
+      ]
+    },
+    {
+      "name": "Allacapan",
+      "code": "021503000",
+      "psgc": "0201503000",
+      "barangays": [
+        {
+          "name": "Bessang",
+          "code": "021503001",
+          "psgc": "0201503001"
+        },
+        {
+          "name": "Binobongan",
+          "code": "021503002",
+          "psgc": "0201503002"
+        },
+        {
+          "name": "Bulo",
+          "code": "021503003",
+          "psgc": "0201503003"
+        },
+        {
+          "name": "Burot",
+          "code": "021503004",
+          "psgc": "0201503004"
+        },
+        {
+          "name": "Capagaran",
+          "code": "021503005",
+          "psgc": "0201503005"
+        },
+        {
+          "name": "Capalutan",
+          "code": "021503006",
+          "psgc": "0201503006"
+        },
+        {
+          "name": "Capanickian Norte",
+          "code": "021503007",
+          "psgc": "0201503007"
+        },
+        {
+          "name": "Capanickian Sur",
+          "code": "021503008",
+          "psgc": "0201503008"
+        },
+        {
+          "name": "Cataratan",
+          "code": "021503009",
+          "psgc": "0201503009"
+        },
+        {
+          "name": "Centro East (Pob.)",
+          "code": "021503010",
+          "psgc": "0201503010"
+        },
+        {
+          "name": "Centro West (Pob.)",
+          "code": "021503011",
+          "psgc": "0201503011"
+        },
+        {
+          "name": "Daan-Ili",
+          "code": "021503012",
+          "psgc": "0201503012"
+        },
+        {
+          "name": "Dagupan",
+          "code": "021503013",
+          "psgc": "0201503013"
+        },
+        {
+          "name": "Dalayap",
+          "code": "021503014",
+          "psgc": "0201503014"
+        },
+        {
+          "name": "Gagaddangan",
+          "code": "021503015",
+          "psgc": "0201503015"
+        },
+        {
+          "name": "Iringan",
+          "code": "021503016",
+          "psgc": "0201503016"
+        },
+        {
+          "name": "Labben",
+          "code": "021503017",
+          "psgc": "0201503017"
+        },
+        {
+          "name": "Maluyo",
+          "code": "021503018",
+          "psgc": "0201503018"
+        },
+        {
+          "name": "Mapurao",
+          "code": "021503019",
+          "psgc": "0201503019"
+        },
+        {
+          "name": "Matucay",
+          "code": "021503020",
+          "psgc": "0201503020"
+        },
+        {
+          "name": "Nagattatan",
+          "code": "021503021",
+          "psgc": "0201503021"
+        },
+        {
+          "name": "Pacac",
+          "code": "021503022",
+          "psgc": "0201503022"
+        },
+        {
+          "name": "San Juan",
+          "code": "021503023",
+          "psgc": "0201503023"
+        },
+        {
+          "name": "Silagan",
+          "code": "021503024",
+          "psgc": "0201503024"
+        },
+        {
+          "name": "Tamboli",
+          "code": "021503025",
+          "psgc": "0201503025"
+        },
+        {
+          "name": "Tubel",
+          "code": "021503026",
+          "psgc": "0201503026"
+        },
+        {
+          "name": "Utan",
+          "code": "021503027",
+          "psgc": "0201503027"
+        }
+      ]
+    },
+    {
+      "name": "Amulung",
+      "code": "021504000",
+      "psgc": "0201504000",
+      "barangays": [
+        {
+          "name": "Abolo",
+          "code": "021504001",
+          "psgc": "0201504001"
+        },
+        {
+          "name": "Agguirit",
+          "code": "021504002",
+          "psgc": "0201504002"
+        },
+        {
+          "name": "Alituntung",
+          "code": "021504003",
+          "psgc": "0201504003"
+        },
+        {
+          "name": "Annabuculan",
+          "code": "021504004",
+          "psgc": "0201504004"
+        },
+        {
+          "name": "Annafatan",
+          "code": "021504005",
+          "psgc": "0201504005"
+        },
+        {
+          "name": "Anquiray",
+          "code": "021504006",
+          "psgc": "0201504006"
+        },
+        {
+          "name": "Babayuan",
+          "code": "021504007",
+          "psgc": "0201504007"
+        },
+        {
+          "name": "Baccuit",
+          "code": "021504008",
+          "psgc": "0201504008"
+        },
+        {
+          "name": "Bacring",
+          "code": "021504009",
+          "psgc": "0201504009"
+        },
+        {
+          "name": "Baculud",
+          "code": "021504010",
+          "psgc": "0201504010"
+        },
+        {
+          "name": "Balauini",
+          "code": "021504011",
+          "psgc": "0201504011"
+        },
+        {
+          "name": "Bauan",
+          "code": "021504012",
+          "psgc": "0201504012"
+        },
+        {
+          "name": "Bayabat",
+          "code": "021504013",
+          "psgc": "0201504013"
+        },
+        {
+          "name": "Calamagui",
+          "code": "021504014",
+          "psgc": "0201504014"
+        },
+        {
+          "name": "Calintaan",
+          "code": "021504015",
+          "psgc": "0201504015"
+        },
+        {
+          "name": "Caratacat",
+          "code": "021504016",
+          "psgc": "0201504016"
+        },
+        {
+          "name": "Casingsingan Norte",
+          "code": "021504017",
+          "psgc": "0201504017"
+        },
+        {
+          "name": "Casingsingan Sur",
+          "code": "021504018",
+          "psgc": "0201504018"
+        },
+        {
+          "name": "Catarauan",
+          "code": "021504019",
+          "psgc": "0201504019"
+        },
+        {
+          "name": "Centro",
+          "code": "021504020",
+          "psgc": "0201504020"
+        },
+        {
+          "name": "Concepcion",
+          "code": "021504021",
+          "psgc": "0201504021"
+        },
+        {
+          "name": "Cordova",
+          "code": "021504022",
+          "psgc": "0201504022"
+        },
+        {
+          "name": "Dadda",
+          "code": "021504023",
+          "psgc": "0201504023"
+        },
+        {
+          "name": "Dafunganay",
+          "code": "021504024",
+          "psgc": "0201504024"
+        },
+        {
+          "name": "Dugayung",
+          "code": "021504025",
+          "psgc": "0201504025"
+        },
+        {
+          "name": "Estefania",
+          "code": "021504026",
+          "psgc": "0201504026"
+        },
+        {
+          "name": "Gabut",
+          "code": "021504027",
+          "psgc": "0201504027"
+        },
+        {
+          "name": "Gangauan",
+          "code": "021504028",
+          "psgc": "0201504028"
+        },
+        {
+          "name": "Goran",
+          "code": "021504029",
+          "psgc": "0201504029"
+        },
+        {
+          "name": "Jurisdiccion",
+          "code": "021504030",
+          "psgc": "0201504030"
+        },
+        {
+          "name": "La Suerte",
+          "code": "021504031",
+          "psgc": "0201504031"
+        },
+        {
+          "name": "Logung",
+          "code": "021504032",
+          "psgc": "0201504032"
+        },
+        {
+          "name": "Magogod",
+          "code": "021504033",
+          "psgc": "0201504033"
+        },
+        {
+          "name": "Manalo",
+          "code": "021504034",
+          "psgc": "0201504034"
+        },
+        {
+          "name": "Marobbob",
+          "code": "021504035",
+          "psgc": "0201504035"
+        },
+        {
+          "name": "Masical",
+          "code": "021504036",
+          "psgc": "0201504036"
+        },
+        {
+          "name": "Monte Alegre",
+          "code": "021504037",
+          "psgc": "0201504037"
+        },
+        {
+          "name": "Nabbialan",
+          "code": "021504038",
+          "psgc": "0201504038"
+        },
+        {
+          "name": "Nagsabaran",
+          "code": "021504039",
+          "psgc": "0201504039"
+        },
+        {
+          "name": "Nangalasauan",
+          "code": "021504040",
+          "psgc": "0201504040"
+        },
+        {
+          "name": "Nanuccauan",
+          "code": "021504041",
+          "psgc": "0201504041"
+        },
+        {
+          "name": "Pacac-Grande",
+          "code": "021504042",
+          "psgc": "0201504042"
+        },
+        {
+          "name": "Pacac-Pequeño",
+          "code": "021504043",
+          "psgc": "0201504043"
+        },
+        {
+          "name": "Palacu",
+          "code": "021504044",
+          "psgc": "0201504044"
+        },
+        {
+          "name": "Palayag",
+          "code": "021504045",
+          "psgc": "0201504045"
+        },
+        {
+          "name": "Tana",
+          "code": "021504046",
+          "psgc": "0201504046"
+        },
+        {
+          "name": "Unag",
+          "code": "021504047",
+          "psgc": "0201504047"
+        }
+      ]
+    },
+    {
+      "name": "Aparri",
+      "code": "021505000",
+      "psgc": "0201505000",
+      "barangays": [
+        {
+          "name": "Backiling",
+          "code": "021505001",
+          "psgc": "0201505001"
+        },
+        {
+          "name": "Bangag",
+          "code": "021505002",
+          "psgc": "0201505002"
+        },
+        {
+          "name": "Binalan",
+          "code": "021505003",
+          "psgc": "0201505003"
+        },
+        {
+          "name": "Bisagu",
+          "code": "021505004",
+          "psgc": "0201505004"
+        },
+        {
+          "name": "Bukig",
+          "code": "021505019",
+          "psgc": "0201505019"
+        },
+        {
+          "name": "Bulala Norte",
+          "code": "021505020",
+          "psgc": "0201505020"
+        },
+        {
+          "name": "Bulala Sur",
+          "code": "021505021",
+          "psgc": "0201505021"
+        },
+        {
+          "name": "Caagaman",
+          "code": "021505022",
+          "psgc": "0201505022"
+        },
+        {
+          "name": "Centro 1 (Pob.)",
+          "code": "021505005",
+          "psgc": "0201505005"
+        },
+        {
+          "name": "Centro 10 (Pob.)",
+          "code": "021505014",
+          "psgc": "0201505014"
+        },
+        {
+          "name": "Centro 11 (Pob.)",
+          "code": "021505015",
+          "psgc": "0201505015"
+        },
+        {
+          "name": "Centro 12 (Pob.)",
+          "code": "021505016",
+          "psgc": "0201505016"
+        },
+        {
+          "name": "Centro 13 (Pob.)",
+          "code": "021505017",
+          "psgc": "0201505017"
+        },
+        {
+          "name": "Centro 14 (Pob.)",
+          "code": "021505018",
+          "psgc": "0201505018"
+        },
+        {
+          "name": "Centro 15 (Pob.)",
+          "code": "021505023",
+          "psgc": "0201505023"
+        },
+        {
+          "name": "Centro 2 (Pob.)",
+          "code": "021505006",
+          "psgc": "0201505006"
+        },
+        {
+          "name": "Centro 3 (Pob.)",
+          "code": "021505007",
+          "psgc": "0201505007"
+        },
+        {
+          "name": "Centro 4 (Pob.)",
+          "code": "021505008",
+          "psgc": "0201505008"
+        },
+        {
+          "name": "Centro 5 (Pob.)",
+          "code": "021505009",
+          "psgc": "0201505009"
+        },
+        {
+          "name": "Centro 6 (Pob.)",
+          "code": "021505010",
+          "psgc": "0201505010"
+        },
+        {
+          "name": "Centro 7 (Pob.)",
+          "code": "021505011",
+          "psgc": "0201505011"
+        },
+        {
+          "name": "Centro 8 (Pob.)",
+          "code": "021505012",
+          "psgc": "0201505012"
+        },
+        {
+          "name": "Centro 9 (Pob.)",
+          "code": "021505013",
+          "psgc": "0201505013"
+        },
+        {
+          "name": "Dodan",
+          "code": "021505024",
+          "psgc": "0201505024"
+        },
+        {
+          "name": "Fuga Island",
+          "code": "021505025",
+          "psgc": "0201505025"
+        },
+        {
+          "name": "Gaddang",
+          "code": "021505026",
+          "psgc": "0201505026"
+        },
+        {
+          "name": "Linao",
+          "code": "021505027",
+          "psgc": "0201505027"
+        },
+        {
+          "name": "Mabanguc",
+          "code": "021505028",
+          "psgc": "0201505028"
+        },
+        {
+          "name": "Macanaya",
+          "code": "021505029",
+          "psgc": "0201505029"
+        },
+        {
+          "name": "Maura",
+          "code": "021505030",
+          "psgc": "0201505030"
+        },
+        {
+          "name": "Minanga",
+          "code": "021505031",
+          "psgc": "0201505031"
+        },
+        {
+          "name": "Navagan",
+          "code": "021505032",
+          "psgc": "0201505032"
+        },
+        {
+          "name": "Paddaya",
+          "code": "021505033",
+          "psgc": "0201505033"
+        },
+        {
+          "name": "Paruddun Norte",
+          "code": "021505034",
+          "psgc": "0201505034"
+        },
+        {
+          "name": "Paruddun Sur",
+          "code": "021505035",
+          "psgc": "0201505035"
+        },
+        {
+          "name": "Plaza",
+          "code": "021505036",
+          "psgc": "0201505036"
+        },
+        {
+          "name": "Punta",
+          "code": "021505037",
+          "psgc": "0201505037"
+        },
+        {
+          "name": "San Antonio",
+          "code": "021505038",
+          "psgc": "0201505038"
+        },
+        {
+          "name": "Sanja",
+          "code": "021505041",
+          "psgc": "0201505041"
+        },
+        {
+          "name": "Tallungan",
+          "code": "021505039",
+          "psgc": "0201505039"
+        },
+        {
+          "name": "Toran",
+          "code": "021505040",
+          "psgc": "0201505040"
+        },
+        {
+          "name": "Zinarag",
+          "code": "021505042",
+          "psgc": "0201505042"
+        }
+      ]
+    },
+    {
+      "name": "Baggao",
+      "code": "021506000",
+      "psgc": "0201506000",
+      "barangays": [
+        {
+          "name": "Adaoag",
+          "code": "021506001",
+          "psgc": "0201506001"
+        },
+        {
+          "name": "Agaman",
+          "code": "021506002",
+          "psgc": "0201506002"
+        },
+        {
+          "name": "Agaman Norte",
+          "code": "021506047",
+          "psgc": "0201506047"
+        },
+        {
+          "name": "Agaman Sur",
+          "code": "021506048",
+          "psgc": "0201506048"
+        },
+        {
+          "name": "Alba",
+          "code": "021506003",
+          "psgc": "0201506003"
+        },
+        {
+          "name": "Annayatan",
+          "code": "021506004",
+          "psgc": "0201506004"
+        },
+        {
+          "name": "Asassi",
+          "code": "021506005",
+          "psgc": "0201506005"
+        },
+        {
+          "name": "Asinga-Via",
+          "code": "021506006",
+          "psgc": "0201506006"
+        },
+        {
+          "name": "Awallan",
+          "code": "021506007",
+          "psgc": "0201506007"
+        },
+        {
+          "name": "Bacagan",
+          "code": "021506008",
+          "psgc": "0201506008"
+        },
+        {
+          "name": "Bagunot",
+          "code": "021506009",
+          "psgc": "0201506009"
+        },
+        {
+          "name": "Barsat East",
+          "code": "021506011",
+          "psgc": "0201506011"
+        },
+        {
+          "name": "Barsat West",
+          "code": "021506012",
+          "psgc": "0201506012"
+        },
+        {
+          "name": "Bitag Grande",
+          "code": "021506013",
+          "psgc": "0201506013"
+        },
+        {
+          "name": "Bitag Pequeño",
+          "code": "021506014",
+          "psgc": "0201506014"
+        },
+        {
+          "name": "Bunugan",
+          "code": "021506015",
+          "psgc": "0201506015"
+        },
+        {
+          "name": "C. Verzosa",
+          "code": "021506049",
+          "psgc": "0201506049"
+        },
+        {
+          "name": "Canagatan",
+          "code": "021506016",
+          "psgc": "0201506016"
+        },
+        {
+          "name": "Carupian",
+          "code": "021506017",
+          "psgc": "0201506017"
+        },
+        {
+          "name": "Catugay",
+          "code": "021506018",
+          "psgc": "0201506018"
+        },
+        {
+          "name": "Dabbac Grande",
+          "code": "021506020",
+          "psgc": "0201506020"
+        },
+        {
+          "name": "Dalin",
+          "code": "021506021",
+          "psgc": "0201506021"
+        },
+        {
+          "name": "Dalla",
+          "code": "021506022",
+          "psgc": "0201506022"
+        },
+        {
+          "name": "Hacienda Intal",
+          "code": "021506023",
+          "psgc": "0201506023"
+        },
+        {
+          "name": "Ibulo",
+          "code": "021506024",
+          "psgc": "0201506024"
+        },
+        {
+          "name": "Imurong",
+          "code": "021506025",
+          "psgc": "0201506025"
+        },
+        {
+          "name": "J. Pallagao",
+          "code": "021506026",
+          "psgc": "0201506026"
+        },
+        {
+          "name": "Lasilat",
+          "code": "021506027",
+          "psgc": "0201506027"
+        },
+        {
+          "name": "Mabini",
+          "code": "021506046",
+          "psgc": "0201506046"
+        },
+        {
+          "name": "Masical",
+          "code": "021506028",
+          "psgc": "0201506028"
+        },
+        {
+          "name": "Mocag",
+          "code": "021506029",
+          "psgc": "0201506029"
+        },
+        {
+          "name": "Nangalinan",
+          "code": "021506030",
+          "psgc": "0201506030"
+        },
+        {
+          "name": "Poblacion",
+          "code": "021506019",
+          "psgc": "0201506019"
+        },
+        {
+          "name": "Remus",
+          "code": "021506031",
+          "psgc": "0201506031"
+        },
+        {
+          "name": "San Antonio",
+          "code": "021506032",
+          "psgc": "0201506032"
+        },
+        {
+          "name": "San Francisco",
+          "code": "021506033",
+          "psgc": "0201506033"
+        },
+        {
+          "name": "San Isidro",
+          "code": "021506034",
+          "psgc": "0201506034"
+        },
+        {
+          "name": "San Jose",
+          "code": "021506035",
+          "psgc": "0201506035"
+        },
+        {
+          "name": "San Miguel",
+          "code": "021506036",
+          "psgc": "0201506036"
+        },
+        {
+          "name": "San Vicente",
+          "code": "021506037",
+          "psgc": "0201506037"
+        },
+        {
+          "name": "Santa Margarita",
+          "code": "021506038",
+          "psgc": "0201506038"
+        },
+        {
+          "name": "Santor",
+          "code": "021506039",
+          "psgc": "0201506039"
+        },
+        {
+          "name": "Taguing",
+          "code": "021506040",
+          "psgc": "0201506040"
+        },
+        {
+          "name": "Taguntungan",
+          "code": "021506041",
+          "psgc": "0201506041"
+        },
+        {
+          "name": "Tallang",
+          "code": "021506042",
+          "psgc": "0201506042"
+        },
+        {
+          "name": "Taytay",
+          "code": "021506044",
+          "psgc": "0201506044"
+        },
+        {
+          "name": "Temblique",
+          "code": "021506043",
+          "psgc": "0201506043"
+        },
+        {
+          "name": "Tungel",
+          "code": "021506045",
+          "psgc": "0201506045"
+        }
+      ]
+    },
+    {
+      "name": "Ballesteros",
+      "code": "021507000",
+      "psgc": "0201507000",
+      "barangays": [
+        {
+          "name": "Ammubuan",
+          "code": "021507001",
+          "psgc": "0201507001"
+        },
+        {
+          "name": "Baran",
+          "code": "021507002",
+          "psgc": "0201507002"
+        },
+        {
+          "name": "Cabaritan East",
+          "code": "021507003",
+          "psgc": "0201507003"
+        },
+        {
+          "name": "Cabaritan West",
+          "code": "021507004",
+          "psgc": "0201507004"
+        },
+        {
+          "name": "Cabayu",
+          "code": "021507005",
+          "psgc": "0201507005"
+        },
+        {
+          "name": "Cabuluan East",
+          "code": "021507006",
+          "psgc": "0201507006"
+        },
+        {
+          "name": "Cabuluan West",
+          "code": "021507007",
+          "psgc": "0201507007"
+        },
+        {
+          "name": "Centro East (Pob.)",
+          "code": "021507008",
+          "psgc": "0201507008"
+        },
+        {
+          "name": "Centro West (Pob.)",
+          "code": "021507009",
+          "psgc": "0201507009"
+        },
+        {
+          "name": "Fugu",
+          "code": "021507010",
+          "psgc": "0201507010"
+        },
+        {
+          "name": "Mabuttal East",
+          "code": "021507012",
+          "psgc": "0201507012"
+        },
+        {
+          "name": "Mabuttal West",
+          "code": "021507013",
+          "psgc": "0201507013"
+        },
+        {
+          "name": "Nararagan",
+          "code": "021507014",
+          "psgc": "0201507014"
+        },
+        {
+          "name": "Palloc",
+          "code": "021507015",
+          "psgc": "0201507015"
+        },
+        {
+          "name": "Payagan East",
+          "code": "021507017",
+          "psgc": "0201507017"
+        },
+        {
+          "name": "Payagan West",
+          "code": "021507018",
+          "psgc": "0201507018"
+        },
+        {
+          "name": "San Juan",
+          "code": "021507019",
+          "psgc": "0201507019"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "021507020",
+          "psgc": "0201507020"
+        },
+        {
+          "name": "Zitanga",
+          "code": "021507021",
+          "psgc": "0201507021"
+        }
+      ]
+    },
+    {
+      "name": "Buguey",
+      "code": "021508000",
+      "psgc": "0201508000",
+      "barangays": [
+        {
+          "name": "Alucao Weste",
+          "code": "021508025",
+          "psgc": "0201508025"
+        },
+        {
+          "name": "Ballang",
+          "code": "021508001",
+          "psgc": "0201508001"
+        },
+        {
+          "name": "Balza",
+          "code": "021508002",
+          "psgc": "0201508002"
+        },
+        {
+          "name": "Cabaritan",
+          "code": "021508003",
+          "psgc": "0201508003"
+        },
+        {
+          "name": "Calamegatan",
+          "code": "021508004",
+          "psgc": "0201508004"
+        },
+        {
+          "name": "Centro (Pob.)",
+          "code": "021508005",
+          "psgc": "0201508005"
+        },
+        {
+          "name": "Centro West",
+          "code": "021508006",
+          "psgc": "0201508006"
+        },
+        {
+          "name": "Dalaya",
+          "code": "021508007",
+          "psgc": "0201508007"
+        },
+        {
+          "name": "Fula",
+          "code": "021508008",
+          "psgc": "0201508008"
+        },
+        {
+          "name": "Leron",
+          "code": "021508009",
+          "psgc": "0201508009"
+        },
+        {
+          "name": "M. Antiporda",
+          "code": "021508010",
+          "psgc": "0201508010"
+        },
+        {
+          "name": "Maddalero",
+          "code": "021508011",
+          "psgc": "0201508011"
+        },
+        {
+          "name": "Mala Este",
+          "code": "021508012",
+          "psgc": "0201508012"
+        },
+        {
+          "name": "Mala Weste",
+          "code": "021508013",
+          "psgc": "0201508013"
+        },
+        {
+          "name": "Minanga Este",
+          "code": "021508014",
+          "psgc": "0201508014"
+        },
+        {
+          "name": "Minanga Weste",
+          "code": "021508026",
+          "psgc": "0201508026"
+        },
+        {
+          "name": "Paddaya Este",
+          "code": "021508015",
+          "psgc": "0201508015"
+        },
+        {
+          "name": "Paddaya Weste",
+          "code": "021508027",
+          "psgc": "0201508027"
+        },
+        {
+          "name": "Pattao",
+          "code": "021508016",
+          "psgc": "0201508016"
+        },
+        {
+          "name": "Quinawegan",
+          "code": "021508018",
+          "psgc": "0201508018"
+        },
+        {
+          "name": "Remebella",
+          "code": "021508019",
+          "psgc": "0201508019"
+        },
+        {
+          "name": "San Isidro",
+          "code": "021508020",
+          "psgc": "0201508020"
+        },
+        {
+          "name": "San Juan",
+          "code": "021508028",
+          "psgc": "0201508028"
+        },
+        {
+          "name": "San Vicente",
+          "code": "021508029",
+          "psgc": "0201508029"
+        },
+        {
+          "name": "Santa Isabel",
+          "code": "021508021",
+          "psgc": "0201508021"
+        },
+        {
+          "name": "Santa Maria",
+          "code": "021508022",
+          "psgc": "0201508022"
+        },
+        {
+          "name": "Tabbac",
+          "code": "021508023",
+          "psgc": "0201508023"
+        },
+        {
+          "name": "Villa Cielo",
+          "code": "021508024",
+          "psgc": "0201508024"
+        },
+        {
+          "name": "Villa Gracia",
+          "code": "021508030",
+          "psgc": "0201508030"
+        },
+        {
+          "name": "Villa Leonora",
+          "code": "021508031",
+          "psgc": "0201508031"
+        }
+      ]
+    },
+    {
+      "name": "Calayan",
+      "code": "021509000",
+      "psgc": "0201509000",
+      "barangays": [
+        {
+          "name": "Babuyan Claro",
+          "code": "021509009",
+          "psgc": "0201509009"
+        },
+        {
+          "name": "Balatubat",
+          "code": "021509002",
+          "psgc": "0201509002"
+        },
+        {
+          "name": "Cabudadan",
+          "code": "021509001",
+          "psgc": "0201509001"
+        },
+        {
+          "name": "Centro II",
+          "code": "021509010",
+          "psgc": "0201509010"
+        },
+        {
+          "name": "Dadao",
+          "code": "021509003",
+          "psgc": "0201509003"
+        },
+        {
+          "name": "Dalupiri",
+          "code": "021509011",
+          "psgc": "0201509011"
+        },
+        {
+          "name": "Dibay",
+          "code": "021509004",
+          "psgc": "0201509004"
+        },
+        {
+          "name": "Dilam",
+          "code": "021509005",
+          "psgc": "0201509005"
+        },
+        {
+          "name": "Magsidel",
+          "code": "021509006",
+          "psgc": "0201509006"
+        },
+        {
+          "name": "Minabel",
+          "code": "021509012",
+          "psgc": "0201509012"
+        },
+        {
+          "name": "Naguilian",
+          "code": "021509007",
+          "psgc": "0201509007"
+        },
+        {
+          "name": "Poblacion",
+          "code": "021509008",
+          "psgc": "0201509008"
+        }
+      ]
+    },
+    {
+      "name": "Camalaniugan",
+      "code": "021510000",
+      "psgc": "0201510000",
+      "barangays": [
+        {
+          "name": "Abagao",
+          "code": "021510001",
+          "psgc": "0201510001"
+        },
+        {
+          "name": "Afunan Cabayu",
+          "code": "021510002",
+          "psgc": "0201510002"
+        },
+        {
+          "name": "Agusi",
+          "code": "021510003",
+          "psgc": "0201510003"
+        },
+        {
+          "name": "Alilinu",
+          "code": "021510004",
+          "psgc": "0201510004"
+        },
+        {
+          "name": "Baggao",
+          "code": "021510005",
+          "psgc": "0201510005"
+        },
+        {
+          "name": "Bantay",
+          "code": "021510006",
+          "psgc": "0201510006"
+        },
+        {
+          "name": "Bulala",
+          "code": "021510007",
+          "psgc": "0201510007"
+        },
+        {
+          "name": "Casili Norte",
+          "code": "021510009",
+          "psgc": "0201510009"
+        },
+        {
+          "name": "Casili Sur",
+          "code": "021510026",
+          "psgc": "0201510026"
+        },
+        {
+          "name": "Catotoran Norte",
+          "code": "021510010",
+          "psgc": "0201510010"
+        },
+        {
+          "name": "Catotoran Sur",
+          "code": "021510027",
+          "psgc": "0201510027"
+        },
+        {
+          "name": "Centro Norte (Pob.)",
+          "code": "021510011",
+          "psgc": "0201510011"
+        },
+        {
+          "name": "Centro Sur (Pob.)",
+          "code": "021510012",
+          "psgc": "0201510012"
+        },
+        {
+          "name": "Cullit",
+          "code": "021510013",
+          "psgc": "0201510013"
+        },
+        {
+          "name": "Dacal-Lafugu",
+          "code": "021510014",
+          "psgc": "0201510014"
+        },
+        {
+          "name": "Dammang Norte",
+          "code": "021510015",
+          "psgc": "0201510015"
+        },
+        {
+          "name": "Dammang Sur",
+          "code": "021510028",
+          "psgc": "0201510028"
+        },
+        {
+          "name": "Dugo",
+          "code": "021510016",
+          "psgc": "0201510016"
+        },
+        {
+          "name": "Fusina",
+          "code": "021510017",
+          "psgc": "0201510017"
+        },
+        {
+          "name": "Gang-ngo",
+          "code": "021510018",
+          "psgc": "0201510018"
+        },
+        {
+          "name": "Jurisdiccion",
+          "code": "021510019",
+          "psgc": "0201510019"
+        },
+        {
+          "name": "Luec",
+          "code": "021510020",
+          "psgc": "0201510020"
+        },
+        {
+          "name": "Minanga",
+          "code": "021510021",
+          "psgc": "0201510021"
+        },
+        {
+          "name": "Paragat",
+          "code": "021510022",
+          "psgc": "0201510022"
+        },
+        {
+          "name": "Sapping",
+          "code": "021510029",
+          "psgc": "0201510029"
+        },
+        {
+          "name": "Tagum",
+          "code": "021510023",
+          "psgc": "0201510023"
+        },
+        {
+          "name": "Tuluttuging",
+          "code": "021510024",
+          "psgc": "0201510024"
+        },
+        {
+          "name": "Ziminila",
+          "code": "021510025",
+          "psgc": "0201510025"
+        }
+      ]
+    },
+    {
+      "name": "Claveria",
+      "code": "021511000",
+      "psgc": "0201511000",
+      "barangays": [
+        {
+          "name": "Alimoan",
+          "code": "021511001",
+          "psgc": "0201511001"
+        },
+        {
+          "name": "Bacsay Cataraoan Norte",
+          "code": "021511002",
+          "psgc": "0201511002"
+        },
+        {
+          "name": "Bacsay Cataraoan Sur",
+          "code": "021511030",
+          "psgc": "0201511030"
+        },
+        {
+          "name": "Bacsay Mapulapula",
+          "code": "021511003",
+          "psgc": "0201511003"
+        },
+        {
+          "name": "Bilibigao",
+          "code": "021511004",
+          "psgc": "0201511004"
+        },
+        {
+          "name": "Buenavista",
+          "code": "021511005",
+          "psgc": "0201511005"
+        },
+        {
+          "name": "Cadcadir East",
+          "code": "021511006",
+          "psgc": "0201511006"
+        },
+        {
+          "name": "Cadcadir West",
+          "code": "021511031",
+          "psgc": "0201511031"
+        },
+        {
+          "name": "Camalaggoan/D Leaño",
+          "code": "021511032",
+          "psgc": "0201511032"
+        },
+        {
+          "name": "Capannikian",
+          "code": "021511007",
+          "psgc": "0201511007"
+        },
+        {
+          "name": "Centro I (Pob.)",
+          "code": "021511008",
+          "psgc": "0201511008"
+        },
+        {
+          "name": "Centro II (Pob.)",
+          "code": "021511009",
+          "psgc": "0201511009"
+        },
+        {
+          "name": "Centro III",
+          "code": "021511033",
+          "psgc": "0201511033"
+        },
+        {
+          "name": "Centro IV",
+          "code": "021511021",
+          "psgc": "0201511021"
+        },
+        {
+          "name": "Centro V",
+          "code": "021511034",
+          "psgc": "0201511034"
+        },
+        {
+          "name": "Centro VI",
+          "code": "021511019",
+          "psgc": "0201511019"
+        },
+        {
+          "name": "Centro VII",
+          "code": "021511017",
+          "psgc": "0201511017"
+        },
+        {
+          "name": "Centro VIII",
+          "code": "021511035",
+          "psgc": "0201511035"
+        },
+        {
+          "name": "Culao",
+          "code": "021511010",
+          "psgc": "0201511010"
+        },
+        {
+          "name": "Dibalio",
+          "code": "021511011",
+          "psgc": "0201511011"
+        },
+        {
+          "name": "Kilkiling",
+          "code": "021511012",
+          "psgc": "0201511012"
+        },
+        {
+          "name": "Lablabig",
+          "code": "021511013",
+          "psgc": "0201511013"
+        },
+        {
+          "name": "Luzon",
+          "code": "021511014",
+          "psgc": "0201511014"
+        },
+        {
+          "name": "Mabnang",
+          "code": "021511015",
+          "psgc": "0201511015"
+        },
+        {
+          "name": "Magdalena",
+          "code": "021511016",
+          "psgc": "0201511016"
+        },
+        {
+          "name": "Malilitao",
+          "code": "021511018",
+          "psgc": "0201511018"
+        },
+        {
+          "name": "Nagsabaran",
+          "code": "021511020",
+          "psgc": "0201511020"
+        },
+        {
+          "name": "Pata East",
+          "code": "021511022",
+          "psgc": "0201511022"
+        },
+        {
+          "name": "Pata West",
+          "code": "021511036",
+          "psgc": "0201511036"
+        },
+        {
+          "name": "Pinas",
+          "code": "021511023",
+          "psgc": "0201511023"
+        },
+        {
+          "name": "San Antonio",
+          "code": "021511037",
+          "psgc": "0201511037"
+        },
+        {
+          "name": "San Isidro",
+          "code": "021511038",
+          "psgc": "0201511038"
+        },
+        {
+          "name": "San Vicente",
+          "code": "021511039",
+          "psgc": "0201511039"
+        },
+        {
+          "name": "Santa Maria",
+          "code": "021511026",
+          "psgc": "0201511026"
+        },
+        {
+          "name": "Santiago",
+          "code": "021511024",
+          "psgc": "0201511024"
+        },
+        {
+          "name": "Santo Niño",
+          "code": "021511040",
+          "psgc": "0201511040"
+        },
+        {
+          "name": "Santo Tomas",
+          "code": "021511025",
+          "psgc": "0201511025"
+        },
+        {
+          "name": "Tabbugan",
+          "code": "021511027",
+          "psgc": "0201511027"
+        },
+        {
+          "name": "Taggat Norte",
+          "code": "021511028",
+          "psgc": "0201511028"
+        },
+        {
+          "name": "Taggat Sur",
+          "code": "021511041",
+          "psgc": "0201511041"
+        },
+        {
+          "name": "Union",
+          "code": "021511029",
+          "psgc": "0201511029"
+        }
+      ]
+    },
+    {
+      "name": "Enrile",
+      "code": "021512000",
+      "psgc": "0201512000",
+      "barangays": [
+        {
+          "name": "Alibago",
+          "code": "021512001",
+          "psgc": "0201512001"
+        },
+        {
+          "name": "Barangay I (Pob.)",
+          "code": "021512002",
+          "psgc": "0201512002"
+        },
+        {
+          "name": "Barangay II (Pob.)",
+          "code": "021512003",
+          "psgc": "0201512003"
+        },
+        {
+          "name": "Barangay III",
+          "code": "021512006",
+          "psgc": "0201512006"
+        },
+        {
+          "name": "Barangay III-A",
+          "code": "021512021",
+          "psgc": "0201512021"
+        },
+        {
+          "name": "Barangay IV (Pob.)",
+          "code": "021512019",
+          "psgc": "0201512019"
+        },
+        {
+          "name": "Batu",
+          "code": "021512022",
+          "psgc": "0201512022"
+        },
+        {
+          "name": "Divisoria",
+          "code": "021512007",
+          "psgc": "0201512007"
+        },
+        {
+          "name": "Inga",
+          "code": "021512008",
+          "psgc": "0201512008"
+        },
+        {
+          "name": "Lanna",
+          "code": "021512009",
+          "psgc": "0201512009"
+        },
+        {
+          "name": "Lemu Norte",
+          "code": "021512010",
+          "psgc": "0201512010"
+        },
+        {
+          "name": "Lemu Sur",
+          "code": "021512023",
+          "psgc": "0201512023"
+        },
+        {
+          "name": "Liwan Norte",
+          "code": "021512011",
+          "psgc": "0201512011"
+        },
+        {
+          "name": "Liwan Sur",
+          "code": "021512012",
+          "psgc": "0201512012"
+        },
+        {
+          "name": "Maddarulug Norte",
+          "code": "021512013",
+          "psgc": "0201512013"
+        },
+        {
+          "name": "Maddarulug Sur",
+          "code": "021512024",
+          "psgc": "0201512024"
+        },
+        {
+          "name": "Magalalag East",
+          "code": "021512014",
+          "psgc": "0201512014"
+        },
+        {
+          "name": "Magalalag West",
+          "code": "021512025",
+          "psgc": "0201512025"
+        },
+        {
+          "name": "Maracuru",
+          "code": "021512015",
+          "psgc": "0201512015"
+        },
+        {
+          "name": "Roma Norte",
+          "code": "021512020",
+          "psgc": "0201512020"
+        },
+        {
+          "name": "Roma Sur",
+          "code": "021512026",
+          "psgc": "0201512026"
+        },
+        {
+          "name": "San Antonio",
+          "code": "021512027",
+          "psgc": "0201512027"
+        }
+      ]
+    },
+    {
+      "name": "Gattaran",
+      "code": "021513000",
+      "psgc": "0201513000",
+      "barangays": [
+        {
+          "name": "Abra",
+          "code": "021513001",
+          "psgc": "0201513001"
+        },
+        {
+          "name": "Aguiguican",
+          "code": "021513005",
+          "psgc": "0201513005"
+        },
+        {
+          "name": "Bangatan Ngagan",
+          "code": "021513006",
+          "psgc": "0201513006"
+        },
+        {
+          "name": "Baracaoit",
+          "code": "021513007",
+          "psgc": "0201513007"
+        },
+        {
+          "name": "Baraoidan",
+          "code": "021513008",
+          "psgc": "0201513008"
+        },
+        {
+          "name": "Barbarit",
+          "code": "021513009",
+          "psgc": "0201513009"
+        },
+        {
+          "name": "Basao",
+          "code": "021513010",
+          "psgc": "0201513010"
+        },
+        {
+          "name": "Bolos Point",
+          "code": "021513056",
+          "psgc": "0201513056"
+        },
+        {
+          "name": "Cabayu",
+          "code": "021513011",
+          "psgc": "0201513011"
+        },
+        {
+          "name": "Calaoagan Bassit",
+          "code": "021513012",
+          "psgc": "0201513012"
+        },
+        {
+          "name": "Calaoagan Dackel",
+          "code": "021513013",
+          "psgc": "0201513013"
+        },
+        {
+          "name": "Capiddigan",
+          "code": "021513014",
+          "psgc": "0201513014"
+        },
+        {
+          "name": "Capissayan Norte",
+          "code": "021513015",
+          "psgc": "0201513015"
+        },
+        {
+          "name": "Capissayan Sur",
+          "code": "021513016",
+          "psgc": "0201513016"
+        },
+        {
+          "name": "Casicallan Norte",
+          "code": "021513019",
+          "psgc": "0201513019"
+        },
+        {
+          "name": "Casicallan Sur",
+          "code": "021513018",
+          "psgc": "0201513018"
+        },
+        {
+          "name": "Centro Norte (Pob.)",
+          "code": "021513020",
+          "psgc": "0201513020"
+        },
+        {
+          "name": "Centro Sur (Pob.)",
+          "code": "021513021",
+          "psgc": "0201513021"
+        },
+        {
+          "name": "Cullit",
+          "code": "021513022",
+          "psgc": "0201513022"
+        },
+        {
+          "name": "Cumao",
+          "code": "021513023",
+          "psgc": "0201513023"
+        },
+        {
+          "name": "Cunig",
+          "code": "021513024",
+          "psgc": "0201513024"
+        },
+        {
+          "name": "Dummun",
+          "code": "021513025",
+          "psgc": "0201513025"
+        },
+        {
+          "name": "Fugu",
+          "code": "021513026",
+          "psgc": "0201513026"
+        },
+        {
+          "name": "Ganzano",
+          "code": "021513027",
+          "psgc": "0201513027"
+        },
+        {
+          "name": "Guising",
+          "code": "021513028",
+          "psgc": "0201513028"
+        },
+        {
+          "name": "L. Adviento",
+          "code": "021513031",
+          "psgc": "0201513031"
+        },
+        {
+          "name": "Langgan",
+          "code": "021513029",
+          "psgc": "0201513029"
+        },
+        {
+          "name": "Lapogan",
+          "code": "021513030",
+          "psgc": "0201513030"
+        },
+        {
+          "name": "Mabuno",
+          "code": "021513033",
+          "psgc": "0201513033"
+        },
+        {
+          "name": "Nabaccayan",
+          "code": "021513035",
+          "psgc": "0201513035"
+        },
+        {
+          "name": "Naddungan",
+          "code": "021513036",
+          "psgc": "0201513036"
+        },
+        {
+          "name": "Nagatutuan",
+          "code": "021513037",
+          "psgc": "0201513037"
+        },
+        {
+          "name": "Nassiping",
+          "code": "021513038",
+          "psgc": "0201513038"
+        },
+        {
+          "name": "Newagac",
+          "code": "021513039",
+          "psgc": "0201513039"
+        },
+        {
+          "name": "Palagao Norte",
+          "code": "021513040",
+          "psgc": "0201513040"
+        },
+        {
+          "name": "Palagao Sur",
+          "code": "021513041",
+          "psgc": "0201513041"
+        },
+        {
+          "name": "Piña Este",
+          "code": "021513042",
+          "psgc": "0201513042"
+        },
+        {
+          "name": "Piña Weste",
+          "code": "021513043",
+          "psgc": "0201513043"
+        },
+        {
+          "name": "San Carlos",
+          "code": "021513057",
+          "psgc": "0201513057"
+        },
+        {
+          "name": "San Vicente",
+          "code": "021513044",
+          "psgc": "0201513044"
+        },
+        {
+          "name": "Santa Maria",
+          "code": "021513045",
+          "psgc": "0201513045"
+        },
+        {
+          "name": "Sidem",
+          "code": "021513046",
+          "psgc": "0201513046"
+        },
+        {
+          "name": "Sta. Ana",
+          "code": "021513047",
+          "psgc": "0201513047"
+        },
+        {
+          "name": "T. Elizaga",
+          "code": "021513052",
+          "psgc": "0201513052"
+        },
+        {
+          "name": "Tagumay",
+          "code": "021513048",
+          "psgc": "0201513048"
+        },
+        {
+          "name": "Takiki",
+          "code": "021513049",
+          "psgc": "0201513049"
+        },
+        {
+          "name": "Taligan",
+          "code": "021513050",
+          "psgc": "0201513050"
+        },
+        {
+          "name": "Tanglagan",
+          "code": "021513051",
+          "psgc": "0201513051"
+        },
+        {
+          "name": "Tubungan Este",
+          "code": "021513053",
+          "psgc": "0201513053"
+        },
+        {
+          "name": "Tubungan Weste",
+          "code": "021513054",
+          "psgc": "0201513054"
+        }
+      ]
+    },
+    {
+      "name": "Gonzaga",
+      "code": "021514000",
+      "psgc": "0201514000",
+      "barangays": [
+        {
+          "name": "Amunitan",
+          "code": "021514001",
+          "psgc": "0201514001"
+        },
+        {
+          "name": "Batangan",
+          "code": "021514002",
+          "psgc": "0201514002"
+        },
+        {
+          "name": "Baua",
+          "code": "021514003",
+          "psgc": "0201514003"
+        },
+        {
+          "name": "Cabanbanan Norte",
+          "code": "021514004",
+          "psgc": "0201514004"
+        },
+        {
+          "name": "Cabanbanan Sur",
+          "code": "021514005",
+          "psgc": "0201514005"
+        },
+        {
+          "name": "Cabiraoan",
+          "code": "021514006",
+          "psgc": "0201514006"
+        },
+        {
+          "name": "Calayan",
+          "code": "021514008",
+          "psgc": "0201514008"
+        },
+        {
+          "name": "Callao",
+          "code": "021514007",
+          "psgc": "0201514007"
+        },
+        {
+          "name": "Caroan",
+          "code": "021514009",
+          "psgc": "0201514009"
+        },
+        {
+          "name": "Casitan",
+          "code": "021514010",
+          "psgc": "0201514010"
+        },
+        {
+          "name": "Flourishing (Pob.)",
+          "code": "021514011",
+          "psgc": "0201514011"
+        },
+        {
+          "name": "Ipil",
+          "code": "021514012",
+          "psgc": "0201514012"
+        },
+        {
+          "name": "Isca",
+          "code": "021514013",
+          "psgc": "0201514013"
+        },
+        {
+          "name": "Magrafil",
+          "code": "021514014",
+          "psgc": "0201514014"
+        },
+        {
+          "name": "Minanga",
+          "code": "021514015",
+          "psgc": "0201514015"
+        },
+        {
+          "name": "Paradise (Pob.)",
+          "code": "021514017",
+          "psgc": "0201514017"
+        },
+        {
+          "name": "Pateng",
+          "code": "021514018",
+          "psgc": "0201514018"
+        },
+        {
+          "name": "Progressive (Pob.)",
+          "code": "021514019",
+          "psgc": "0201514019"
+        },
+        {
+          "name": "Rebecca",
+          "code": "021514016",
+          "psgc": "0201514016"
+        },
+        {
+          "name": "San Jose",
+          "code": "021514020",
+          "psgc": "0201514020"
+        },
+        {
+          "name": "Santa Clara",
+          "code": "021514021",
+          "psgc": "0201514021"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "021514022",
+          "psgc": "0201514022"
+        },
+        {
+          "name": "Santa Maria",
+          "code": "021514023",
+          "psgc": "0201514023"
+        },
+        {
+          "name": "Smart (Pob.)",
+          "code": "021514024",
+          "psgc": "0201514024"
+        },
+        {
+          "name": "Tapel",
+          "code": "021514025",
+          "psgc": "0201514025"
+        }
+      ]
+    },
+    {
+      "name": "Iguig",
+      "code": "021515000",
+      "psgc": "0201515000",
+      "barangays": [
+        {
+          "name": "Ajat (Pob.)",
+          "code": "021515001",
+          "psgc": "0201515001"
+        },
+        {
+          "name": "Atulu",
+          "code": "021515002",
+          "psgc": "0201515002"
+        },
+        {
+          "name": "Baculud",
+          "code": "021515003",
+          "psgc": "0201515003"
+        },
+        {
+          "name": "Bayo",
+          "code": "021515004",
+          "psgc": "0201515004"
+        },
+        {
+          "name": "Campo",
+          "code": "021515005",
+          "psgc": "0201515005"
+        },
+        {
+          "name": "Dumpao",
+          "code": "021515007",
+          "psgc": "0201515007"
+        },
+        {
+          "name": "Gammad",
+          "code": "021515009",
+          "psgc": "0201515009"
+        },
+        {
+          "name": "Garab",
+          "code": "021515011",
+          "psgc": "0201515011"
+        },
+        {
+          "name": "Malabbac",
+          "code": "021515013",
+          "psgc": "0201515013"
+        },
+        {
+          "name": "Manaoag",
+          "code": "021515014",
+          "psgc": "0201515014"
+        },
+        {
+          "name": "Minanga Norte",
+          "code": "021515015",
+          "psgc": "0201515015"
+        },
+        {
+          "name": "Minanga Sur",
+          "code": "021515016",
+          "psgc": "0201515016"
+        },
+        {
+          "name": "Nattanzan (Pob.)",
+          "code": "021515017",
+          "psgc": "0201515017"
+        },
+        {
+          "name": "Redondo",
+          "code": "021515018",
+          "psgc": "0201515018"
+        },
+        {
+          "name": "Salamague",
+          "code": "021515019",
+          "psgc": "0201515019"
+        },
+        {
+          "name": "San Esteban",
+          "code": "021515006",
+          "psgc": "0201515006"
+        },
+        {
+          "name": "San Isidro",
+          "code": "021515020",
+          "psgc": "0201515020"
+        },
+        {
+          "name": "San Lorenzo",
+          "code": "021515021",
+          "psgc": "0201515021"
+        },
+        {
+          "name": "San Vicente",
+          "code": "021515025",
+          "psgc": "0201515025"
+        },
+        {
+          "name": "Santa Barbara",
+          "code": "021515022",
+          "psgc": "0201515022"
+        },
+        {
+          "name": "Santa Rosa",
+          "code": "021515023",
+          "psgc": "0201515023"
+        },
+        {
+          "name": "Santa Teresa",
+          "code": "021515010",
+          "psgc": "0201515010"
+        },
+        {
+          "name": "Santiago",
+          "code": "021515024",
+          "psgc": "0201515024"
+        }
+      ]
+    },
+    {
+      "name": "Lal-Lo",
+      "code": "021516000",
+      "psgc": "0201516000",
+      "barangays": [
+        {
+          "name": "Abagao",
+          "code": "021516001",
+          "psgc": "0201516001"
+        },
+        {
+          "name": "Alaguia",
+          "code": "021516002",
+          "psgc": "0201516002"
+        },
+        {
+          "name": "Bagumbayan",
+          "code": "021516003",
+          "psgc": "0201516003"
+        },
+        {
+          "name": "Bangag",
+          "code": "021516004",
+          "psgc": "0201516004"
+        },
+        {
+          "name": "Bical",
+          "code": "021516005",
+          "psgc": "0201516005"
+        },
+        {
+          "name": "Bicud",
+          "code": "021516006",
+          "psgc": "0201516006"
+        },
+        {
+          "name": "Binag",
+          "code": "021516007",
+          "psgc": "0201516007"
+        },
+        {
+          "name": "Cabayabasan",
+          "code": "021516008",
+          "psgc": "0201516008"
+        },
+        {
+          "name": "Cagoran",
+          "code": "021516009",
+          "psgc": "0201516009"
+        },
+        {
+          "name": "Cambong",
+          "code": "021516010",
+          "psgc": "0201516010"
+        },
+        {
+          "name": "Catayauan",
+          "code": "021516011",
+          "psgc": "0201516011"
+        },
+        {
+          "name": "Catugan",
+          "code": "021516012",
+          "psgc": "0201516012"
+        },
+        {
+          "name": "Centro (Pob.)",
+          "code": "021516013",
+          "psgc": "0201516013"
+        },
+        {
+          "name": "Cullit",
+          "code": "021516014",
+          "psgc": "0201516014"
+        },
+        {
+          "name": "Dagupan",
+          "code": "021516015",
+          "psgc": "0201516015"
+        },
+        {
+          "name": "Dalaya",
+          "code": "021516016",
+          "psgc": "0201516016"
+        },
+        {
+          "name": "Fabrica",
+          "code": "021516017",
+          "psgc": "0201516017"
+        },
+        {
+          "name": "Fusina",
+          "code": "021516018",
+          "psgc": "0201516018"
+        },
+        {
+          "name": "Jurisdiction",
+          "code": "021516019",
+          "psgc": "0201516019"
+        },
+        {
+          "name": "Lalafugan",
+          "code": "021516020",
+          "psgc": "0201516020"
+        },
+        {
+          "name": "Logac",
+          "code": "021516021",
+          "psgc": "0201516021"
+        },
+        {
+          "name": "Magallungon (Sta. Teresa)",
+          "code": "021516022",
+          "psgc": "0201516022"
+        },
+        {
+          "name": "Magapit",
+          "code": "021516023",
+          "psgc": "0201516023"
+        },
+        {
+          "name": "Malanao",
+          "code": "021516024",
+          "psgc": "0201516024"
+        },
+        {
+          "name": "Maxingal",
+          "code": "021516025",
+          "psgc": "0201516025"
+        },
+        {
+          "name": "Naguilian",
+          "code": "021516026",
+          "psgc": "0201516026"
+        },
+        {
+          "name": "Paranum",
+          "code": "021516027",
+          "psgc": "0201516027"
+        },
+        {
+          "name": "Rosario",
+          "code": "021516028",
+          "psgc": "0201516028"
+        },
+        {
+          "name": "San Antonio",
+          "code": "021516029",
+          "psgc": "0201516029"
+        },
+        {
+          "name": "San Jose",
+          "code": "021516030",
+          "psgc": "0201516030"
+        },
+        {
+          "name": "San Juan",
+          "code": "021516031",
+          "psgc": "0201516031"
+        },
+        {
+          "name": "San Lorenzo",
+          "code": "021516032",
+          "psgc": "0201516032"
+        },
+        {
+          "name": "San Mariano",
+          "code": "021516033",
+          "psgc": "0201516033"
+        },
+        {
+          "name": "Sta. Maria",
+          "code": "021516034",
+          "psgc": "0201516034"
+        },
+        {
+          "name": "Tucalana",
+          "code": "021516035",
+          "psgc": "0201516035"
+        }
+      ]
+    },
+    {
+      "name": "Lasam",
+      "code": "021517000",
+      "psgc": "0201517000",
+      "barangays": [
+        {
+          "name": "Aggunetan",
+          "code": "021517001",
+          "psgc": "0201517001"
+        },
+        {
+          "name": "Alannay",
+          "code": "021517002",
+          "psgc": "0201517002"
+        },
+        {
+          "name": "Battalan",
+          "code": "021517003",
+          "psgc": "0201517003"
+        },
+        {
+          "name": "Cabatacan East",
+          "code": "021517027",
+          "psgc": "0201517027"
+        },
+        {
+          "name": "Cabatacan West",
+          "code": "021517028",
+          "psgc": "0201517028"
+        },
+        {
+          "name": "Calapangan Norte",
+          "code": "021517005",
+          "psgc": "0201517005"
+        },
+        {
+          "name": "Calapangan Sur",
+          "code": "021517006",
+          "psgc": "0201517006"
+        },
+        {
+          "name": "Callao Norte",
+          "code": "021517007",
+          "psgc": "0201517007"
+        },
+        {
+          "name": "Callao Sur",
+          "code": "021517008",
+          "psgc": "0201517008"
+        },
+        {
+          "name": "Cataliganan",
+          "code": "021517009",
+          "psgc": "0201517009"
+        },
+        {
+          "name": "Centro I (Pob.)",
+          "code": "021517021",
+          "psgc": "0201517021"
+        },
+        {
+          "name": "Centro II (Pob.)",
+          "code": "021517031",
+          "psgc": "0201517031"
+        },
+        {
+          "name": "Centro III (Pob.)",
+          "code": "021517032",
+          "psgc": "0201517032"
+        },
+        {
+          "name": "Finugo Norte",
+          "code": "021517010",
+          "psgc": "0201517010"
+        },
+        {
+          "name": "Gabun",
+          "code": "021517012",
+          "psgc": "0201517012"
+        },
+        {
+          "name": "Ignacio Jurado",
+          "code": "021517013",
+          "psgc": "0201517013"
+        },
+        {
+          "name": "Magsaysay",
+          "code": "021517014",
+          "psgc": "0201517014"
+        },
+        {
+          "name": "Malinta",
+          "code": "021517015",
+          "psgc": "0201517015"
+        },
+        {
+          "name": "Minanga Norte",
+          "code": "021517017",
+          "psgc": "0201517017"
+        },
+        {
+          "name": "Minanga Sur",
+          "code": "021517016",
+          "psgc": "0201517016"
+        },
+        {
+          "name": "Nabannagan East",
+          "code": "021517029",
+          "psgc": "0201517029"
+        },
+        {
+          "name": "Nabannagan West",
+          "code": "021517030",
+          "psgc": "0201517030"
+        },
+        {
+          "name": "New Orlins",
+          "code": "021517033",
+          "psgc": "0201517033"
+        },
+        {
+          "name": "Nicolas Agatep",
+          "code": "021517019",
+          "psgc": "0201517019"
+        },
+        {
+          "name": "Peru",
+          "code": "021517020",
+          "psgc": "0201517020"
+        },
+        {
+          "name": "San Pedro",
+          "code": "021517022",
+          "psgc": "0201517022"
+        },
+        {
+          "name": "Sicalao",
+          "code": "021517023",
+          "psgc": "0201517023"
+        },
+        {
+          "name": "Tagao",
+          "code": "021517024",
+          "psgc": "0201517024"
+        },
+        {
+          "name": "Tucalan Passing",
+          "code": "021517025",
+          "psgc": "0201517025"
+        },
+        {
+          "name": "Viga",
+          "code": "021517026",
+          "psgc": "0201517026"
+        }
+      ]
+    },
+    {
+      "name": "Pamplona",
+      "code": "021518000",
+      "psgc": "0201518000",
+      "barangays": [
+        {
+          "name": "Abanqueruan",
+          "code": "021518001",
+          "psgc": "0201518001"
+        },
+        {
+          "name": "Allasitan",
+          "code": "021518002",
+          "psgc": "0201518002"
+        },
+        {
+          "name": "Bagu",
+          "code": "021518003",
+          "psgc": "0201518003"
+        },
+        {
+          "name": "Balingit",
+          "code": "021518004",
+          "psgc": "0201518004"
+        },
+        {
+          "name": "Bidduang",
+          "code": "021518005",
+          "psgc": "0201518005"
+        },
+        {
+          "name": "Cabaggan",
+          "code": "021518006",
+          "psgc": "0201518006"
+        },
+        {
+          "name": "Capalalian",
+          "code": "021518007",
+          "psgc": "0201518007"
+        },
+        {
+          "name": "Casitan",
+          "code": "021518008",
+          "psgc": "0201518008"
+        },
+        {
+          "name": "Centro (Pob.)",
+          "code": "021518009",
+          "psgc": "0201518009"
+        },
+        {
+          "name": "Curva",
+          "code": "021518010",
+          "psgc": "0201518010"
+        },
+        {
+          "name": "Gattu",
+          "code": "021518011",
+          "psgc": "0201518011"
+        },
+        {
+          "name": "Masi",
+          "code": "021518012",
+          "psgc": "0201518012"
+        },
+        {
+          "name": "Nagattatan",
+          "code": "021518013",
+          "psgc": "0201518013"
+        },
+        {
+          "name": "Nagtupacan",
+          "code": "021518014",
+          "psgc": "0201518014"
+        },
+        {
+          "name": "San Juan",
+          "code": "021518015",
+          "psgc": "0201518015"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "021518016",
+          "psgc": "0201518016"
+        },
+        {
+          "name": "Tabba",
+          "code": "021518017",
+          "psgc": "0201518017"
+        },
+        {
+          "name": "Tupanna",
+          "code": "021518018",
+          "psgc": "0201518018"
+        }
+      ]
+    },
+    {
+      "name": "Peñablanca",
+      "code": "021519000",
+      "psgc": "0201519000",
+      "barangays": [
+        {
+          "name": "Aggugaddan",
+          "code": "021519001",
+          "psgc": "0201519001"
+        },
+        {
+          "name": "Alimannao",
+          "code": "021519002",
+          "psgc": "0201519002"
+        },
+        {
+          "name": "Baliuag",
+          "code": "021519003",
+          "psgc": "0201519003"
+        },
+        {
+          "name": "Bical",
+          "code": "021519004",
+          "psgc": "0201519004"
+        },
+        {
+          "name": "Bugatay",
+          "code": "021519005",
+          "psgc": "0201519005"
+        },
+        {
+          "name": "Buyun",
+          "code": "021519006",
+          "psgc": "0201519006"
+        },
+        {
+          "name": "Cabasan",
+          "code": "021519007",
+          "psgc": "0201519007"
+        },
+        {
+          "name": "Cabbo",
+          "code": "021519008",
+          "psgc": "0201519008"
+        },
+        {
+          "name": "Callao",
+          "code": "021519009",
+          "psgc": "0201519009"
+        },
+        {
+          "name": "Camasi",
+          "code": "021519010",
+          "psgc": "0201519010"
+        },
+        {
+          "name": "Centro (Pob.)",
+          "code": "021519011",
+          "psgc": "0201519011"
+        },
+        {
+          "name": "Dodan",
+          "code": "021519012",
+          "psgc": "0201519012"
+        },
+        {
+          "name": "Lapi",
+          "code": "021519013",
+          "psgc": "0201519013"
+        },
+        {
+          "name": "Malibabag",
+          "code": "021519015",
+          "psgc": "0201519015"
+        },
+        {
+          "name": "Manga",
+          "code": "021519016",
+          "psgc": "0201519016"
+        },
+        {
+          "name": "Minanga",
+          "code": "021519017",
+          "psgc": "0201519017"
+        },
+        {
+          "name": "Nabbabalayan",
+          "code": "021519018",
+          "psgc": "0201519018"
+        },
+        {
+          "name": "Nanguilattan",
+          "code": "021519019",
+          "psgc": "0201519019"
+        },
+        {
+          "name": "Nannarian",
+          "code": "021519020",
+          "psgc": "0201519020"
+        },
+        {
+          "name": "Parabba",
+          "code": "021519021",
+          "psgc": "0201519021"
+        },
+        {
+          "name": "Patagueleg",
+          "code": "021519022",
+          "psgc": "0201519022"
+        },
+        {
+          "name": "Quibal",
+          "code": "021519023",
+          "psgc": "0201519023"
+        },
+        {
+          "name": "San Roque",
+          "code": "021519024",
+          "psgc": "0201519024"
+        },
+        {
+          "name": "Sisim",
+          "code": "021519025",
+          "psgc": "0201519025"
+        }
+      ]
+    },
+    {
+      "name": "Piat",
+      "code": "021520000",
+      "psgc": "0201520000",
+      "barangays": [
+        {
+          "name": "Apayao",
+          "code": "021520001",
+          "psgc": "0201520001"
+        },
+        {
+          "name": "Aquib",
+          "code": "021520002",
+          "psgc": "0201520002"
+        },
+        {
+          "name": "Baung",
+          "code": "021520016",
+          "psgc": "0201520016"
+        },
+        {
+          "name": "Calaoagan",
+          "code": "021520017",
+          "psgc": "0201520017"
+        },
+        {
+          "name": "Catarauan",
+          "code": "021520018",
+          "psgc": "0201520018"
+        },
+        {
+          "name": "Dugayung",
+          "code": "021520003",
+          "psgc": "0201520003"
+        },
+        {
+          "name": "Gumarueng",
+          "code": "021520004",
+          "psgc": "0201520004"
+        },
+        {
+          "name": "Macapil",
+          "code": "021520005",
+          "psgc": "0201520005"
+        },
+        {
+          "name": "Maguilling",
+          "code": "021520006",
+          "psgc": "0201520006"
+        },
+        {
+          "name": "Minanga",
+          "code": "021520007",
+          "psgc": "0201520007"
+        },
+        {
+          "name": "Poblacion I",
+          "code": "021520008",
+          "psgc": "0201520008"
+        },
+        {
+          "name": "Poblacion II",
+          "code": "021520019",
+          "psgc": "0201520019"
+        },
+        {
+          "name": "Santa Barbara",
+          "code": "021520011",
+          "psgc": "0201520011"
+        },
+        {
+          "name": "Santo Domingo",
+          "code": "021520012",
+          "psgc": "0201520012"
+        },
+        {
+          "name": "Sicatna",
+          "code": "021520013",
+          "psgc": "0201520013"
+        },
+        {
+          "name": "Villa Rey",
+          "code": "021520014",
+          "psgc": "0201520014"
+        },
+        {
+          "name": "Villa Reyno",
+          "code": "021520020",
+          "psgc": "0201520020"
+        },
+        {
+          "name": "Warat",
+          "code": "021520015",
+          "psgc": "0201520015"
+        }
+      ]
+    },
+    {
+      "name": "Rizal",
+      "code": "021521000",
+      "psgc": "0201521000",
+      "barangays": [
+        {
+          "name": "Anagguan",
+          "code": "021521001",
+          "psgc": "0201521001"
+        },
+        {
+          "name": "Anungu",
+          "code": "021521003",
+          "psgc": "0201521003"
+        },
+        {
+          "name": "Anurturu",
+          "code": "021521002",
+          "psgc": "0201521002"
+        },
+        {
+          "name": "Baluncanag",
+          "code": "021521004",
+          "psgc": "0201521004"
+        },
+        {
+          "name": "Battut",
+          "code": "021521026",
+          "psgc": "0201521026"
+        },
+        {
+          "name": "Batu",
+          "code": "021521005",
+          "psgc": "0201521005"
+        },
+        {
+          "name": "Bural",
+          "code": "021521027",
+          "psgc": "0201521027"
+        },
+        {
+          "name": "Cambabangan",
+          "code": "021521006",
+          "psgc": "0201521006"
+        },
+        {
+          "name": "Capacuan",
+          "code": "021521007",
+          "psgc": "0201521007"
+        },
+        {
+          "name": "Dunggan",
+          "code": "021521008",
+          "psgc": "0201521008"
+        },
+        {
+          "name": "Duyun",
+          "code": "021521009",
+          "psgc": "0201521009"
+        },
+        {
+          "name": "Gaddangao",
+          "code": "021521010",
+          "psgc": "0201521010"
+        },
+        {
+          "name": "Gaggabutan East",
+          "code": "021521011",
+          "psgc": "0201521011"
+        },
+        {
+          "name": "Gaggabutan West",
+          "code": "021521028",
+          "psgc": "0201521028"
+        },
+        {
+          "name": "Illuru Norte",
+          "code": "021521012",
+          "psgc": "0201521012"
+        },
+        {
+          "name": "Illuru Sur",
+          "code": "021521029",
+          "psgc": "0201521029"
+        },
+        {
+          "name": "Lattut",
+          "code": "021521013",
+          "psgc": "0201521013"
+        },
+        {
+          "name": "Linno",
+          "code": "021521014",
+          "psgc": "0201521014"
+        },
+        {
+          "name": "Liwan",
+          "code": "021521015",
+          "psgc": "0201521015"
+        },
+        {
+          "name": "Mabbang",
+          "code": "021521016",
+          "psgc": "0201521016"
+        },
+        {
+          "name": "Masi",
+          "code": "021521018",
+          "psgc": "0201521018"
+        },
+        {
+          "name": "Mauanan",
+          "code": "021521017",
+          "psgc": "0201521017"
+        },
+        {
+          "name": "Minanga",
+          "code": "021521019",
+          "psgc": "0201521019"
+        },
+        {
+          "name": "Nanauatan",
+          "code": "021521020",
+          "psgc": "0201521020"
+        },
+        {
+          "name": "Nanungaran",
+          "code": "021521021",
+          "psgc": "0201521021"
+        },
+        {
+          "name": "Pasingan",
+          "code": "021521022",
+          "psgc": "0201521022"
+        },
+        {
+          "name": "Poblacion",
+          "code": "021521023",
+          "psgc": "0201521023"
+        },
+        {
+          "name": "San Juan",
+          "code": "021521024",
+          "psgc": "0201521024"
+        },
+        {
+          "name": "Sinicking",
+          "code": "021521025",
+          "psgc": "0201521025"
+        }
+      ]
+    },
+    {
+      "name": "Sanchez-Mira",
+      "code": "021522000",
+      "psgc": "0201522000",
+      "barangays": [
+        {
+          "name": "Bangan",
+          "code": "021522001",
+          "psgc": "0201522001"
+        },
+        {
+          "name": "Callungan",
+          "code": "021522002",
+          "psgc": "0201522002"
+        },
+        {
+          "name": "Centro I (Pob.)",
+          "code": "021522003",
+          "psgc": "0201522003"
+        },
+        {
+          "name": "Centro II (Pob.)",
+          "code": "021522004",
+          "psgc": "0201522004"
+        },
+        {
+          "name": "Dacal",
+          "code": "021522005",
+          "psgc": "0201522005"
+        },
+        {
+          "name": "Dagueray",
+          "code": "021522006",
+          "psgc": "0201522006"
+        },
+        {
+          "name": "Dammang",
+          "code": "021522008",
+          "psgc": "0201522008"
+        },
+        {
+          "name": "Kittag",
+          "code": "021522009",
+          "psgc": "0201522009"
+        },
+        {
+          "name": "Langagan",
+          "code": "021522010",
+          "psgc": "0201522010"
+        },
+        {
+          "name": "Magacan",
+          "code": "021522011",
+          "psgc": "0201522011"
+        },
+        {
+          "name": "Marzan",
+          "code": "021522012",
+          "psgc": "0201522012"
+        },
+        {
+          "name": "Masisit",
+          "code": "021522013",
+          "psgc": "0201522013"
+        },
+        {
+          "name": "Nagrangtayan",
+          "code": "021522014",
+          "psgc": "0201522014"
+        },
+        {
+          "name": "Namuac",
+          "code": "021522015",
+          "psgc": "0201522015"
+        },
+        {
+          "name": "San Andres",
+          "code": "021522016",
+          "psgc": "0201522016"
+        },
+        {
+          "name": "Santiago",
+          "code": "021522017",
+          "psgc": "0201522017"
+        },
+        {
+          "name": "Santor",
+          "code": "021522018",
+          "psgc": "0201522018"
+        },
+        {
+          "name": "Tokitok",
+          "code": "021522019",
+          "psgc": "0201522019"
+        }
+      ]
+    },
+    {
+      "name": "Santa Ana",
+      "code": "021523000",
+      "psgc": "0201523000",
+      "barangays": [
+        {
+          "name": "Batu-Parada",
+          "code": "021523009",
+          "psgc": "0201523009"
+        },
+        {
+          "name": "Casagan",
+          "code": "021523001",
+          "psgc": "0201523001"
+        },
+        {
+          "name": "Casambalangan",
+          "code": "021523002",
+          "psgc": "0201523002"
+        },
+        {
+          "name": "Centro (Pob.)",
+          "code": "021523003",
+          "psgc": "0201523003"
+        },
+        {
+          "name": "Diora-Zinungan",
+          "code": "021523004",
+          "psgc": "0201523004"
+        },
+        {
+          "name": "Dungeg",
+          "code": "021523005",
+          "psgc": "0201523005"
+        },
+        {
+          "name": "Kapanikian",
+          "code": "021523006",
+          "psgc": "0201523006"
+        },
+        {
+          "name": "Marede",
+          "code": "021523007",
+          "psgc": "0201523007"
+        },
+        {
+          "name": "Palawig",
+          "code": "021523008",
+          "psgc": "0201523008"
+        },
+        {
+          "name": "Patunungan",
+          "code": "021523010",
+          "psgc": "0201523010"
+        },
+        {
+          "name": "Rapuli",
+          "code": "021523011",
+          "psgc": "0201523011"
+        },
+        {
+          "name": "San Vicente",
+          "code": "021523012",
+          "psgc": "0201523012"
+        },
+        {
+          "name": "Santa Clara",
+          "code": "021523013",
+          "psgc": "0201523013"
+        },
+        {
+          "name": "Santa Cruz",
+          "code": "021523014",
+          "psgc": "0201523014"
+        },
+        {
+          "name": "Tangatan",
+          "code": "021523016",
+          "psgc": "0201523016"
+        },
+        {
+          "name": "Visitacion (Pob.)",
+          "code": "021523015",
+          "psgc": "0201523015"
+        }
+      ]
+    },
+    {
+      "name": "Santa Praxedes",
+      "code": "021524000",
+      "psgc": "0201524000",
+      "barangays": [
+        {
+          "name": "Cadongdongan",
+          "code": "021524001",
+          "psgc": "0201524001"
+        },
+        {
+          "name": "Capacuan",
+          "code": "021524002",
+          "psgc": "0201524002"
+        },
+        {
+          "name": "Centro I (Pob.)",
+          "code": "021524003",
+          "psgc": "0201524003"
+        },
+        {
+          "name": "Centro II (Pob.)",
+          "code": "021524004",
+          "psgc": "0201524004"
+        },
+        {
+          "name": "Macatel",
+          "code": "021524005",
+          "psgc": "0201524005"
+        },
+        {
+          "name": "Portabaga",
+          "code": "021524008",
+          "psgc": "0201524008"
+        },
+        {
+          "name": "Salungsong",
+          "code": "021524011",
+          "psgc": "0201524011"
+        },
+        {
+          "name": "San Juan",
+          "code": "021524009",
+          "psgc": "0201524009"
+        },
+        {
+          "name": "San Miguel",
+          "code": "021524010",
+          "psgc": "0201524010"
+        },
+        {
+          "name": "Sicul",
+          "code": "021524012",
+          "psgc": "0201524012"
+        }
+      ]
+    },
+    {
+      "name": "Santa Teresita",
+      "code": "021525000",
+      "psgc": "0201525000",
+      "barangays": [
+        {
+          "name": "Alucao",
+          "code": "021525001",
+          "psgc": "0201525001"
+        },
+        {
+          "name": "Aridowen",
+          "code": "021525013",
+          "psgc": "0201525013"
+        },
+        {
+          "name": "Buyun",
+          "code": "021525002",
+          "psgc": "0201525002"
+        },
+        {
+          "name": "Caniugan",
+          "code": "021525014",
+          "psgc": "0201525014"
+        },
+        {
+          "name": "Centro East (Pob.)",
+          "code": "021525003",
+          "psgc": "0201525003"
+        },
+        {
+          "name": "Centro West",
+          "code": "021525015",
+          "psgc": "0201525015"
+        },
+        {
+          "name": "Dungeg",
+          "code": "021525004",
+          "psgc": "0201525004"
+        },
+        {
+          "name": "Luga",
+          "code": "021525005",
+          "psgc": "0201525005"
+        },
+        {
+          "name": "Masi",
+          "code": "021525006",
+          "psgc": "0201525006"
+        },
+        {
+          "name": "Mission",
+          "code": "021525007",
+          "psgc": "0201525007"
+        },
+        {
+          "name": "Simbaluca",
+          "code": "021525016",
+          "psgc": "0201525016"
+        },
+        {
+          "name": "Simpatuyo",
+          "code": "021525011",
+          "psgc": "0201525011"
+        },
+        {
+          "name": "Villa",
+          "code": "021525012",
+          "psgc": "0201525012"
+        }
+      ]
+    },
+    {
+      "name": "Santo Niño",
+      "code": "021526000",
+      "psgc": "0201526000",
+      "barangays": [
+        {
+          "name": "Abariongan Ruar",
+          "code": "021526001",
+          "psgc": "0201526001"
+        },
+        {
+          "name": "Abariongan Uneg",
+          "code": "021526002",
+          "psgc": "0201526002"
+        },
+        {
+          "name": "Balagan",
+          "code": "021526003",
+          "psgc": "0201526003"
+        },
+        {
+          "name": "Balanni",
+          "code": "021526004",
+          "psgc": "0201526004"
+        },
+        {
+          "name": "Cabayo",
+          "code": "021526006",
+          "psgc": "0201526006"
+        },
+        {
+          "name": "Calapangan",
+          "code": "021526007",
+          "psgc": "0201526007"
+        },
+        {
+          "name": "Calassitan",
+          "code": "021526008",
+          "psgc": "0201526008"
+        },
+        {
+          "name": "Campo",
+          "code": "021526009",
+          "psgc": "0201526009"
+        },
+        {
+          "name": "Centro Norte (Pob.)",
+          "code": "021526010",
+          "psgc": "0201526010"
+        },
+        {
+          "name": "Centro Sur (Pob.)",
+          "code": "021526011",
+          "psgc": "0201526011"
+        },
+        {
+          "name": "Dungao",
+          "code": "021526012",
+          "psgc": "0201526012"
+        },
+        {
+          "name": "Lattac",
+          "code": "021526014",
+          "psgc": "0201526014"
+        },
+        {
+          "name": "Lipatan",
+          "code": "021526015",
+          "psgc": "0201526015"
+        },
+        {
+          "name": "Lubo",
+          "code": "021526016",
+          "psgc": "0201526016"
+        },
+        {
+          "name": "Mabitbitnong",
+          "code": "021526017",
+          "psgc": "0201526017"
+        },
+        {
+          "name": "Mapitac",
+          "code": "021526018",
+          "psgc": "0201526018"
+        },
+        {
+          "name": "Masical",
+          "code": "021526019",
+          "psgc": "0201526019"
+        },
+        {
+          "name": "Matalao",
+          "code": "021526020",
+          "psgc": "0201526020"
+        },
+        {
+          "name": "Nag-uma",
+          "code": "021526021",
+          "psgc": "0201526021"
+        },
+        {
+          "name": "Namuccayan",
+          "code": "021526022",
+          "psgc": "0201526022"
+        },
+        {
+          "name": "Niug Norte",
+          "code": "021526023",
+          "psgc": "0201526023"
+        },
+        {
+          "name": "Niug Sur",
+          "code": "021526024",
+          "psgc": "0201526024"
+        },
+        {
+          "name": "Palusao",
+          "code": "021526025",
+          "psgc": "0201526025"
+        },
+        {
+          "name": "San Manuel",
+          "code": "021526026",
+          "psgc": "0201526026"
+        },
+        {
+          "name": "San Roque",
+          "code": "021526027",
+          "psgc": "0201526027"
+        },
+        {
+          "name": "Santa Felicitas",
+          "code": "021526028",
+          "psgc": "0201526028"
+        },
+        {
+          "name": "Santa Maria",
+          "code": "021526029",
+          "psgc": "0201526029"
+        },
+        {
+          "name": "Sidiran",
+          "code": "021526030",
+          "psgc": "0201526030"
+        },
+        {
+          "name": "Tabang",
+          "code": "021526031",
+          "psgc": "0201526031"
+        },
+        {
+          "name": "Tamucco",
+          "code": "021526032",
+          "psgc": "0201526032"
+        },
+        {
+          "name": "Virginia",
+          "code": "021526033",
+          "psgc": "0201526033"
+        }
+      ]
+    },
+    {
+      "name": "Solana",
+      "code": "021527000",
+      "psgc": "0201527000",
+      "barangays": [
+        {
+          "name": "Andarayan North",
+          "code": "021527001",
+          "psgc": "0201527001"
+        },
+        {
+          "name": "Andarayan South",
+          "code": "021527037",
+          "psgc": "0201527037"
+        },
+        {
+          "name": "Bangag",
+          "code": "021527003",
+          "psgc": "0201527003"
+        },
+        {
+          "name": "Bantay",
+          "code": "021527004",
+          "psgc": "0201527004"
+        },
+        {
+          "name": "Basi East",
+          "code": "021527005",
+          "psgc": "0201527005"
+        },
+        {
+          "name": "Basi West",
+          "code": "021527038",
+          "psgc": "0201527038"
+        },
+        {
+          "name": "Bauan East",
+          "code": "021527006",
+          "psgc": "0201527006"
+        },
+        {
+          "name": "Bauan West",
+          "code": "021527039",
+          "psgc": "0201527039"
+        },
+        {
+          "name": "Cadaanan",
+          "code": "021527007",
+          "psgc": "0201527007"
+        },
+        {
+          "name": "Calamagui",
+          "code": "021527008",
+          "psgc": "0201527008"
+        },
+        {
+          "name": "Calillauan",
+          "code": "021527040",
+          "psgc": "0201527040"
+        },
+        {
+          "name": "Carilucud",
+          "code": "021527009",
+          "psgc": "0201527009"
+        },
+        {
+          "name": "Cattaran",
+          "code": "021527010",
+          "psgc": "0201527010"
+        },
+        {
+          "name": "Centro Northeast (Pob.)",
+          "code": "021527011",
+          "psgc": "0201527011"
+        },
+        {
+          "name": "Centro Northwest (Pob.)",
+          "code": "021527012",
+          "psgc": "0201527012"
+        },
+        {
+          "name": "Centro Southeast (Pob.)",
+          "code": "021527013",
+          "psgc": "0201527013"
+        },
+        {
+          "name": "Centro Southwest (Pob.)",
+          "code": "021527014",
+          "psgc": "0201527014"
+        },
+        {
+          "name": "Dassun",
+          "code": "021527033",
+          "psgc": "0201527033"
+        },
+        {
+          "name": "Furagui",
+          "code": "021527034",
+          "psgc": "0201527034"
+        },
+        {
+          "name": "Gadu",
+          "code": "021527035",
+          "psgc": "0201527035"
+        },
+        {
+          "name": "Gen. Eulogio Balao",
+          "code": "021527041",
+          "psgc": "0201527041"
+        },
+        {
+          "name": "Iraga",
+          "code": "021527036",
+          "psgc": "0201527036"
+        },
+        {
+          "name": "Lanna",
+          "code": "021527015",
+          "psgc": "0201527015"
+        },
+        {
+          "name": "Lannig",
+          "code": "021527002",
+          "psgc": "0201527002"
+        },
+        {
+          "name": "Lingu",
+          "code": "021527016",
+          "psgc": "0201527016"
+        },
+        {
+          "name": "Maddarulug",
+          "code": "021527026",
+          "psgc": "0201527026"
+        },
+        {
+          "name": "Maguirig",
+          "code": "021527017",
+          "psgc": "0201527017"
+        },
+        {
+          "name": "Malalam-Malacabibi",
+          "code": "021527043",
+          "psgc": "0201527043"
+        },
+        {
+          "name": "Nabbotuan",
+          "code": "021527018",
+          "psgc": "0201527018"
+        },
+        {
+          "name": "Nangalisan",
+          "code": "021527019",
+          "psgc": "0201527019"
+        },
+        {
+          "name": "Natappian East",
+          "code": "021527020",
+          "psgc": "0201527020"
+        },
+        {
+          "name": "Natappian West",
+          "code": "021527042",
+          "psgc": "0201527042"
+        },
+        {
+          "name": "Padul",
+          "code": "021527021",
+          "psgc": "0201527021"
+        },
+        {
+          "name": "Palao",
+          "code": "021527022",
+          "psgc": "0201527022"
+        },
+        {
+          "name": "Parug-parug",
+          "code": "021527023",
+          "psgc": "0201527023"
+        },
+        {
+          "name": "Pataya",
+          "code": "021527024",
+          "psgc": "0201527024"
+        },
+        {
+          "name": "Sampaguita",
+          "code": "021527025",
+          "psgc": "0201527025"
+        },
+        {
+          "name": "Ubong",
+          "code": "021527030",
+          "psgc": "0201527030"
+        }
+      ]
+    },
+    {
+      "name": "Tuao",
+      "code": "021528000",
+      "psgc": "0201528000",
+      "barangays": [
+        {
+          "name": "Accusilian",
+          "code": "021528001",
+          "psgc": "0201528001"
+        },
+        {
+          "name": "Alabiao",
+          "code": "021528002",
+          "psgc": "0201528002"
+        },
+        {
+          "name": "Alabug",
+          "code": "021528003",
+          "psgc": "0201528003"
+        },
+        {
+          "name": "Angang",
+          "code": "021528004",
+          "psgc": "0201528004"
+        },
+        {
+          "name": "Bagumbayan",
+          "code": "021528005",
+          "psgc": "0201528005"
+        },
+        {
+          "name": "Barancuag",
+          "code": "021528006",
+          "psgc": "0201528006"
+        },
+        {
+          "name": "Battung",
+          "code": "021528007",
+          "psgc": "0201528007"
+        },
+        {
+          "name": "Bicok",
+          "code": "021528008",
+          "psgc": "0201528008"
+        },
+        {
+          "name": "Bugnay",
+          "code": "021528009",
+          "psgc": "0201528009"
+        },
+        {
+          "name": "Bulagao",
+          "code": "021528010",
+          "psgc": "0201528010"
+        },
+        {
+          "name": "Cagumitan",
+          "code": "021528011",
+          "psgc": "0201528011"
+        },
+        {
+          "name": "Cato",
+          "code": "021528012",
+          "psgc": "0201528012"
+        },
+        {
+          "name": "Culung",
+          "code": "021528013",
+          "psgc": "0201528013"
+        },
+        {
+          "name": "Dagupan",
+          "code": "021528014",
+          "psgc": "0201528014"
+        },
+        {
+          "name": "Fugu",
+          "code": "021528015",
+          "psgc": "0201528015"
+        },
+        {
+          "name": "Lakambini",
+          "code": "021528016",
+          "psgc": "0201528016"
+        },
+        {
+          "name": "Lallayug",
+          "code": "021528017",
+          "psgc": "0201528017"
+        },
+        {
+          "name": "Malalinta",
+          "code": "021528033",
+          "psgc": "0201528033"
+        },
+        {
+          "name": "Malummin",
+          "code": "021528019",
+          "psgc": "0201528019"
+        },
+        {
+          "name": "Mambacag",
+          "code": "021528020",
+          "psgc": "0201528020"
+        },
+        {
+          "name": "Mungo",
+          "code": "021528022",
+          "psgc": "0201528022"
+        },
+        {
+          "name": "Naruangan",
+          "code": "021528023",
+          "psgc": "0201528023"
+        },
+        {
+          "name": "Palca",
+          "code": "021528024",
+          "psgc": "0201528024"
+        },
+        {
+          "name": "Pata",
+          "code": "021528025",
+          "psgc": "0201528025"
+        },
+        {
+          "name": "Poblacion I",
+          "code": "021528031",
+          "psgc": "0201528031"
+        },
+        {
+          "name": "Poblacion II",
+          "code": "021528032",
+          "psgc": "0201528032"
+        },
+        {
+          "name": "San Juan",
+          "code": "021528026",
+          "psgc": "0201528026"
+        },
+        {
+          "name": "San Luis",
+          "code": "021528027",
+          "psgc": "0201528027"
+        },
+        {
+          "name": "San Vicente",
+          "code": "021528021",
+          "psgc": "0201528021"
+        },
+        {
+          "name": "Santo Tomas",
+          "code": "021528028",
+          "psgc": "0201528028"
+        },
+        {
+          "name": "Taribubu",
+          "code": "021528029",
+          "psgc": "0201528029"
+        },
+        {
+          "name": "Villa Laida",
+          "code": "021528030",
+          "psgc": "0201528030"
+        }
+      ]
+    },
+    {
+      "name": "Tuguegarao City",
+      "code": "021529000",
+      "psgc": "0201529000",
+      "barangays": [
+        {
+          "name": "Annafunan East",
+          "code": "021529001",
+          "psgc": "0201529001"
+        },
+        {
+          "name": "Annafunan West",
+          "code": "021529038",
+          "psgc": "0201529038"
+        },
+        {
+          "name": "Atulayan Norte",
+          "code": "021529002",
+          "psgc": "0201529002"
+        },
+        {
+          "name": "Atulayan Sur",
+          "code": "021529039",
+          "psgc": "0201529039"
+        },
+        {
+          "name": "Bagay",
+          "code": "021529003",
+          "psgc": "0201529003"
+        },
+        {
+          "name": "Buntun",
+          "code": "021529015",
+          "psgc": "0201529015"
+        },
+        {
+          "name": "Caggay",
+          "code": "021529016",
+          "psgc": "0201529016"
+        },
+        {
+          "name": "Capatan",
+          "code": "021529017",
+          "psgc": "0201529017"
+        },
+        {
+          "name": "Carig",
+          "code": "021529018",
+          "psgc": "0201529018"
+        },
+        {
+          "name": "Caritan Centro",
+          "code": "021529040",
+          "psgc": "0201529040"
+        },
+        {
+          "name": "Caritan Norte",
+          "code": "021529019",
+          "psgc": "0201529019"
+        },
+        {
+          "name": "Caritan Sur",
+          "code": "021529020",
+          "psgc": "0201529020"
+        },
+        {
+          "name": "Cataggaman Nuevo",
+          "code": "021529021",
+          "psgc": "0201529021"
+        },
+        {
+          "name": "Cataggaman Pardo",
+          "code": "021529041",
+          "psgc": "0201529041"
+        },
+        {
+          "name": "Cataggaman Viejo",
+          "code": "021529022",
+          "psgc": "0201529022"
+        },
+        {
+          "name": "Centro 1 (Pob.)",
+          "code": "021529005",
+          "psgc": "0201529005"
+        },
+        {
+          "name": "Centro 10 (Pob.)",
+          "code": "021529013",
+          "psgc": "0201529013"
+        },
+        {
+          "name": "Centro 11 (Pob.)",
+          "code": "021529014",
+          "psgc": "0201529014"
+        },
+        {
+          "name": "Centro 12 (Pob.)",
+          "code": "021529037",
+          "psgc": "0201529037"
+        },
+        {
+          "name": "Centro 2 (Pob.)",
+          "code": "021529035",
+          "psgc": "0201529035"
+        },
+        {
+          "name": "Centro 3 (Pob.)",
+          "code": "021529036",
+          "psgc": "0201529036"
+        },
+        {
+          "name": "Centro 4 (Pob.)",
+          "code": "021529006",
+          "psgc": "0201529006"
+        },
+        {
+          "name": "Centro 5 (Pob.)",
+          "code": "021529007",
+          "psgc": "0201529007"
+        },
+        {
+          "name": "Centro 6 (Pob.)",
+          "code": "021529008",
+          "psgc": "0201529008"
+        },
+        {
+          "name": "Centro 7 (Pob.)",
+          "code": "021529009",
+          "psgc": "0201529009"
+        },
+        {
+          "name": "Centro 8 (Pob.)",
+          "code": "021529010",
+          "psgc": "0201529010"
+        },
+        {
+          "name": "Centro 9 (Pob.)",
+          "code": "021529011",
+          "psgc": "0201529011"
+        },
+        {
+          "name": "Dadda",
+          "code": "021529042",
+          "psgc": "0201529042"
+        },
+        {
+          "name": "Gosi Norte",
+          "code": "021529023",
+          "psgc": "0201529023"
+        },
+        {
+          "name": "Gosi Sur",
+          "code": "021529043",
+          "psgc": "0201529043"
+        },
+        {
+          "name": "Larion Alto",
+          "code": "021529024",
+          "psgc": "0201529024"
+        },
+        {
+          "name": "Larion Bajo",
+          "code": "021529025",
+          "psgc": "0201529025"
+        },
+        {
+          "name": "Leonarda",
+          "code": "021529044",
+          "psgc": "0201529044"
+        },
+        {
+          "name": "Libag Norte",
+          "code": "021529026",
+          "psgc": "0201529026"
+        },
+        {
+          "name": "Libag Sur",
+          "code": "021529045",
+          "psgc": "0201529045"
+        },
+        {
+          "name": "Linao East",
+          "code": "021529027",
+          "psgc": "0201529027"
+        },
+        {
+          "name": "Linao Norte",
+          "code": "021529046",
+          "psgc": "0201529046"
+        },
+        {
+          "name": "Linao West",
+          "code": "021529047",
+          "psgc": "0201529047"
+        },
+        {
+          "name": "Namabbalan Norte",
+          "code": "021529029",
+          "psgc": "0201529029"
+        },
+        {
+          "name": "Namabbalan Sur",
+          "code": "021529048",
+          "psgc": "0201529048"
+        },
+        {
+          "name": "Pallua Norte",
+          "code": "021529030",
+          "psgc": "0201529030"
+        },
+        {
+          "name": "Pallua Sur",
+          "code": "021529049",
+          "psgc": "0201529049"
+        },
+        {
+          "name": "Pengue",
+          "code": "021529031",
+          "psgc": "0201529031"
+        },
+        {
+          "name": "Reyes",
+          "code": "021529050",
+          "psgc": "0201529050"
+        },
+        {
+          "name": "San Gabriel",
+          "code": "021529051",
+          "psgc": "0201529051"
+        },
+        {
+          "name": "Tagga",
+          "code": "021529032",
+          "psgc": "0201529032"
+        },
+        {
+          "name": "Tanza",
+          "code": "021529033",
+          "psgc": "0201529033"
+        },
+        {
+          "name": "Ugac Norte",
+          "code": "021529034",
+          "psgc": "0201529034"
+        },
+        {
+          "name": "Ugac Sur",
+          "code": "021529052",
+          "psgc": "0201529052"
+        }
+      ]
+    }
+  ]
+}

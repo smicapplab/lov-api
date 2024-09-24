@@ -1,0 +1,796 @@
+{
+  "province": "Mountain Province",
+  "code": "144400000",
+  "cities": [
+    {
+      "name": "Barlig",
+      "code": "144401000",
+      "psgc": "1404401000",
+      "barangays": [
+        {
+          "name": "Chupac",
+          "code": "144401001",
+          "psgc": "1404401001"
+        },
+        {
+          "name": "Fiangtin",
+          "code": "144401002",
+          "psgc": "1404401002"
+        },
+        {
+          "name": "Gawana (Pob.)",
+          "code": "144401011",
+          "psgc": "1404401011"
+        },
+        {
+          "name": "Kaleo",
+          "code": "144401003",
+          "psgc": "1404401003"
+        },
+        {
+          "name": "Latang",
+          "code": "144401005",
+          "psgc": "1404401005"
+        },
+        {
+          "name": "Lias Kanluran",
+          "code": "144401006",
+          "psgc": "1404401006"
+        },
+        {
+          "name": "Lias Silangan",
+          "code": "144401012",
+          "psgc": "1404401012"
+        },
+        {
+          "name": "Lingoy",
+          "code": "144401007",
+          "psgc": "1404401007"
+        },
+        {
+          "name": "Lunas",
+          "code": "144401008",
+          "psgc": "1404401008"
+        },
+        {
+          "name": "Macalana",
+          "code": "144401009",
+          "psgc": "1404401009"
+        },
+        {
+          "name": "Ogo-og",
+          "code": "144401010",
+          "psgc": "1404401010"
+        }
+      ]
+    },
+    {
+      "name": "Bauko",
+      "code": "144402000",
+      "psgc": "1404402000",
+      "barangays": [
+        {
+          "name": "Abatan",
+          "code": "144402001",
+          "psgc": "1404402001"
+        },
+        {
+          "name": "Bagnen Oriente",
+          "code": "144402002",
+          "psgc": "1404402002"
+        },
+        {
+          "name": "Bagnen Proper",
+          "code": "144402003",
+          "psgc": "1404402003"
+        },
+        {
+          "name": "Balintaugan",
+          "code": "144402004",
+          "psgc": "1404402004"
+        },
+        {
+          "name": "Banao",
+          "code": "144402005",
+          "psgc": "1404402005"
+        },
+        {
+          "name": "Bila",
+          "code": "144402006",
+          "psgc": "1404402006"
+        },
+        {
+          "name": "Guinzadan Central",
+          "code": "144402007",
+          "psgc": "1404402007"
+        },
+        {
+          "name": "Guinzadan Norte",
+          "code": "144402008",
+          "psgc": "1404402008"
+        },
+        {
+          "name": "Guinzadan Sur",
+          "code": "144402009",
+          "psgc": "1404402009"
+        },
+        {
+          "name": "Lagawa",
+          "code": "144402010",
+          "psgc": "1404402010"
+        },
+        {
+          "name": "Leseb",
+          "code": "144402011",
+          "psgc": "1404402011"
+        },
+        {
+          "name": "Mabaay",
+          "code": "144402012",
+          "psgc": "1404402012"
+        },
+        {
+          "name": "Mayag",
+          "code": "144402013",
+          "psgc": "1404402013"
+        },
+        {
+          "name": "Monamon Norte",
+          "code": "144402014",
+          "psgc": "1404402014"
+        },
+        {
+          "name": "Monamon Sur",
+          "code": "144402015",
+          "psgc": "1404402015"
+        },
+        {
+          "name": "Mount Data",
+          "code": "144402016",
+          "psgc": "1404402016"
+        },
+        {
+          "name": "Otucan Norte",
+          "code": "144402018",
+          "psgc": "1404402018"
+        },
+        {
+          "name": "Otucan Sur",
+          "code": "144402019",
+          "psgc": "1404402019"
+        },
+        {
+          "name": "Poblacion",
+          "code": "144402020",
+          "psgc": "1404402020"
+        },
+        {
+          "name": "Sadsadan",
+          "code": "144402021",
+          "psgc": "1404402021"
+        },
+        {
+          "name": "Sinto",
+          "code": "144402022",
+          "psgc": "1404402022"
+        },
+        {
+          "name": "Tapapan",
+          "code": "144402023",
+          "psgc": "1404402023"
+        }
+      ]
+    },
+    {
+      "name": "Besao",
+      "code": "144403000",
+      "psgc": "1404403000",
+      "barangays": [
+        {
+          "name": "Agawa",
+          "code": "144403001",
+          "psgc": "1404403001"
+        },
+        {
+          "name": "Ambaguio",
+          "code": "144403002",
+          "psgc": "1404403002"
+        },
+        {
+          "name": "Banguitan",
+          "code": "144403003",
+          "psgc": "1404403003"
+        },
+        {
+          "name": "Besao East",
+          "code": "144403004",
+          "psgc": "1404403004"
+        },
+        {
+          "name": "Besao West",
+          "code": "144403005",
+          "psgc": "1404403005"
+        },
+        {
+          "name": "Catengan",
+          "code": "144403006",
+          "psgc": "1404403006"
+        },
+        {
+          "name": "Gueday",
+          "code": "144403007",
+          "psgc": "1404403007"
+        },
+        {
+          "name": "Kin-iway (Pob.)",
+          "code": "144403015",
+          "psgc": "1404403015"
+        },
+        {
+          "name": "Lacmaan",
+          "code": "144403009",
+          "psgc": "1404403009"
+        },
+        {
+          "name": "Laylaya",
+          "code": "144403010",
+          "psgc": "1404403010"
+        },
+        {
+          "name": "Padangan",
+          "code": "144403011",
+          "psgc": "1404403011"
+        },
+        {
+          "name": "Payeo",
+          "code": "144403012",
+          "psgc": "1404403012"
+        },
+        {
+          "name": "Suquib",
+          "code": "144403013",
+          "psgc": "1404403013"
+        },
+        {
+          "name": "Tamboan",
+          "code": "144403014",
+          "psgc": "1404403014"
+        }
+      ]
+    },
+    {
+      "name": "Bontoc",
+      "code": "144404000",
+      "psgc": "1404404000",
+      "barangays": [
+        {
+          "name": "Alab Oriente",
+          "code": "144404002",
+          "psgc": "1404404002"
+        },
+        {
+          "name": "Alab Proper",
+          "code": "144404001",
+          "psgc": "1404404001"
+        },
+        {
+          "name": "Balili",
+          "code": "144404003",
+          "psgc": "1404404003"
+        },
+        {
+          "name": "Bayyo",
+          "code": "144404004",
+          "psgc": "1404404004"
+        },
+        {
+          "name": "Bontoc Ili",
+          "code": "144404005",
+          "psgc": "1404404005"
+        },
+        {
+          "name": "Caluttit",
+          "code": "144404017",
+          "psgc": "1404404017"
+        },
+        {
+          "name": "Caneo",
+          "code": "144404006",
+          "psgc": "1404404006"
+        },
+        {
+          "name": "Dalican",
+          "code": "144404007",
+          "psgc": "1404404007"
+        },
+        {
+          "name": "Gonogon",
+          "code": "144404009",
+          "psgc": "1404404009"
+        },
+        {
+          "name": "Guinaang",
+          "code": "144404010",
+          "psgc": "1404404010"
+        },
+        {
+          "name": "Mainit",
+          "code": "144404011",
+          "psgc": "1404404011"
+        },
+        {
+          "name": "Maligcong",
+          "code": "144404012",
+          "psgc": "1404404012"
+        },
+        {
+          "name": "Poblacion",
+          "code": "144404016",
+          "psgc": "1404404016"
+        },
+        {
+          "name": "Samoki",
+          "code": "144404013",
+          "psgc": "1404404013"
+        },
+        {
+          "name": "Talubin",
+          "code": "144404014",
+          "psgc": "1404404014"
+        },
+        {
+          "name": "Tocucan",
+          "code": "144404015",
+          "psgc": "1404404015"
+        }
+      ]
+    },
+    {
+      "name": "Natonin",
+      "code": "144405000",
+      "psgc": "1404405000",
+      "barangays": [
+        {
+          "name": "Alunogan",
+          "code": "144405001",
+          "psgc": "1404405001"
+        },
+        {
+          "name": "Balangao",
+          "code": "144405002",
+          "psgc": "1404405002"
+        },
+        {
+          "name": "Banao",
+          "code": "144405003",
+          "psgc": "1404405003"
+        },
+        {
+          "name": "Banawal",
+          "code": "144405004",
+          "psgc": "1404405004"
+        },
+        {
+          "name": "Butac",
+          "code": "144405005",
+          "psgc": "1404405005"
+        },
+        {
+          "name": "Maducayan",
+          "code": "144405006",
+          "psgc": "1404405006"
+        },
+        {
+          "name": "Poblacion",
+          "code": "144405007",
+          "psgc": "1404405007"
+        },
+        {
+          "name": "Pudo",
+          "code": "144405011",
+          "psgc": "1404405011"
+        },
+        {
+          "name": "Saliok",
+          "code": "144405008",
+          "psgc": "1404405008"
+        },
+        {
+          "name": "Sta. Isabel",
+          "code": "144405009",
+          "psgc": "1404405009"
+        },
+        {
+          "name": "Tonglayan",
+          "code": "144405010",
+          "psgc": "1404405010"
+        }
+      ]
+    },
+    {
+      "name": "Paracelis",
+      "code": "144406000",
+      "psgc": "1404406000",
+      "barangays": [
+        {
+          "name": "Anonat",
+          "code": "144406001",
+          "psgc": "1404406001"
+        },
+        {
+          "name": "Bacarri",
+          "code": "144406002",
+          "psgc": "1404406002"
+        },
+        {
+          "name": "Bananao",
+          "code": "144406003",
+          "psgc": "1404406003"
+        },
+        {
+          "name": "Bantay",
+          "code": "144406004",
+          "psgc": "1404406004"
+        },
+        {
+          "name": "Bunot",
+          "code": "144406006",
+          "psgc": "1404406006"
+        },
+        {
+          "name": "Buringal",
+          "code": "144406007",
+          "psgc": "1404406007"
+        },
+        {
+          "name": "Butigue",
+          "code": "144406005",
+          "psgc": "1404406005"
+        },
+        {
+          "name": "Palitud",
+          "code": "144406008",
+          "psgc": "1404406008"
+        },
+        {
+          "name": "Poblacion",
+          "code": "144406009",
+          "psgc": "1404406009"
+        }
+      ]
+    },
+    {
+      "name": "Sabangan",
+      "code": "144407000",
+      "psgc": "1404407000",
+      "barangays": [
+        {
+          "name": "Bao-angan",
+          "code": "144407001",
+          "psgc": "1404407001"
+        },
+        {
+          "name": "Bun-ayan",
+          "code": "144407002",
+          "psgc": "1404407002"
+        },
+        {
+          "name": "Busa",
+          "code": "144407003",
+          "psgc": "1404407003"
+        },
+        {
+          "name": "Camatagan",
+          "code": "144407004",
+          "psgc": "1404407004"
+        },
+        {
+          "name": "Capinitan",
+          "code": "144407005",
+          "psgc": "1404407005"
+        },
+        {
+          "name": "Data",
+          "code": "144407006",
+          "psgc": "1404407006"
+        },
+        {
+          "name": "Gayang",
+          "code": "144407007",
+          "psgc": "1404407007"
+        },
+        {
+          "name": "Lagan",
+          "code": "144407008",
+          "psgc": "1404407008"
+        },
+        {
+          "name": "Losad",
+          "code": "144407009",
+          "psgc": "1404407009"
+        },
+        {
+          "name": "Namatec",
+          "code": "144407010",
+          "psgc": "1404407010"
+        },
+        {
+          "name": "Napua",
+          "code": "144407011",
+          "psgc": "1404407011"
+        },
+        {
+          "name": "Pingad",
+          "code": "144407012",
+          "psgc": "1404407012"
+        },
+        {
+          "name": "Poblacion",
+          "code": "144407013",
+          "psgc": "1404407013"
+        },
+        {
+          "name": "Supang",
+          "code": "144407014",
+          "psgc": "1404407014"
+        },
+        {
+          "name": "Tambingan",
+          "code": "144407015",
+          "psgc": "1404407015"
+        }
+      ]
+    },
+    {
+      "name": "Sadanga",
+      "code": "144408000",
+      "psgc": "1404408000",
+      "barangays": [
+        {
+          "name": "Anabel",
+          "code": "144408001",
+          "psgc": "1404408001"
+        },
+        {
+          "name": "Bekigan",
+          "code": "144408004",
+          "psgc": "1404408004"
+        },
+        {
+          "name": "Belwang",
+          "code": "144408002",
+          "psgc": "1404408002"
+        },
+        {
+          "name": "Betwagan",
+          "code": "144408003",
+          "psgc": "1404408003"
+        },
+        {
+          "name": "Demang",
+          "code": "144408008",
+          "psgc": "1404408008"
+        },
+        {
+          "name": "Poblacion",
+          "code": "144408005",
+          "psgc": "1404408005"
+        },
+        {
+          "name": "Sacasacan",
+          "code": "144408006",
+          "psgc": "1404408006"
+        },
+        {
+          "name": "Saclit",
+          "code": "144408007",
+          "psgc": "1404408007"
+        }
+      ]
+    },
+    {
+      "name": "Sagada",
+      "code": "144409000",
+      "psgc": "1404409000",
+      "barangays": [
+        {
+          "name": "Aguid",
+          "code": "144409001",
+          "psgc": "1404409001"
+        },
+        {
+          "name": "Ambasing",
+          "code": "144409003",
+          "psgc": "1404409003"
+        },
+        {
+          "name": "Angkeling",
+          "code": "144409004",
+          "psgc": "1404409004"
+        },
+        {
+          "name": "Antadao",
+          "code": "144409005",
+          "psgc": "1404409005"
+        },
+        {
+          "name": "Balugan",
+          "code": "144409006",
+          "psgc": "1404409006"
+        },
+        {
+          "name": "Bangaan",
+          "code": "144409007",
+          "psgc": "1404409007"
+        },
+        {
+          "name": "Dagdag (Pob.)",
+          "code": "144409008",
+          "psgc": "1404409008"
+        },
+        {
+          "name": "Demang (Pob.)",
+          "code": "144409009",
+          "psgc": "1404409009"
+        },
+        {
+          "name": "Fidelisan",
+          "code": "144409010",
+          "psgc": "1404409010"
+        },
+        {
+          "name": "Kilong",
+          "code": "144409011",
+          "psgc": "1404409011"
+        },
+        {
+          "name": "Madongo",
+          "code": "144409012",
+          "psgc": "1404409012"
+        },
+        {
+          "name": "Nacagang",
+          "code": "144409017",
+          "psgc": "1404409017"
+        },
+        {
+          "name": "Pide",
+          "code": "144409015",
+          "psgc": "1404409015"
+        },
+        {
+          "name": "Poblacion",
+          "code": "144409014",
+          "psgc": "1404409014"
+        },
+        {
+          "name": "Suyo",
+          "code": "144409018",
+          "psgc": "1404409018"
+        },
+        {
+          "name": "Taccong",
+          "code": "144409019",
+          "psgc": "1404409019"
+        },
+        {
+          "name": "Tanulong",
+          "code": "144409020",
+          "psgc": "1404409020"
+        },
+        {
+          "name": "Tetepan Norte",
+          "code": "144409022",
+          "psgc": "1404409022"
+        },
+        {
+          "name": "Tetepan Sur",
+          "code": "144409002",
+          "psgc": "1404409002"
+        }
+      ]
+    },
+    {
+      "name": "Tadian",
+      "code": "144410000",
+      "psgc": "1404410000",
+      "barangays": [
+        {
+          "name": "Balaoa",
+          "code": "144410002",
+          "psgc": "1404410002"
+        },
+        {
+          "name": "Banaao",
+          "code": "144410003",
+          "psgc": "1404410003"
+        },
+        {
+          "name": "Bantey",
+          "code": "144410004",
+          "psgc": "1404410004"
+        },
+        {
+          "name": "Batayan",
+          "code": "144410005",
+          "psgc": "1404410005"
+        },
+        {
+          "name": "Bunga",
+          "code": "144410006",
+          "psgc": "1404410006"
+        },
+        {
+          "name": "Cadad-anan",
+          "code": "144410007",
+          "psgc": "1404410007"
+        },
+        {
+          "name": "Cagubatan",
+          "code": "144410008",
+          "psgc": "1404410008"
+        },
+        {
+          "name": "Dacudac",
+          "code": "144410010",
+          "psgc": "1404410010"
+        },
+        {
+          "name": "Duagan",
+          "code": "144410009",
+          "psgc": "1404410009"
+        },
+        {
+          "name": "Kayan East",
+          "code": "144410011",
+          "psgc": "1404410011"
+        },
+        {
+          "name": "Kayan West",
+          "code": "144410020",
+          "psgc": "1404410020"
+        },
+        {
+          "name": "Lenga",
+          "code": "144410012",
+          "psgc": "1404410012"
+        },
+        {
+          "name": "Lubon",
+          "code": "144410013",
+          "psgc": "1404410013"
+        },
+        {
+          "name": "Mabalite",
+          "code": "144410014",
+          "psgc": "1404410014"
+        },
+        {
+          "name": "Masla",
+          "code": "144410015",
+          "psgc": "1404410015"
+        },
+        {
+          "name": "Pandayan",
+          "code": "144410016",
+          "psgc": "1404410016"
+        },
+        {
+          "name": "Poblacion",
+          "code": "144410017",
+          "psgc": "1404410017"
+        },
+        {
+          "name": "Sumadel",
+          "code": "144410018",
+          "psgc": "1404410018"
+        },
+        {
+          "name": "Tue",
+          "code": "144410019",
+          "psgc": "1404410019"
+        }
+      ]
+    }
+  ]
+}

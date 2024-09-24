@@ -1,0 +1,1449 @@
+{
+  "province": "Benguet",
+  "code": "141100000",
+  "cities": [
+    {
+      "name": "Atok",
+      "code": "141101000",
+      "psgc": "1401101000",
+      "barangays": [
+        {
+          "name": "Abiang",
+          "code": "141101001",
+          "psgc": "1401101001"
+        },
+        {
+          "name": "Caliking",
+          "code": "141101002",
+          "psgc": "1401101002"
+        },
+        {
+          "name": "Cattubo",
+          "code": "141101003",
+          "psgc": "1401101003"
+        },
+        {
+          "name": "Naguey",
+          "code": "141101004",
+          "psgc": "1401101004"
+        },
+        {
+          "name": "Paoay",
+          "code": "141101005",
+          "psgc": "1401101005"
+        },
+        {
+          "name": "Pasdong",
+          "code": "141101006",
+          "psgc": "1401101006"
+        },
+        {
+          "name": "Poblacion",
+          "code": "141101007",
+          "psgc": "1401101007"
+        },
+        {
+          "name": "Topdac",
+          "code": "141101008",
+          "psgc": "1401101008"
+        }
+      ]
+    },
+    {
+      "name": "Bakun",
+      "code": "141103000",
+      "psgc": "1401103000",
+      "barangays": [
+        {
+          "name": "Ampusongan",
+          "code": "141103001",
+          "psgc": "1401103001"
+        },
+        {
+          "name": "Bagu",
+          "code": "141103002",
+          "psgc": "1401103002"
+        },
+        {
+          "name": "Dalipey",
+          "code": "141103004",
+          "psgc": "1401103004"
+        },
+        {
+          "name": "Gambang",
+          "code": "141103005",
+          "psgc": "1401103005"
+        },
+        {
+          "name": "Kayapa",
+          "code": "141103007",
+          "psgc": "1401103007"
+        },
+        {
+          "name": "Poblacion",
+          "code": "141103009",
+          "psgc": "1401103009"
+        },
+        {
+          "name": "Sinacbat",
+          "code": "141103010",
+          "psgc": "1401103010"
+        }
+      ]
+    },
+    {
+      "name": "Bokod",
+      "code": "141104000",
+      "psgc": "1401104000",
+      "barangays": [
+        {
+          "name": "Ambuclao",
+          "code": "141104001",
+          "psgc": "1401104001"
+        },
+        {
+          "name": "Bila",
+          "code": "141104002",
+          "psgc": "1401104002"
+        },
+        {
+          "name": "Bobok-Bisal",
+          "code": "141104003",
+          "psgc": "1401104003"
+        },
+        {
+          "name": "Daclan",
+          "code": "141104004",
+          "psgc": "1401104004"
+        },
+        {
+          "name": "Ekip",
+          "code": "141104005",
+          "psgc": "1401104005"
+        },
+        {
+          "name": "Karao",
+          "code": "141104006",
+          "psgc": "1401104006"
+        },
+        {
+          "name": "Nawal",
+          "code": "141104007",
+          "psgc": "1401104007"
+        },
+        {
+          "name": "Pito",
+          "code": "141104008",
+          "psgc": "1401104008"
+        },
+        {
+          "name": "Poblacion",
+          "code": "141104009",
+          "psgc": "1401104009"
+        },
+        {
+          "name": "Tikey",
+          "code": "141104010",
+          "psgc": "1401104010"
+        }
+      ]
+    },
+    {
+      "name": "Buguias",
+      "code": "141105000",
+      "psgc": "1401105000",
+      "barangays": [
+        {
+          "name": "Abatan",
+          "code": "141105001",
+          "psgc": "1401105001"
+        },
+        {
+          "name": "Amgaleyguey",
+          "code": "141105002",
+          "psgc": "1401105002"
+        },
+        {
+          "name": "Amlimay",
+          "code": "141105003",
+          "psgc": "1401105003"
+        },
+        {
+          "name": "Baculongan Norte",
+          "code": "141105004",
+          "psgc": "1401105004"
+        },
+        {
+          "name": "Baculongan Sur",
+          "code": "141105014",
+          "psgc": "1401105014"
+        },
+        {
+          "name": "Bangao",
+          "code": "141105006",
+          "psgc": "1401105006"
+        },
+        {
+          "name": "Buyacaoan",
+          "code": "141105007",
+          "psgc": "1401105007"
+        },
+        {
+          "name": "Calamagan",
+          "code": "141105008",
+          "psgc": "1401105008"
+        },
+        {
+          "name": "Catlubong",
+          "code": "141105009",
+          "psgc": "1401105009"
+        },
+        {
+          "name": "Lengaoan",
+          "code": "141105015",
+          "psgc": "1401105015"
+        },
+        {
+          "name": "Loo",
+          "code": "141105010",
+          "psgc": "1401105010"
+        },
+        {
+          "name": "Natubleng",
+          "code": "141105012",
+          "psgc": "1401105012"
+        },
+        {
+          "name": "Poblacion",
+          "code": "141105013",
+          "psgc": "1401105013"
+        },
+        {
+          "name": "Sebang",
+          "code": "141105016",
+          "psgc": "1401105016"
+        }
+      ]
+    },
+    {
+      "name": "City of Baguio",
+      "code": "141102000",
+      "psgc": "1430300000",
+      "barangays": [
+        {
+          "name": "A. Bonifacio-Caguioa-Rimando",
+          "code": "141102125",
+          "psgc": "1430300125"
+        },
+        {
+          "name": "Abanao-Zandueta-Kayong-Chugum-Otek",
+          "code": "141102129",
+          "psgc": "1430300129"
+        },
+        {
+          "name": "Alfonso Tabora",
+          "code": "141102136",
+          "psgc": "1430300136"
+        },
+        {
+          "name": "Ambiong",
+          "code": "141102126",
+          "psgc": "1430300126"
+        },
+        {
+          "name": "Andres Bonifacio",
+          "code": "141102117",
+          "psgc": "1430300117"
+        },
+        {
+          "name": "Apugan-Loakan",
+          "code": "141102001",
+          "psgc": "1430300001"
+        },
+        {
+          "name": "Asin Road",
+          "code": "141102002",
+          "psgc": "1430300002"
+        },
+        {
+          "name": "Atok Trail",
+          "code": "141102003",
+          "psgc": "1430300003"
+        },
+        {
+          "name": "Aurora Hill Proper",
+          "code": "141102067",
+          "psgc": "1430300067"
+        },
+        {
+          "name": "Aurora Hill, North Central",
+          "code": "141102078",
+          "psgc": "1430300078"
+        },
+        {
+          "name": "Aurora Hill, South Central",
+          "code": "141102128",
+          "psgc": "1430300128"
+        },
+        {
+          "name": "Bagong Lipunan",
+          "code": "141102130",
+          "psgc": "1430300130"
+        },
+        {
+          "name": "Bakakeng Central",
+          "code": "141102004",
+          "psgc": "1430300004"
+        },
+        {
+          "name": "Bakakeng North",
+          "code": "141102005",
+          "psgc": "1430300005"
+        },
+        {
+          "name": "Bal-Marcoville",
+          "code": "141102068",
+          "psgc": "1430300068"
+        },
+        {
+          "name": "Balsigan",
+          "code": "141102007",
+          "psgc": "1430300007"
+        },
+        {
+          "name": "Bayan Park East",
+          "code": "141102010",
+          "psgc": "1430300010"
+        },
+        {
+          "name": "Bayan Park Village",
+          "code": "141102132",
+          "psgc": "1430300132"
+        },
+        {
+          "name": "Bayan Park West",
+          "code": "141102008",
+          "psgc": "1430300008"
+        },
+        {
+          "name": "BGH Compound",
+          "code": "141102131",
+          "psgc": "1430300131"
+        },
+        {
+          "name": "Brookside",
+          "code": "141102012",
+          "psgc": "1430300012"
+        },
+        {
+          "name": "Brookspoint",
+          "code": "141102011",
+          "psgc": "1430300011"
+        },
+        {
+          "name": "Cabinet Hill-Teacher's Camp",
+          "code": "141102013",
+          "psgc": "1430300013"
+        },
+        {
+          "name": "Camdas Subdivision",
+          "code": "141102133",
+          "psgc": "1430300133"
+        },
+        {
+          "name": "Camp 7",
+          "code": "141102017",
+          "psgc": "1430300017"
+        },
+        {
+          "name": "Camp 8",
+          "code": "141102018",
+          "psgc": "1430300018"
+        },
+        {
+          "name": "Camp Allen",
+          "code": "141102016",
+          "psgc": "1430300016"
+        },
+        {
+          "name": "Campo Filipino",
+          "code": "141102019",
+          "psgc": "1430300019"
+        },
+        {
+          "name": "City Camp Central",
+          "code": "141102022",
+          "psgc": "1430300022"
+        },
+        {
+          "name": "City Camp Proper",
+          "code": "141102023",
+          "psgc": "1430300023"
+        },
+        {
+          "name": "Country Club Village",
+          "code": "141102025",
+          "psgc": "1430300025"
+        },
+        {
+          "name": "Cresencia Village",
+          "code": "141102026",
+          "psgc": "1430300026"
+        },
+        {
+          "name": "Dagsian, Lower",
+          "code": "141102058",
+          "psgc": "1430300058"
+        },
+        {
+          "name": "Dagsian, Upper",
+          "code": "141102028",
+          "psgc": "1430300028"
+        },
+        {
+          "name": "Dizon Subdivision",
+          "code": "141102030",
+          "psgc": "1430300030"
+        },
+        {
+          "name": "Dominican Hill-Mirador",
+          "code": "141102135",
+          "psgc": "1430300135"
+        },
+        {
+          "name": "Dontogan",
+          "code": "141102137",
+          "psgc": "1430300137"
+        },
+        {
+          "name": "DPS Area",
+          "code": "141102029",
+          "psgc": "1430300029"
+        },
+        {
+          "name": "Engineers' Hill",
+          "code": "141102035",
+          "psgc": "1430300035"
+        },
+        {
+          "name": "Fairview Village",
+          "code": "141102036",
+          "psgc": "1430300036"
+        },
+        {
+          "name": "Ferdinand",
+          "code": "141102138",
+          "psgc": "1430300138"
+        },
+        {
+          "name": "Fort del Pilar",
+          "code": "141102037",
+          "psgc": "1430300037"
+        },
+        {
+          "name": "Gabriela Silang",
+          "code": "141102144",
+          "psgc": "1430300144"
+        },
+        {
+          "name": "General Emilio F. Aguinaldo",
+          "code": "141102062",
+          "psgc": "1430300062"
+        },
+        {
+          "name": "General Luna, Lower",
+          "code": "141102039",
+          "psgc": "1430300039"
+        },
+        {
+          "name": "General Luna, Upper",
+          "code": "141102038",
+          "psgc": "1430300038"
+        },
+        {
+          "name": "Gibraltar",
+          "code": "141102040",
+          "psgc": "1430300040"
+        },
+        {
+          "name": "Greenwater Village",
+          "code": "141102041",
+          "psgc": "1430300041"
+        },
+        {
+          "name": "Guisad Central",
+          "code": "141102042",
+          "psgc": "1430300042"
+        },
+        {
+          "name": "Guisad Sorong",
+          "code": "141102043",
+          "psgc": "1430300043"
+        },
+        {
+          "name": "Happy Hollow",
+          "code": "141102006",
+          "psgc": "1430300006"
+        },
+        {
+          "name": "Happy Homes",
+          "code": "141102139",
+          "psgc": "1430300139"
+        },
+        {
+          "name": "Harrison-Claudio Carantes",
+          "code": "141102140",
+          "psgc": "1430300140"
+        },
+        {
+          "name": "Hillside",
+          "code": "141102045",
+          "psgc": "1430300045"
+        },
+        {
+          "name": "Holy Ghost Extension",
+          "code": "141102046",
+          "psgc": "1430300046"
+        },
+        {
+          "name": "Holy Ghost Proper",
+          "code": "141102047",
+          "psgc": "1430300047"
+        },
+        {
+          "name": "Honeymoon",
+          "code": "141102141",
+          "psgc": "1430300141"
+        },
+        {
+          "name": "Imelda R. Marcos",
+          "code": "141102120",
+          "psgc": "1430300120"
+        },
+        {
+          "name": "Imelda Village",
+          "code": "141102049",
+          "psgc": "1430300049"
+        },
+        {
+          "name": "Irisan",
+          "code": "141102050",
+          "psgc": "1430300050"
+        },
+        {
+          "name": "Kabayanihan",
+          "code": "141102142",
+          "psgc": "1430300142"
+        },
+        {
+          "name": "Kagitingan",
+          "code": "141102053",
+          "psgc": "1430300053"
+        },
+        {
+          "name": "Kayang Extension",
+          "code": "141102051",
+          "psgc": "1430300051"
+        },
+        {
+          "name": "Kayang-Hilltop",
+          "code": "141102143",
+          "psgc": "1430300143"
+        },
+        {
+          "name": "Kias",
+          "code": "141102052",
+          "psgc": "1430300052"
+        },
+        {
+          "name": "Legarda-Burnham-Kisad",
+          "code": "141102119",
+          "psgc": "1430300119"
+        },
+        {
+          "name": "Liwanag-Loakan",
+          "code": "141102145",
+          "psgc": "1430300145"
+        },
+        {
+          "name": "Loakan Proper",
+          "code": "141102054",
+          "psgc": "1430300054"
+        },
+        {
+          "name": "Lopez Jaena",
+          "code": "141102055",
+          "psgc": "1430300055"
+        },
+        {
+          "name": "Lourdes Subdivision Extension",
+          "code": "141102056",
+          "psgc": "1430300056"
+        },
+        {
+          "name": "Lourdes Subdivision, Lower",
+          "code": "141102059",
+          "psgc": "1430300059"
+        },
+        {
+          "name": "Lourdes Subdivision, Proper",
+          "code": "141102122",
+          "psgc": "1430300122"
+        },
+        {
+          "name": "Lualhati",
+          "code": "141102063",
+          "psgc": "1430300063"
+        },
+        {
+          "name": "Lucnab",
+          "code": "141102064",
+          "psgc": "1430300064"
+        },
+        {
+          "name": "Magsaysay Private Road",
+          "code": "141102066",
+          "psgc": "1430300066"
+        },
+        {
+          "name": "Magsaysay, Lower",
+          "code": "141102065",
+          "psgc": "1430300065"
+        },
+        {
+          "name": "Magsaysay, Upper",
+          "code": "141102159",
+          "psgc": "1430300159"
+        },
+        {
+          "name": "Malcolm Square-Perfecto",
+          "code": "141102147",
+          "psgc": "1430300147"
+        },
+        {
+          "name": "Manuel A. Roxas",
+          "code": "141102148",
+          "psgc": "1430300148"
+        },
+        {
+          "name": "Market Subdivision, Upper",
+          "code": "141102160",
+          "psgc": "1430300160"
+        },
+        {
+          "name": "Middle Quezon Hill Subdivision",
+          "code": "141102154",
+          "psgc": "1430300154"
+        },
+        {
+          "name": "Military Cut-off",
+          "code": "141102071",
+          "psgc": "1430300071"
+        },
+        {
+          "name": "Mines View Park",
+          "code": "141102072",
+          "psgc": "1430300072"
+        },
+        {
+          "name": "Modern Site, East",
+          "code": "141102074",
+          "psgc": "1430300074"
+        },
+        {
+          "name": "Modern Site, West",
+          "code": "141102075",
+          "psgc": "1430300075"
+        },
+        {
+          "name": "MRR-Queen Of Peace",
+          "code": "141102091",
+          "psgc": "1430300091"
+        },
+        {
+          "name": "New Lucban",
+          "code": "141102076",
+          "psgc": "1430300076"
+        },
+        {
+          "name": "Outlook Drive",
+          "code": "141102081",
+          "psgc": "1430300081"
+        },
+        {
+          "name": "Pacdal",
+          "code": "141102082",
+          "psgc": "1430300082"
+        },
+        {
+          "name": "Padre Burgos",
+          "code": "141102149",
+          "psgc": "1430300149"
+        },
+        {
+          "name": "Padre Zamora",
+          "code": "141102161",
+          "psgc": "1430300161"
+        },
+        {
+          "name": "Palma-Urbano",
+          "code": "141102134",
+          "psgc": "1430300134"
+        },
+        {
+          "name": "Phil-Am",
+          "code": "141102152",
+          "psgc": "1430300152"
+        },
+        {
+          "name": "Pinget",
+          "code": "141102086",
+          "psgc": "1430300086"
+        },
+        {
+          "name": "Pinsao Pilot Project",
+          "code": "141102087",
+          "psgc": "1430300087"
+        },
+        {
+          "name": "Pinsao Proper",
+          "code": "141102088",
+          "psgc": "1430300088"
+        },
+        {
+          "name": "Poliwes",
+          "code": "141102089",
+          "psgc": "1430300089"
+        },
+        {
+          "name": "Pucsusan",
+          "code": "141102090",
+          "psgc": "1430300090"
+        },
+        {
+          "name": "Quezon Hill Proper",
+          "code": "141102153",
+          "psgc": "1430300153"
+        },
+        {
+          "name": "Quezon Hill, Upper",
+          "code": "141102150",
+          "psgc": "1430300150"
+        },
+        {
+          "name": "Quirino Hill, East",
+          "code": "141102034",
+          "psgc": "1430300034"
+        },
+        {
+          "name": "Quirino Hill, Lower",
+          "code": "141102061",
+          "psgc": "1430300061"
+        },
+        {
+          "name": "Quirino Hill, Middle",
+          "code": "141102069",
+          "psgc": "1430300069"
+        },
+        {
+          "name": "Quirino Hill, West",
+          "code": "141102116",
+          "psgc": "1430300116"
+        },
+        {
+          "name": "Quirino-Magsaysay, Upper",
+          "code": "141102124",
+          "psgc": "1430300124"
+        },
+        {
+          "name": "Rizal Monument Area",
+          "code": "141102155",
+          "psgc": "1430300155"
+        },
+        {
+          "name": "Rock Quarry, Lower",
+          "code": "141102092",
+          "psgc": "1430300092"
+        },
+        {
+          "name": "Rock Quarry, Middle",
+          "code": "141102151",
+          "psgc": "1430300151"
+        },
+        {
+          "name": "Rock Quarry, Upper",
+          "code": "141102114",
+          "psgc": "1430300114"
+        },
+        {
+          "name": "Saint Joseph Village",
+          "code": "141102110",
+          "psgc": "1430300110"
+        },
+        {
+          "name": "Salud Mitra",
+          "code": "141102094",
+          "psgc": "1430300094"
+        },
+        {
+          "name": "San Antonio Village",
+          "code": "141102096",
+          "psgc": "1430300096"
+        },
+        {
+          "name": "San Luis Village",
+          "code": "141102097",
+          "psgc": "1430300097"
+        },
+        {
+          "name": "San Roque Village",
+          "code": "141102098",
+          "psgc": "1430300098"
+        },
+        {
+          "name": "San Vicente",
+          "code": "141102099",
+          "psgc": "1430300099"
+        },
+        {
+          "name": "Sanitary Camp, North",
+          "code": "141102079",
+          "psgc": "1430300079"
+        },
+        {
+          "name": "Sanitary Camp, South",
+          "code": "141102109",
+          "psgc": "1430300109"
+        },
+        {
+          "name": "Santa Escolastica",
+          "code": "141102100",
+          "psgc": "1430300100"
+        },
+        {
+          "name": "Santo Rosario",
+          "code": "141102101",
+          "psgc": "1430300101"
+        },
+        {
+          "name": "Santo Tomas Proper",
+          "code": "141102103",
+          "psgc": "1430300103"
+        },
+        {
+          "name": "Santo Tomas School Area",
+          "code": "141102102",
+          "psgc": "1430300102"
+        },
+        {
+          "name": "Scout Barrio",
+          "code": "141102105",
+          "psgc": "1430300105"
+        },
+        {
+          "name": "Session Road Area",
+          "code": "141102106",
+          "psgc": "1430300106"
+        },
+        {
+          "name": "Slaughter House Area",
+          "code": "141102107",
+          "psgc": "1430300107"
+        },
+        {
+          "name": "SLU-SVP Housing Village",
+          "code": "141102156",
+          "psgc": "1430300156"
+        },
+        {
+          "name": "South Drive",
+          "code": "141102157",
+          "psgc": "1430300157"
+        },
+        {
+          "name": "Teodora Alonzo",
+          "code": "141102111",
+          "psgc": "1430300111"
+        },
+        {
+          "name": "Trancoville",
+          "code": "141102112",
+          "psgc": "1430300112"
+        },
+        {
+          "name": "Victoria Village",
+          "code": "141102115",
+          "psgc": "1430300115"
+        }
+      ]
+    },
+    {
+      "name": "Itogon",
+      "code": "141106000",
+      "psgc": "1401106000",
+      "barangays": [
+        {
+          "name": "Ampucao",
+          "code": "141106001",
+          "psgc": "1401106001"
+        },
+        {
+          "name": "Dalupirip",
+          "code": "141106002",
+          "psgc": "1401106002"
+        },
+        {
+          "name": "Gumatdang",
+          "code": "141106003",
+          "psgc": "1401106003"
+        },
+        {
+          "name": "Loacan",
+          "code": "141106004",
+          "psgc": "1401106004"
+        },
+        {
+          "name": "Poblacion",
+          "code": "141106005",
+          "psgc": "1401106005"
+        },
+        {
+          "name": "Tinongdan",
+          "code": "141106006",
+          "psgc": "1401106006"
+        },
+        {
+          "name": "Tuding",
+          "code": "141106007",
+          "psgc": "1401106007"
+        },
+        {
+          "name": "Ucab",
+          "code": "141106008",
+          "psgc": "1401106008"
+        },
+        {
+          "name": "Virac",
+          "code": "141106009",
+          "psgc": "1401106009"
+        }
+      ]
+    },
+    {
+      "name": "Kabayan",
+      "code": "141107000",
+      "psgc": "1401107000",
+      "barangays": [
+        {
+          "name": "Adaoay",
+          "code": "141107001",
+          "psgc": "1401107001"
+        },
+        {
+          "name": "Anchukey",
+          "code": "141107002",
+          "psgc": "1401107002"
+        },
+        {
+          "name": "Ballay",
+          "code": "141107003",
+          "psgc": "1401107003"
+        },
+        {
+          "name": "Bashoy",
+          "code": "141107004",
+          "psgc": "1401107004"
+        },
+        {
+          "name": "Batan",
+          "code": "141107005",
+          "psgc": "1401107005"
+        },
+        {
+          "name": "Duacan",
+          "code": "141107009",
+          "psgc": "1401107009"
+        },
+        {
+          "name": "Eddet",
+          "code": "141107010",
+          "psgc": "1401107010"
+        },
+        {
+          "name": "Gusaran",
+          "code": "141107012",
+          "psgc": "1401107012"
+        },
+        {
+          "name": "Kabayan Barrio",
+          "code": "141107013",
+          "psgc": "1401107013"
+        },
+        {
+          "name": "Lusod",
+          "code": "141107014",
+          "psgc": "1401107014"
+        },
+        {
+          "name": "Pacso",
+          "code": "141107016",
+          "psgc": "1401107016"
+        },
+        {
+          "name": "Poblacion",
+          "code": "141107017",
+          "psgc": "1401107017"
+        },
+        {
+          "name": "Tawangan",
+          "code": "141107018",
+          "psgc": "1401107018"
+        }
+      ]
+    },
+    {
+      "name": "Kapangan",
+      "code": "141108000",
+      "psgc": "1401108000",
+      "barangays": [
+        {
+          "name": "Balakbak",
+          "code": "141108001",
+          "psgc": "1401108001"
+        },
+        {
+          "name": "Beleng-Belis",
+          "code": "141108002",
+          "psgc": "1401108002"
+        },
+        {
+          "name": "Boklaoan",
+          "code": "141108003",
+          "psgc": "1401108003"
+        },
+        {
+          "name": "Cayapes",
+          "code": "141108004",
+          "psgc": "1401108004"
+        },
+        {
+          "name": "Cuba",
+          "code": "141108006",
+          "psgc": "1401108006"
+        },
+        {
+          "name": "Datakan",
+          "code": "141108008",
+          "psgc": "1401108008"
+        },
+        {
+          "name": "Gadang",
+          "code": "141108009",
+          "psgc": "1401108009"
+        },
+        {
+          "name": "Gasweling",
+          "code": "141108010",
+          "psgc": "1401108010"
+        },
+        {
+          "name": "Labueg",
+          "code": "141108011",
+          "psgc": "1401108011"
+        },
+        {
+          "name": "Paykek",
+          "code": "141108013",
+          "psgc": "1401108013"
+        },
+        {
+          "name": "Poblacion Central",
+          "code": "141108014",
+          "psgc": "1401108014"
+        },
+        {
+          "name": "Pongayan",
+          "code": "141108016",
+          "psgc": "1401108016"
+        },
+        {
+          "name": "Pudong",
+          "code": "141108015",
+          "psgc": "1401108015"
+        },
+        {
+          "name": "Sagubo",
+          "code": "141108017",
+          "psgc": "1401108017"
+        },
+        {
+          "name": "Taba-ao",
+          "code": "141108018",
+          "psgc": "1401108018"
+        }
+      ]
+    },
+    {
+      "name": "Kibungan",
+      "code": "141109000",
+      "psgc": "1401109000",
+      "barangays": [
+        {
+          "name": "Badeo",
+          "code": "141109001",
+          "psgc": "1401109001"
+        },
+        {
+          "name": "Lubo",
+          "code": "141109002",
+          "psgc": "1401109002"
+        },
+        {
+          "name": "Madaymen",
+          "code": "141109003",
+          "psgc": "1401109003"
+        },
+        {
+          "name": "Palina",
+          "code": "141109004",
+          "psgc": "1401109004"
+        },
+        {
+          "name": "Poblacion",
+          "code": "141109005",
+          "psgc": "1401109005"
+        },
+        {
+          "name": "Sagpat",
+          "code": "141109006",
+          "psgc": "1401109006"
+        },
+        {
+          "name": "Tacadang",
+          "code": "141109007",
+          "psgc": "1401109007"
+        }
+      ]
+    },
+    {
+      "name": "La Trinidad",
+      "code": "141110000",
+      "psgc": "1401110000",
+      "barangays": [
+        {
+          "name": "Alapang",
+          "code": "141110001",
+          "psgc": "1401110001"
+        },
+        {
+          "name": "Alno",
+          "code": "141110002",
+          "psgc": "1401110002"
+        },
+        {
+          "name": "Ambiong",
+          "code": "141110003",
+          "psgc": "1401110003"
+        },
+        {
+          "name": "Bahong",
+          "code": "141110004",
+          "psgc": "1401110004"
+        },
+        {
+          "name": "Balili",
+          "code": "141110005",
+          "psgc": "1401110005"
+        },
+        {
+          "name": "Beckel",
+          "code": "141110006",
+          "psgc": "1401110006"
+        },
+        {
+          "name": "Betag",
+          "code": "141110008",
+          "psgc": "1401110008"
+        },
+        {
+          "name": "Bineng",
+          "code": "141110007",
+          "psgc": "1401110007"
+        },
+        {
+          "name": "Cruz",
+          "code": "141110009",
+          "psgc": "1401110009"
+        },
+        {
+          "name": "Lubas",
+          "code": "141110010",
+          "psgc": "1401110010"
+        },
+        {
+          "name": "Pico",
+          "code": "141110011",
+          "psgc": "1401110011"
+        },
+        {
+          "name": "Poblacion",
+          "code": "141110012",
+          "psgc": "1401110012"
+        },
+        {
+          "name": "Puguis",
+          "code": "141110013",
+          "psgc": "1401110013"
+        },
+        {
+          "name": "Shilan",
+          "code": "141110014",
+          "psgc": "1401110014"
+        },
+        {
+          "name": "Tawang",
+          "code": "141110015",
+          "psgc": "1401110015"
+        },
+        {
+          "name": "Wangal",
+          "code": "141110016",
+          "psgc": "1401110016"
+        }
+      ]
+    },
+    {
+      "name": "Mankayan",
+      "code": "141111000",
+      "psgc": "1401111000",
+      "barangays": [
+        {
+          "name": "Balili",
+          "code": "141111001",
+          "psgc": "1401111001"
+        },
+        {
+          "name": "Bedbed",
+          "code": "141111002",
+          "psgc": "1401111002"
+        },
+        {
+          "name": "Bulalacao",
+          "code": "141111003",
+          "psgc": "1401111003"
+        },
+        {
+          "name": "Cabiten",
+          "code": "141111004",
+          "psgc": "1401111004"
+        },
+        {
+          "name": "Colalo",
+          "code": "141111005",
+          "psgc": "1401111005"
+        },
+        {
+          "name": "Guinaoang",
+          "code": "141111006",
+          "psgc": "1401111006"
+        },
+        {
+          "name": "Paco",
+          "code": "141111008",
+          "psgc": "1401111008"
+        },
+        {
+          "name": "Palasaan",
+          "code": "141111009",
+          "psgc": "1401111009"
+        },
+        {
+          "name": "Poblacion",
+          "code": "141111010",
+          "psgc": "1401111010"
+        },
+        {
+          "name": "Sapid",
+          "code": "141111011",
+          "psgc": "1401111011"
+        },
+        {
+          "name": "Tabio",
+          "code": "141111012",
+          "psgc": "1401111012"
+        },
+        {
+          "name": "Taneg",
+          "code": "141111013",
+          "psgc": "1401111013"
+        }
+      ]
+    },
+    {
+      "name": "Sablan",
+      "code": "141112000",
+      "psgc": "1401112000",
+      "barangays": [
+        {
+          "name": "Bagong",
+          "code": "141112002",
+          "psgc": "1401112002"
+        },
+        {
+          "name": "Balluay",
+          "code": "141112003",
+          "psgc": "1401112003"
+        },
+        {
+          "name": "Banangan",
+          "code": "141112004",
+          "psgc": "1401112004"
+        },
+        {
+          "name": "Banengbeng",
+          "code": "141112005",
+          "psgc": "1401112005"
+        },
+        {
+          "name": "Bayabas",
+          "code": "141112006",
+          "psgc": "1401112006"
+        },
+        {
+          "name": "Kamog",
+          "code": "141112007",
+          "psgc": "1401112007"
+        },
+        {
+          "name": "Pappa",
+          "code": "141112010",
+          "psgc": "1401112010"
+        },
+        {
+          "name": "Poblacion",
+          "code": "141112011",
+          "psgc": "1401112011"
+        }
+      ]
+    },
+    {
+      "name": "Tuba",
+      "code": "141113000",
+      "psgc": "1401113000",
+      "barangays": [
+        {
+          "name": "Ansagan",
+          "code": "141113001",
+          "psgc": "1401113001"
+        },
+        {
+          "name": "Camp 3",
+          "code": "141113003",
+          "psgc": "1401113003"
+        },
+        {
+          "name": "Camp 4",
+          "code": "141113004",
+          "psgc": "1401113004"
+        },
+        {
+          "name": "Camp One",
+          "code": "141113002",
+          "psgc": "1401113002"
+        },
+        {
+          "name": "Nangalisan",
+          "code": "141113006",
+          "psgc": "1401113006"
+        },
+        {
+          "name": "Poblacion",
+          "code": "141113007",
+          "psgc": "1401113007"
+        },
+        {
+          "name": "San Pascual",
+          "code": "141113008",
+          "psgc": "1401113008"
+        },
+        {
+          "name": "Tabaan Norte",
+          "code": "141113009",
+          "psgc": "1401113009"
+        },
+        {
+          "name": "Tabaan Sur",
+          "code": "141113010",
+          "psgc": "1401113010"
+        },
+        {
+          "name": "Tadiangan",
+          "code": "141113011",
+          "psgc": "1401113011"
+        },
+        {
+          "name": "Taloy Norte",
+          "code": "141113012",
+          "psgc": "1401113012"
+        },
+        {
+          "name": "Taloy Sur",
+          "code": "141113013",
+          "psgc": "1401113013"
+        },
+        {
+          "name": "Twin Peaks",
+          "code": "141113014",
+          "psgc": "1401113014"
+        }
+      ]
+    },
+    {
+      "name": "Tublay",
+      "code": "141114000",
+      "psgc": "1401114000",
+      "barangays": [
+        {
+          "name": "Ambassador",
+          "code": "141114001",
+          "psgc": "1401114001"
+        },
+        {
+          "name": "Ambongdolan",
+          "code": "141114002",
+          "psgc": "1401114002"
+        },
+        {
+          "name": "Ba-ayan",
+          "code": "141114003",
+          "psgc": "1401114003"
+        },
+        {
+          "name": "Basil",
+          "code": "141114004",
+          "psgc": "1401114004"
+        },
+        {
+          "name": "Caponga (Pob.)",
+          "code": "141114006",
+          "psgc": "1401114006"
+        },
+        {
+          "name": "Daclan",
+          "code": "141114005",
+          "psgc": "1401114005"
+        },
+        {
+          "name": "Tublay Central",
+          "code": "141114007",
+          "psgc": "1401114007"
+        },
+        {
+          "name": "Tuel",
+          "code": "141114008",
+          "psgc": "1401114008"
+        }
+      ]
+    }
+  ]
+}
