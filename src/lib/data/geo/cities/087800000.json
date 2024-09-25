@@ -1,720 +1,719 @@
 {
-  "province": "Biliran",
   "code": "087800000",
   "cities": [
     {
-      "name": "Almeria",
+      "label": "Almeria",
       "code": "087801000",
-      "psgc": "0807801000",
+      "value": "0807801000",
       "barangays": [
         {
-          "name": "Caucab",
+          "label": "Caucab",
           "code": "087801001",
-          "psgc": "0807801001"
+          "value": "0807801001"
         },
         {
-          "name": "Iyosan",
+          "label": "Iyosan",
           "code": "087801002",
-          "psgc": "0807801002"
+          "value": "0807801002"
         },
         {
-          "name": "Jamorawon",
+          "label": "Jamorawon",
           "code": "087801003",
-          "psgc": "0807801003"
+          "value": "0807801003"
         },
         {
-          "name": "Lo-ok",
+          "label": "Lo-ok",
           "code": "087801004",
-          "psgc": "0807801004"
+          "value": "0807801004"
         },
         {
-          "name": "Matanga",
+          "label": "Matanga",
           "code": "087801005",
-          "psgc": "0807801005"
+          "value": "0807801005"
         },
         {
-          "name": "Pili",
+          "label": "Pili",
           "code": "087801006",
-          "psgc": "0807801006"
+          "value": "0807801006"
         },
         {
-          "name": "Poblacion",
+          "label": "Poblacion",
           "code": "087801007",
-          "psgc": "0807801007"
+          "value": "0807801007"
         },
         {
-          "name": "Pulang Bato",
+          "label": "Pulang Bato",
           "code": "087801008",
-          "psgc": "0807801008"
+          "value": "0807801008"
         },
         {
-          "name": "Salangi",
+          "label": "Salangi",
           "code": "087801009",
-          "psgc": "0807801009"
+          "value": "0807801009"
         },
         {
-          "name": "Sampao",
+          "label": "Sampao",
           "code": "087801010",
-          "psgc": "0807801010"
+          "value": "0807801010"
         },
         {
-          "name": "Tabunan",
+          "label": "Tabunan",
           "code": "087801011",
-          "psgc": "0807801011"
+          "value": "0807801011"
         },
         {
-          "name": "Talahid",
+          "label": "Talahid",
           "code": "087801012",
-          "psgc": "0807801012"
+          "value": "0807801012"
         },
         {
-          "name": "Tamarindo",
+          "label": "Tamarindo",
           "code": "087801013",
-          "psgc": "0807801013"
+          "value": "0807801013"
         }
       ]
     },
     {
-      "name": "Biliran",
+      "label": "Biliran",
       "code": "087802000",
-      "psgc": "0807802000",
+      "value": "0807802000",
       "barangays": [
         {
-          "name": "Bato",
+          "label": "Bato",
           "code": "087802001",
-          "psgc": "0807802001"
+          "value": "0807802001"
         },
         {
-          "name": "Burabod",
+          "label": "Burabod",
           "code": "087802002",
-          "psgc": "0807802002"
+          "value": "0807802002"
         },
         {
-          "name": "Busali",
+          "label": "Busali",
           "code": "087802003",
-          "psgc": "0807802003"
+          "value": "0807802003"
         },
         {
-          "name": "Canila",
+          "label": "Canila",
           "code": "087802006",
-          "psgc": "0807802006"
+          "value": "0807802006"
         },
         {
-          "name": "Hugpa",
+          "label": "Hugpa",
           "code": "087802004",
-          "psgc": "0807802004"
+          "value": "0807802004"
         },
         {
-          "name": "Julita",
+          "label": "Julita",
           "code": "087802005",
-          "psgc": "0807802005"
+          "value": "0807802005"
         },
         {
-          "name": "Pinangumhan",
+          "label": "Pinangumhan",
           "code": "087802007",
-          "psgc": "0807802007"
+          "value": "0807802007"
         },
         {
-          "name": "San Isidro (Pob.)",
+          "label": "San Isidro (Pob.)",
           "code": "087802008",
-          "psgc": "0807802008"
+          "value": "0807802008"
         },
         {
-          "name": "San Roque (Pob.)",
+          "label": "San Roque (Pob.)",
           "code": "087802009",
-          "psgc": "0807802009"
+          "value": "0807802009"
         },
         {
-          "name": "Sanggalang",
+          "label": "Sanggalang",
           "code": "087802010",
-          "psgc": "0807802010"
+          "value": "0807802010"
         },
         {
-          "name": "Villa Enage",
+          "label": "Villa Enage",
           "code": "087802011",
-          "psgc": "0807802011"
+          "value": "0807802011"
         }
       ]
     },
     {
-      "name": "Cabucgayan",
+      "label": "Cabucgayan",
       "code": "087803000",
-      "psgc": "0807803000",
+      "value": "0807803000",
       "barangays": [
         {
-          "name": "Balaquid",
+          "label": "Balaquid",
           "code": "087803001",
-          "psgc": "0807803001"
+          "value": "0807803001"
         },
         {
-          "name": "Baso",
+          "label": "Baso",
           "code": "087803002",
-          "psgc": "0807803002"
+          "value": "0807803002"
         },
         {
-          "name": "Bunga",
+          "label": "Bunga",
           "code": "087803003",
-          "psgc": "0807803003"
+          "value": "0807803003"
         },
         {
-          "name": "Caanibongan",
+          "label": "Caanibongan",
           "code": "087803004",
-          "psgc": "0807803004"
+          "value": "0807803004"
         },
         {
-          "name": "Casiawan",
+          "label": "Casiawan",
           "code": "087803005",
-          "psgc": "0807803005"
+          "value": "0807803005"
         },
         {
-          "name": "Esperanza (Pob.)",
+          "label": "Esperanza (Pob.)",
           "code": "087803007",
-          "psgc": "0807803007"
+          "value": "0807803007"
         },
         {
-          "name": "Langgao",
+          "label": "Langgao",
           "code": "087803008",
-          "psgc": "0807803008"
+          "value": "0807803008"
         },
         {
-          "name": "Libertad",
+          "label": "Libertad",
           "code": "087803009",
-          "psgc": "0807803009"
+          "value": "0807803009"
         },
         {
-          "name": "Looc",
+          "label": "Looc",
           "code": "087803010",
-          "psgc": "0807803010"
+          "value": "0807803010"
         },
         {
-          "name": "Magbangon (Pob.)",
+          "label": "Magbangon (Pob.)",
           "code": "087803011",
-          "psgc": "0807803011"
+          "value": "0807803011"
         },
         {
-          "name": "Pawikan",
+          "label": "Pawikan",
           "code": "087803012",
-          "psgc": "0807803012"
+          "value": "0807803012"
         },
         {
-          "name": "Salawad",
+          "label": "Salawad",
           "code": "087803013",
-          "psgc": "0807803013"
+          "value": "0807803013"
         },
         {
-          "name": "Talibong",
+          "label": "Talibong",
           "code": "087803014",
-          "psgc": "0807803014"
+          "value": "0807803014"
         }
       ]
     },
     {
-      "name": "Caibiran",
+      "label": "Caibiran",
       "code": "087804000",
-      "psgc": "0807804000",
+      "value": "0807804000",
       "barangays": [
         {
-          "name": "Alegria",
+          "label": "Alegria",
           "code": "087804001",
-          "psgc": "0807804001"
+          "value": "0807804001"
         },
         {
-          "name": "Asug",
+          "label": "Asug",
           "code": "087804002",
-          "psgc": "0807804002"
+          "value": "0807804002"
         },
         {
-          "name": "Bari-is",
+          "label": "Bari-is",
           "code": "087804003",
-          "psgc": "0807804003"
+          "value": "0807804003"
         },
         {
-          "name": "Binohangan",
+          "label": "Binohangan",
           "code": "087804004",
-          "psgc": "0807804004"
+          "value": "0807804004"
         },
         {
-          "name": "Cabibihan",
+          "label": "Cabibihan",
           "code": "087804005",
-          "psgc": "0807804005"
+          "value": "0807804005"
         },
         {
-          "name": "Caulangohan",
+          "label": "Caulangohan",
           "code": "087804010",
-          "psgc": "0807804010"
+          "value": "0807804010"
         },
         {
-          "name": "Kawayanon",
+          "label": "Kawayanon",
           "code": "087804006",
-          "psgc": "0807804006"
+          "value": "0807804006"
         },
         {
-          "name": "Looc",
+          "label": "Looc",
           "code": "087804007",
-          "psgc": "0807804007"
+          "value": "0807804007"
         },
         {
-          "name": "Manlabang",
+          "label": "Manlabang",
           "code": "087804009",
-          "psgc": "0807804009"
+          "value": "0807804009"
         },
         {
-          "name": "Maurang",
+          "label": "Maurang",
           "code": "087804011",
-          "psgc": "0807804011"
+          "value": "0807804011"
         },
         {
-          "name": "Palanay (Pob.)",
+          "label": "Palanay (Pob.)",
           "code": "087804012",
-          "psgc": "0807804012"
+          "value": "0807804012"
         },
         {
-          "name": "Palengke (Pob.)",
+          "label": "Palengke (Pob.)",
           "code": "087804013",
-          "psgc": "0807804013"
+          "value": "0807804013"
         },
         {
-          "name": "Tomalistis",
+          "label": "Tomalistis",
           "code": "087804014",
-          "psgc": "0807804014"
+          "value": "0807804014"
         },
         {
-          "name": "Union",
+          "label": "Union",
           "code": "087804015",
-          "psgc": "0807804015"
+          "value": "0807804015"
         },
         {
-          "name": "Uson",
+          "label": "Uson",
           "code": "087804016",
-          "psgc": "0807804016"
+          "value": "0807804016"
         },
         {
-          "name": "Victory (Pob.)",
+          "label": "Victory (Pob.)",
           "code": "087804017",
-          "psgc": "0807804017"
+          "value": "0807804017"
         },
         {
-          "name": "Villa Vicenta",
+          "label": "Villa Vicenta",
           "code": "087804018",
-          "psgc": "0807804018"
+          "value": "0807804018"
         }
       ]
     },
     {
-      "name": "Culaba",
+      "label": "Culaba",
       "code": "087805000",
-      "psgc": "0807805000",
+      "value": "0807805000",
       "barangays": [
         {
-          "name": "Acaban",
+          "label": "Acaban",
           "code": "087805001",
-          "psgc": "0807805001"
+          "value": "0807805001"
         },
         {
-          "name": "Bacolod",
+          "label": "Bacolod",
           "code": "087805002",
-          "psgc": "0807805002"
+          "value": "0807805002"
         },
         {
-          "name": "Binongtoan",
+          "label": "Binongtoan",
           "code": "087805003",
-          "psgc": "0807805003"
+          "value": "0807805003"
         },
         {
-          "name": "Bool Central (Pob.)",
+          "label": "Bool Central (Pob.)",
           "code": "087805004",
-          "psgc": "0807805004"
+          "value": "0807805004"
         },
         {
-          "name": "Bool East (Pob.)",
+          "label": "Bool East (Pob.)",
           "code": "087805005",
-          "psgc": "0807805005"
+          "value": "0807805005"
         },
         {
-          "name": "Bool West (Pob.)",
+          "label": "Bool West (Pob.)",
           "code": "087805006",
-          "psgc": "0807805006"
+          "value": "0807805006"
         },
         {
-          "name": "Calipayan",
+          "label": "Calipayan",
           "code": "087805007",
-          "psgc": "0807805007"
+          "value": "0807805007"
         },
         {
-          "name": "Culaba Central (Pob.)",
+          "label": "Culaba Central (Pob.)",
           "code": "087805014",
-          "psgc": "0807805014"
+          "value": "0807805014"
         },
         {
-          "name": "Guindapunan",
+          "label": "Guindapunan",
           "code": "087805008",
-          "psgc": "0807805008"
+          "value": "0807805008"
         },
         {
-          "name": "Habuhab",
+          "label": "Habuhab",
           "code": "087805009",
-          "psgc": "0807805009"
+          "value": "0807805009"
         },
         {
-          "name": "Looc",
+          "label": "Looc",
           "code": "087805010",
-          "psgc": "0807805010"
+          "value": "0807805010"
         },
         {
-          "name": "Marvel (Pob.)",
+          "label": "Marvel (Pob.)",
           "code": "087805011",
-          "psgc": "0807805011"
+          "value": "0807805011"
         },
         {
-          "name": "Patag",
+          "label": "Patag",
           "code": "087805012",
-          "psgc": "0807805012"
+          "value": "0807805012"
         },
         {
-          "name": "Pinamihagan",
+          "label": "Pinamihagan",
           "code": "087805013",
-          "psgc": "0807805013"
+          "value": "0807805013"
         },
         {
-          "name": "Salvacion",
+          "label": "Salvacion",
           "code": "087805015",
-          "psgc": "0807805015"
+          "value": "0807805015"
         },
         {
-          "name": "San Roque",
+          "label": "San Roque",
           "code": "087805016",
-          "psgc": "0807805016"
+          "value": "0807805016"
         },
         {
-          "name": "Virginia (Pob.)",
+          "label": "Virginia (Pob.)",
           "code": "087805017",
-          "psgc": "0807805017"
+          "value": "0807805017"
         }
       ]
     },
     {
-      "name": "Kawayan",
+      "label": "Kawayan",
       "code": "087806000",
-      "psgc": "0807806000",
+      "value": "0807806000",
       "barangays": [
         {
-          "name": "Baganito",
+          "label": "Baganito",
           "code": "087806001",
-          "psgc": "0807806001"
+          "value": "0807806001"
         },
         {
-          "name": "Balacson",
+          "label": "Balacson",
           "code": "087806002",
-          "psgc": "0807806002"
+          "value": "0807806002"
         },
         {
-          "name": "Balite",
+          "label": "Balite",
           "code": "087806017",
-          "psgc": "0807806017"
+          "value": "0807806017"
         },
         {
-          "name": "Bilwang",
+          "label": "Bilwang",
           "code": "087806003",
-          "psgc": "0807806003"
+          "value": "0807806003"
         },
         {
-          "name": "Bulalacao",
+          "label": "Bulalacao",
           "code": "087806004",
-          "psgc": "0807806004"
+          "value": "0807806004"
         },
         {
-          "name": "Burabod",
+          "label": "Burabod",
           "code": "087806005",
-          "psgc": "0807806005"
+          "value": "0807806005"
         },
         {
-          "name": "Buyo",
+          "label": "Buyo",
           "code": "087806018",
-          "psgc": "0807806018"
+          "value": "0807806018"
         },
         {
-          "name": "Inasuyan",
+          "label": "Inasuyan",
           "code": "087806006",
-          "psgc": "0807806006"
+          "value": "0807806006"
         },
         {
-          "name": "Kansanok",
+          "label": "Kansanok",
           "code": "087806007",
-          "psgc": "0807806007"
+          "value": "0807806007"
         },
         {
-          "name": "Mada-o",
+          "label": "Mada-o",
           "code": "087806008",
-          "psgc": "0807806008"
+          "value": "0807806008"
         },
         {
-          "name": "Mapuyo",
+          "label": "Mapuyo",
           "code": "087806009",
-          "psgc": "0807806009"
+          "value": "0807806009"
         },
         {
-          "name": "Masagaosao",
+          "label": "Masagaosao",
           "code": "087806010",
-          "psgc": "0807806010"
+          "value": "0807806010"
         },
         {
-          "name": "Masagongsong",
+          "label": "Masagongsong",
           "code": "087806011",
-          "psgc": "0807806011"
+          "value": "0807806011"
         },
         {
-          "name": "Poblacion",
+          "label": "Poblacion",
           "code": "087806012",
-          "psgc": "0807806012"
+          "value": "0807806012"
         },
         {
-          "name": "San Lorenzo",
+          "label": "San Lorenzo",
           "code": "087806020",
-          "psgc": "0807806020"
+          "value": "0807806020"
         },
         {
-          "name": "Tabunan North",
+          "label": "Tabunan North",
           "code": "087806013",
-          "psgc": "0807806013"
+          "value": "0807806013"
         },
         {
-          "name": "Tubig Guinoo",
+          "label": "Tubig Guinoo",
           "code": "087806014",
-          "psgc": "0807806014"
+          "value": "0807806014"
         },
         {
-          "name": "Tucdao",
+          "label": "Tucdao",
           "code": "087806015",
-          "psgc": "0807806015"
+          "value": "0807806015"
         },
         {
-          "name": "Ungale",
+          "label": "Ungale",
           "code": "087806016",
-          "psgc": "0807806016"
+          "value": "0807806016"
         },
         {
-          "name": "Villa Cornejo",
+          "label": "Villa Cornejo",
           "code": "087806019",
-          "psgc": "0807806019"
+          "value": "0807806019"
         }
       ]
     },
     {
-      "name": "Maripipi",
+      "label": "Maripipi",
       "code": "087807000",
-      "psgc": "0807807000",
+      "value": "0807807000",
       "barangays": [
         {
-          "name": "Agutay",
+          "label": "Agutay",
           "code": "087807001",
-          "psgc": "0807807001"
+          "value": "0807807001"
         },
         {
-          "name": "Banlas",
+          "label": "Banlas",
           "code": "087807002",
-          "psgc": "0807807002"
+          "value": "0807807002"
         },
         {
-          "name": "Bato",
+          "label": "Bato",
           "code": "087807003",
-          "psgc": "0807807003"
+          "value": "0807807003"
         },
         {
-          "name": "Binalayan East",
+          "label": "Binalayan East",
           "code": "087807005",
-          "psgc": "0807807005"
+          "value": "0807807005"
         },
         {
-          "name": "Binalayan West",
+          "label": "Binalayan West",
           "code": "087807004",
-          "psgc": "0807807004"
+          "value": "0807807004"
         },
         {
-          "name": "Binongto-an",
+          "label": "Binongto-an",
           "code": "087807015",
-          "psgc": "0807807015"
+          "value": "0807807015"
         },
         {
-          "name": "Burabod",
+          "label": "Burabod",
           "code": "087807008",
-          "psgc": "0807807008"
+          "value": "0807807008"
         },
         {
-          "name": "Calbani",
+          "label": "Calbani",
           "code": "087807009",
-          "psgc": "0807807009"
+          "value": "0807807009"
         },
         {
-          "name": "Canduhao",
+          "label": "Canduhao",
           "code": "087807010",
-          "psgc": "0807807010"
+          "value": "0807807010"
         },
         {
-          "name": "Casibang",
+          "label": "Casibang",
           "code": "087807011",
-          "psgc": "0807807011"
+          "value": "0807807011"
         },
         {
-          "name": "Danao",
+          "label": "Danao",
           "code": "087807012",
-          "psgc": "0807807012"
+          "value": "0807807012"
         },
         {
-          "name": "Ermita",
+          "label": "Ermita",
           "code": "087807016",
-          "psgc": "0807807016"
+          "value": "0807807016"
         },
         {
-          "name": "Ol-og",
+          "label": "Ol-og",
           "code": "087807014",
-          "psgc": "0807807014"
+          "value": "0807807014"
         },
         {
-          "name": "Trabugan",
+          "label": "Trabugan",
           "code": "087807017",
-          "psgc": "0807807017"
+          "value": "0807807017"
         },
         {
-          "name": "Viga",
+          "label": "Viga",
           "code": "087807018",
-          "psgc": "0807807018"
+          "value": "0807807018"
         }
       ]
     },
     {
-      "name": "Naval",
+      "label": "Naval",
       "code": "087808000",
-      "psgc": "0807808000",
+      "value": "0807808000",
       "barangays": [
         {
-          "name": "Agpangi",
+          "label": "Agpangi",
           "code": "087808001",
-          "psgc": "0807808001"
+          "value": "0807808001"
         },
         {
-          "name": "Anislagan",
+          "label": "Anislagan",
           "code": "087808002",
-          "psgc": "0807808002"
+          "value": "0807808002"
         },
         {
-          "name": "Atipolo",
+          "label": "Atipolo",
           "code": "087808003",
-          "psgc": "0807808003"
+          "value": "0807808003"
         },
         {
-          "name": "Borac",
+          "label": "Borac",
           "code": "087808021",
-          "psgc": "0807808021"
+          "value": "0807808021"
         },
         {
-          "name": "Cabungaan",
+          "label": "Cabungaan",
           "code": "087808022",
-          "psgc": "0807808022"
+          "value": "0807808022"
         },
         {
-          "name": "Calumpang",
+          "label": "Calumpang",
           "code": "087808004",
-          "psgc": "0807808004"
+          "value": "0807808004"
         },
         {
-          "name": "Capiñahan",
+          "label": "Capiñahan",
           "code": "087808005",
-          "psgc": "0807808005"
+          "value": "0807808005"
         },
         {
-          "name": "Caraycaray",
+          "label": "Caraycaray",
           "code": "087808006",
-          "psgc": "0807808006"
+          "value": "0807808006"
         },
         {
-          "name": "Catmon",
+          "label": "Catmon",
           "code": "087808007",
-          "psgc": "0807808007"
+          "value": "0807808007"
         },
         {
-          "name": "Haguikhikan",
+          "label": "Haguikhikan",
           "code": "087808008",
-          "psgc": "0807808008"
+          "value": "0807808008"
         },
         {
-          "name": "Imelda",
+          "label": "Imelda",
           "code": "087808023",
-          "psgc": "0807808023"
+          "value": "0807808023"
         },
         {
-          "name": "Larrazabal",
+          "label": "Larrazabal",
           "code": "087808024",
-          "psgc": "0807808024"
+          "value": "0807808024"
         },
         {
-          "name": "Libertad",
+          "label": "Libertad",
           "code": "087808010",
-          "psgc": "0807808010"
+          "value": "0807808010"
         },
         {
-          "name": "Libtong",
+          "label": "Libtong",
           "code": "087808025",
-          "psgc": "0807808025"
+          "value": "0807808025"
         },
         {
-          "name": "Lico",
+          "label": "Lico",
           "code": "087808012",
-          "psgc": "0807808012"
+          "value": "0807808012"
         },
         {
-          "name": "Lucsoon",
+          "label": "Lucsoon",
           "code": "087808013",
-          "psgc": "0807808013"
+          "value": "0807808013"
         },
         {
-          "name": "Mabini",
+          "label": "Mabini",
           "code": "087808014",
-          "psgc": "0807808014"
+          "value": "0807808014"
         },
         {
-          "name": "Padre Inocentes Garcia (Pob.)",
+          "label": "Padre Inocentes Garcia (Pob.)",
           "code": "087808009",
-          "psgc": "0807808009"
+          "value": "0807808009"
         },
         {
-          "name": "Padre Sergio Eamiguel",
+          "label": "Padre Sergio Eamiguel",
           "code": "087808026",
-          "psgc": "0807808026"
+          "value": "0807808026"
         },
         {
-          "name": "Sabang",
+          "label": "Sabang",
           "code": "087808027",
-          "psgc": "0807808027"
+          "value": "0807808027"
         },
         {
-          "name": "San Pablo",
+          "label": "San Pablo",
           "code": "087808015",
-          "psgc": "0807808015"
+          "value": "0807808015"
         },
         {
-          "name": "Santissimo Rosario Pob.",
+          "label": "Santissimo Rosario Pob.",
           "code": "087808017",
-          "psgc": "0807808017"
+          "value": "0807808017"
         },
         {
-          "name": "Santo Niño",
+          "label": "Santo Niño",
           "code": "087808016",
-          "psgc": "0807808016"
+          "value": "0807808016"
         },
         {
-          "name": "Talustusan",
+          "label": "Talustusan",
           "code": "087808018",
-          "psgc": "0807808018"
+          "value": "0807808018"
         },
         {
-          "name": "Villa Caneja",
+          "label": "Villa Caneja",
           "code": "087808019",
-          "psgc": "0807808019"
+          "value": "0807808019"
         },
         {
-          "name": "Villa Consuelo",
+          "label": "Villa Consuelo",
           "code": "087808020",
-          "psgc": "0807808020"
+          "value": "0807808020"
         }
       ]
     }

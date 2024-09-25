@@ -33,10 +33,10 @@ async function fetchBarangays(cityCode) {
 
 function processBarangays(barangaysData) {
   return barangaysData.map(item => ({
-    name: item.name,
+    label: item.name,
     code: item.code,
-    psgc: item.psgc10DigitCode
-  })).sort((a, b) => a.name.localeCompare(b.name));
+    value: item.psgc10DigitCode
+  })).sort((a, b) => a.label.localeCompare(b.label));
 }
 
 async function processCitiesMunicipalities(provinceData, citiesData) {
@@ -46,9 +46,9 @@ async function processCitiesMunicipalities(provinceData, citiesData) {
     console.log(`  Fetching barangays for ${city.name}...`);
     const barangaysData = await fetchBarangays(city.code);
     processedCities.push({
-      name: city.name,
+      label: city.name,
       code: city.code,
-      psgc: city.psgc10DigitCode,
+      value: city.psgc10DigitCode,
       barangays: processBarangays(barangaysData)
     });
   }
@@ -56,7 +56,7 @@ async function processCitiesMunicipalities(provinceData, citiesData) {
   return {
     province: provinceData.name,
     code: provinceData.code,
-    cities: processedCities.sort((a, b) => a.name.localeCompare(b.name))
+    cities: processedCities.sort((a, b) => a.label.localeCompare(b.label))
   };
 }
 
@@ -72,7 +72,7 @@ export async function fetchCitiesMunicipalitiesMain() {
     const provinces = await readProvinces();
     
     for (const province of provinces) {
-      console.log(`Fetching data for ${province.name}...`);
+      console.log(`Fetching data for ${province.label}...`);
       const citiesData = await fetchCitiesMunicipalities(province.code);
       const processedData = await processCitiesMunicipalities(province, citiesData);
       await writeToFile(processedData, `${province.code}.json`);

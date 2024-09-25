@@ -1,191 +1,190 @@
 {
-  "province": "Batanes",
   "code": "020900000",
   "cities": [
     {
-      "name": "Basco",
+      "label": "Basco",
       "code": "020901000",
-      "psgc": "0200901000",
+      "value": "0200901000",
       "barangays": [
         {
-          "name": "Chanarian",
+          "label": "Chanarian",
           "code": "020901005",
-          "psgc": "0200901005"
+          "value": "0200901005"
         },
         {
-          "name": "Ihubok I",
+          "label": "Ihubok I",
           "code": "020901002",
-          "psgc": "0200901002"
+          "value": "0200901002"
         },
         {
-          "name": "Ihubok II",
+          "label": "Ihubok II",
           "code": "020901001",
-          "psgc": "0200901001"
+          "value": "0200901001"
         },
         {
-          "name": "Kayhuvokan",
+          "label": "Kayhuvokan",
           "code": "020901006",
-          "psgc": "0200901006"
+          "value": "0200901006"
         },
         {
-          "name": "San Antonio",
+          "label": "San Antonio",
           "code": "020901003",
-          "psgc": "0200901003"
+          "value": "0200901003"
         },
         {
-          "name": "San Joaquin",
+          "label": "San Joaquin",
           "code": "020901004",
-          "psgc": "0200901004"
+          "value": "0200901004"
         }
       ]
     },
     {
-      "name": "Itbayat",
+      "label": "Itbayat",
       "code": "020902000",
-      "psgc": "0200902000",
+      "value": "0200902000",
       "barangays": [
         {
-          "name": "Raele",
+          "label": "Raele",
           "code": "020902006",
-          "psgc": "0200902006"
+          "value": "0200902006"
         },
         {
-          "name": "San Rafael",
+          "label": "San Rafael",
           "code": "020902007",
-          "psgc": "0200902007"
+          "value": "0200902007"
         },
         {
-          "name": "Santa Lucia",
+          "label": "Santa Lucia",
           "code": "020902008",
-          "psgc": "0200902008"
+          "value": "0200902008"
         },
         {
-          "name": "Santa Maria",
+          "label": "Santa Maria",
           "code": "020902009",
-          "psgc": "0200902009"
+          "value": "0200902009"
         },
         {
-          "name": "Santa Rosa",
+          "label": "Santa Rosa",
           "code": "020902010",
-          "psgc": "0200902010"
+          "value": "0200902010"
         }
       ]
     },
     {
-      "name": "Ivana",
+      "label": "Ivana",
       "code": "020903000",
-      "psgc": "0200903000",
+      "value": "0200903000",
       "barangays": [
         {
-          "name": "Radiwan",
+          "label": "Radiwan",
           "code": "020903001",
-          "psgc": "0200903001"
+          "value": "0200903001"
         },
         {
-          "name": "Salagao",
+          "label": "Salagao",
           "code": "020903002",
-          "psgc": "0200903002"
+          "value": "0200903002"
         },
         {
-          "name": "San Vicente",
+          "label": "San Vicente",
           "code": "020903003",
-          "psgc": "0200903003"
+          "value": "0200903003"
         },
         {
-          "name": "Tuhel (Pob.)",
+          "label": "Tuhel (Pob.)",
           "code": "020903004",
-          "psgc": "0200903004"
+          "value": "0200903004"
         }
       ]
     },
     {
-      "name": "Mahatao",
+      "label": "Mahatao",
       "code": "020904000",
-      "psgc": "0200904000",
+      "value": "0200904000",
       "barangays": [
         {
-          "name": "Hañib",
+          "label": "Hañib",
           "code": "020904001",
-          "psgc": "0200904001"
+          "value": "0200904001"
         },
         {
-          "name": "Kaumbakan",
+          "label": "Kaumbakan",
           "code": "020904002",
-          "psgc": "0200904002"
+          "value": "0200904002"
         },
         {
-          "name": "Panatayan",
+          "label": "Panatayan",
           "code": "020904003",
-          "psgc": "0200904003"
+          "value": "0200904003"
         },
         {
-          "name": "Uvoy (Pob.)",
+          "label": "Uvoy (Pob.)",
           "code": "020904004",
-          "psgc": "0200904004"
+          "value": "0200904004"
         }
       ]
     },
     {
-      "name": "Sabtang",
+      "label": "Sabtang",
       "code": "020905000",
-      "psgc": "0200905000",
+      "value": "0200905000",
       "barangays": [
         {
-          "name": "Chavayan",
+          "label": "Chavayan",
           "code": "020905001",
-          "psgc": "0200905001"
+          "value": "0200905001"
         },
         {
-          "name": "Malakdang (Pob.)",
+          "label": "Malakdang (Pob.)",
           "code": "020905002",
-          "psgc": "0200905002"
+          "value": "0200905002"
         },
         {
-          "name": "Nakanmuan",
+          "label": "Nakanmuan",
           "code": "020905003",
-          "psgc": "0200905003"
+          "value": "0200905003"
         },
         {
-          "name": "Savidug",
+          "label": "Savidug",
           "code": "020905004",
-          "psgc": "0200905004"
+          "value": "0200905004"
         },
         {
-          "name": "Sinakan (Pob.)",
+          "label": "Sinakan (Pob.)",
           "code": "020905005",
-          "psgc": "0200905005"
+          "value": "0200905005"
         },
         {
-          "name": "Sumnanga",
+          "label": "Sumnanga",
           "code": "020905006",
-          "psgc": "0200905006"
+          "value": "0200905006"
         }
       ]
     },
     {
-      "name": "Uyugan",
+      "label": "Uyugan",
       "code": "020906000",
-      "psgc": "0200906000",
+      "value": "0200906000",
       "barangays": [
         {
-          "name": "Imnajbu",
+          "label": "Imnajbu",
           "code": "020906002",
-          "psgc": "0200906002"
+          "value": "0200906002"
         },
         {
-          "name": "Itbud",
+          "label": "Itbud",
           "code": "020906003",
-          "psgc": "0200906003"
+          "value": "0200906003"
         },
         {
-          "name": "Kayuganan (Pob.)",
+          "label": "Kayuganan (Pob.)",
           "code": "020906004",
-          "psgc": "0200906004"
+          "value": "0200906004"
         },
         {
-          "name": "Kayvaluganan (Pob.)",
+          "label": "Kayvaluganan (Pob.)",
           "code": "020906001",
-          "psgc": "0200906001"
+          "value": "0200906001"
         }
       ]
     }

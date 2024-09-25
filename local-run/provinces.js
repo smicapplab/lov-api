@@ -18,11 +18,11 @@ async function fetchProvinces() {
 
 function processProvinces(rawData) {
   return rawData.map(province => ({
-    name: province.name,
+    label: province.name,
     code: province.code,
-    psgc: province.psgc10DigitCode
+    value: province.psgc10DigitCode
   }))
-  .sort((a, b) => a.name.localeCompare(b.name));
+  .sort((a, b) => a.label.localeCompare(b.label));
 }
 
 async function writeToFile(data) {

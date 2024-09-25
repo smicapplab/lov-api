@@ -1,901 +1,900 @@
 {
-  "province": "Occidental Mindoro",
   "code": "175100000",
   "cities": [
     {
-      "name": "Abra De Ilog",
+      "label": "Abra De Ilog",
       "code": "175101000",
-      "psgc": "1705101000",
+      "value": "1705101000",
       "barangays": [
         {
-          "name": "Armado",
+          "label": "Armado",
           "code": "175101009",
-          "psgc": "1705101009"
+          "value": "1705101009"
         },
         {
-          "name": "Balao",
+          "label": "Balao",
           "code": "175101001",
-          "psgc": "1705101001"
+          "value": "1705101001"
         },
         {
-          "name": "Cabacao",
+          "label": "Cabacao",
           "code": "175101002",
-          "psgc": "1705101002"
+          "value": "1705101002"
         },
         {
-          "name": "Lumangbayan",
+          "label": "Lumangbayan",
           "code": "175101003",
-          "psgc": "1705101003"
+          "value": "1705101003"
         },
         {
-          "name": "Poblacion",
+          "label": "Poblacion",
           "code": "175101004",
-          "psgc": "1705101004"
+          "value": "1705101004"
         },
         {
-          "name": "San Vicente",
+          "label": "San Vicente",
           "code": "175101005",
-          "psgc": "1705101005"
+          "value": "1705101005"
         },
         {
-          "name": "Santa Maria",
+          "label": "Santa Maria",
           "code": "175101010",
-          "psgc": "1705101010"
+          "value": "1705101010"
         },
         {
-          "name": "Tibag",
+          "label": "Tibag",
           "code": "175101006",
-          "psgc": "1705101006"
+          "value": "1705101006"
         },
         {
-          "name": "Udalo",
+          "label": "Udalo",
           "code": "175101007",
-          "psgc": "1705101007"
+          "value": "1705101007"
         },
         {
-          "name": "Wawa",
+          "label": "Wawa",
           "code": "175101008",
-          "psgc": "1705101008"
+          "value": "1705101008"
         }
       ]
     },
     {
-      "name": "Calintaan",
+      "label": "Calintaan",
       "code": "175102000",
-      "psgc": "1705102000",
+      "value": "1705102000",
       "barangays": [
         {
-          "name": "Concepcion",
+          "label": "Concepcion",
           "code": "175102001",
-          "psgc": "1705102001"
+          "value": "1705102001"
         },
         {
-          "name": "Iriron",
+          "label": "Iriron",
           "code": "175102002",
-          "psgc": "1705102002"
+          "value": "1705102002"
         },
         {
-          "name": "Malpalon",
+          "label": "Malpalon",
           "code": "175102003",
-          "psgc": "1705102003"
+          "value": "1705102003"
         },
         {
-          "name": "New Dagupan",
+          "label": "New Dagupan",
           "code": "175102004",
-          "psgc": "1705102004"
+          "value": "1705102004"
         },
         {
-          "name": "Poblacion",
+          "label": "Poblacion",
           "code": "175102005",
-          "psgc": "1705102005"
+          "value": "1705102005"
         },
         {
-          "name": "Poypoy",
+          "label": "Poypoy",
           "code": "175102006",
-          "psgc": "1705102006"
+          "value": "1705102006"
         },
         {
-          "name": "Tanyag",
+          "label": "Tanyag",
           "code": "175102007",
-          "psgc": "1705102007"
+          "value": "1705102007"
         }
       ]
     },
     {
-      "name": "Looc",
+      "label": "Looc",
       "code": "175103000",
-      "psgc": "1705103000",
+      "value": "1705103000",
       "barangays": [
         {
-          "name": "Agkawayan",
+          "label": "Agkawayan",
           "code": "175103001",
-          "psgc": "1705103001"
+          "value": "1705103001"
         },
         {
-          "name": "Ambil",
+          "label": "Ambil",
           "code": "175103002",
-          "psgc": "1705103002"
+          "value": "1705103002"
         },
         {
-          "name": "Balikyas",
+          "label": "Balikyas",
           "code": "175103003",
-          "psgc": "1705103003"
+          "value": "1705103003"
         },
         {
-          "name": "Bonbon (Pob.)",
+          "label": "Bonbon (Pob.)",
           "code": "175103004",
-          "psgc": "1705103004"
+          "value": "1705103004"
         },
         {
-          "name": "Bulacan",
+          "label": "Bulacan",
           "code": "175103005",
-          "psgc": "1705103005"
+          "value": "1705103005"
         },
         {
-          "name": "Burol",
+          "label": "Burol",
           "code": "175103006",
-          "psgc": "1705103006"
+          "value": "1705103006"
         },
         {
-          "name": "Guitna (Pob.)",
+          "label": "Guitna (Pob.)",
           "code": "175103007",
-          "psgc": "1705103007"
+          "value": "1705103007"
         },
         {
-          "name": "Kanluran (Pob.)",
+          "label": "Kanluran (Pob.)",
           "code": "175103008",
-          "psgc": "1705103008"
+          "value": "1705103008"
         },
         {
-          "name": "Talaotao",
+          "label": "Talaotao",
           "code": "175103009",
-          "psgc": "1705103009"
+          "value": "1705103009"
         }
       ]
     },
     {
-      "name": "Lubang",
+      "label": "Lubang",
       "code": "175104000",
-      "psgc": "1705104000",
+      "value": "1705104000",
       "barangays": [
         {
-          "name": "Araw At Bituin (Pob.)",
+          "label": "Araw At Bituin (Pob.)",
           "code": "175104010",
-          "psgc": "1705104010"
+          "value": "1705104010"
         },
         {
-          "name": "Bagong Sikat (Pob.)",
+          "label": "Bagong Sikat (Pob.)",
           "code": "175104011",
-          "psgc": "1705104011"
+          "value": "1705104011"
         },
         {
-          "name": "Banaag ng Pag-asa (Pob.)",
+          "label": "Banaag ng Pag-asa (Pob.)",
           "code": "175104012",
-          "psgc": "1705104012"
+          "value": "1705104012"
         },
         {
-          "name": "Binakas",
+          "label": "Binakas",
           "code": "175104001",
-          "psgc": "1705104001"
+          "value": "1705104001"
         },
         {
-          "name": "Cabra",
+          "label": "Cabra",
           "code": "175104002",
-          "psgc": "1705104002"
+          "value": "1705104002"
         },
         {
-          "name": "Likas Ng Silangan (Pob.)",
+          "label": "Likas Ng Silangan (Pob.)",
           "code": "175104013",
-          "psgc": "1705104013"
+          "value": "1705104013"
         },
         {
-          "name": "Maginhawa (Pob.)",
+          "label": "Maginhawa (Pob.)",
           "code": "175104014",
-          "psgc": "1705104014"
+          "value": "1705104014"
         },
         {
-          "name": "Maligaya",
+          "label": "Maligaya",
           "code": "175104003",
-          "psgc": "1705104003"
+          "value": "1705104003"
         },
         {
-          "name": "Maliig",
+          "label": "Maliig",
           "code": "175104004",
-          "psgc": "1705104004"
+          "value": "1705104004"
         },
         {
-          "name": "Ninikat Ng Pag-Asa (Pob.)",
+          "label": "Ninikat Ng Pag-Asa (Pob.)",
           "code": "175104015",
-          "psgc": "1705104015"
+          "value": "1705104015"
         },
         {
-          "name": "Paraiso (Pob.)",
+          "label": "Paraiso (Pob.)",
           "code": "175104016",
-          "psgc": "1705104016"
+          "value": "1705104016"
         },
         {
-          "name": "Sorville (Pob.)",
+          "label": "Sorville (Pob.)",
           "code": "175104009",
-          "psgc": "1705104009"
+          "value": "1705104009"
         },
         {
-          "name": "Tagbac",
+          "label": "Tagbac",
           "code": "175104005",
-          "psgc": "1705104005"
+          "value": "1705104005"
         },
         {
-          "name": "Tangal",
+          "label": "Tangal",
           "code": "175104006",
-          "psgc": "1705104006"
+          "value": "1705104006"
         },
         {
-          "name": "Tilik",
+          "label": "Tilik",
           "code": "175104007",
-          "psgc": "1705104007"
+          "value": "1705104007"
         },
         {
-          "name": "Vigo",
+          "label": "Vigo",
           "code": "175104008",
-          "psgc": "1705104008"
+          "value": "1705104008"
         }
       ]
     },
     {
-      "name": "Magsaysay",
+      "label": "Magsaysay",
       "code": "175105000",
-      "psgc": "1705105000",
+      "value": "1705105000",
       "barangays": [
         {
-          "name": "Alibog",
+          "label": "Alibog",
           "code": "175105001",
-          "psgc": "1705105001"
+          "value": "1705105001"
         },
         {
-          "name": "Caguray",
+          "label": "Caguray",
           "code": "175105003",
-          "psgc": "1705105003"
+          "value": "1705105003"
         },
         {
-          "name": "Calawag",
+          "label": "Calawag",
           "code": "175105004",
-          "psgc": "1705105004"
+          "value": "1705105004"
         },
         {
-          "name": "Gapasan",
+          "label": "Gapasan",
           "code": "175105005",
-          "psgc": "1705105005"
+          "value": "1705105005"
         },
         {
-          "name": "Laste",
+          "label": "Laste",
           "code": "175105006",
-          "psgc": "1705105006"
+          "value": "1705105006"
         },
         {
-          "name": "Lourdes",
+          "label": "Lourdes",
           "code": "175105007",
-          "psgc": "1705105007"
+          "value": "1705105007"
         },
         {
-          "name": "Nicolas",
+          "label": "Nicolas",
           "code": "175105008",
-          "psgc": "1705105008"
+          "value": "1705105008"
         },
         {
-          "name": "Paclolo",
+          "label": "Paclolo",
           "code": "175105009",
-          "psgc": "1705105009"
+          "value": "1705105009"
         },
         {
-          "name": "Poblacion",
+          "label": "Poblacion",
           "code": "175105010",
-          "psgc": "1705105010"
+          "value": "1705105010"
         },
         {
-          "name": "Purnaga",
+          "label": "Purnaga",
           "code": "175105011",
-          "psgc": "1705105011"
+          "value": "1705105011"
         },
         {
-          "name": "Santa Teresa",
+          "label": "Santa Teresa",
           "code": "175105012",
-          "psgc": "1705105012"
+          "value": "1705105012"
         },
         {
-          "name": "Sibalat",
+          "label": "Sibalat",
           "code": "175105013",
-          "psgc": "1705105013"
+          "value": "1705105013"
         }
       ]
     },
     {
-      "name": "Mamburao",
+      "label": "Mamburao",
       "code": "175106000",
-      "psgc": "1705106000",
+      "value": "1705106000",
       "barangays": [
         {
-          "name": "Balansay",
+          "label": "Balansay",
           "code": "175106001",
-          "psgc": "1705106001"
+          "value": "1705106001"
         },
         {
-          "name": "Fatima",
+          "label": "Fatima",
           "code": "175106002",
-          "psgc": "1705106002"
+          "value": "1705106002"
         },
         {
-          "name": "Payompon",
+          "label": "Payompon",
           "code": "175106003",
-          "psgc": "1705106003"
+          "value": "1705106003"
         },
         {
-          "name": "Poblacion 1",
+          "label": "Poblacion 1",
           "code": "175106008",
-          "psgc": "1705106008"
+          "value": "1705106008"
         },
         {
-          "name": "Poblacion 2",
+          "label": "Poblacion 2",
           "code": "175106009",
-          "psgc": "1705106009"
+          "value": "1705106009"
         },
         {
-          "name": "Poblacion 3",
+          "label": "Poblacion 3",
           "code": "175106010",
-          "psgc": "1705106010"
+          "value": "1705106010"
         },
         {
-          "name": "Poblacion 4",
+          "label": "Poblacion 4",
           "code": "175106011",
-          "psgc": "1705106011"
+          "value": "1705106011"
         },
         {
-          "name": "Poblacion 5",
+          "label": "Poblacion 5",
           "code": "175106012",
-          "psgc": "1705106012"
+          "value": "1705106012"
         },
         {
-          "name": "Poblacion 6",
+          "label": "Poblacion 6",
           "code": "175106013",
-          "psgc": "1705106013"
+          "value": "1705106013"
         },
         {
-          "name": "Poblacion 7",
+          "label": "Poblacion 7",
           "code": "175106014",
-          "psgc": "1705106014"
+          "value": "1705106014"
         },
         {
-          "name": "Poblacion 8",
+          "label": "Poblacion 8",
           "code": "175106015",
-          "psgc": "1705106015"
+          "value": "1705106015"
         },
         {
-          "name": "San Luis",
+          "label": "San Luis",
           "code": "175106004",
-          "psgc": "1705106004"
+          "value": "1705106004"
         },
         {
-          "name": "Talabaan",
+          "label": "Talabaan",
           "code": "175106005",
-          "psgc": "1705106005"
+          "value": "1705106005"
         },
         {
-          "name": "Tangkalan",
+          "label": "Tangkalan",
           "code": "175106006",
-          "psgc": "1705106006"
+          "value": "1705106006"
         },
         {
-          "name": "Tayamaan",
+          "label": "Tayamaan",
           "code": "175106007",
-          "psgc": "1705106007"
+          "value": "1705106007"
         }
       ]
     },
     {
-      "name": "Paluan",
+      "label": "Paluan",
       "code": "175107000",
-      "psgc": "1705107000",
+      "value": "1705107000",
       "barangays": [
         {
-          "name": "Alipaoy",
+          "label": "Alipaoy",
           "code": "175107001",
-          "psgc": "1705107001"
+          "value": "1705107001"
         },
         {
-          "name": "Bagong Silang Pob.",
+          "label": "Bagong Silang Pob.",
           "code": "175107010",
-          "psgc": "1705107010"
+          "value": "1705107010"
         },
         {
-          "name": "Handang Tumulong Pob.",
+          "label": "Handang Tumulong Pob.",
           "code": "175107007",
-          "psgc": "1705107007"
+          "value": "1705107007"
         },
         {
-          "name": "Harrison",
+          "label": "Harrison",
           "code": "175107002",
-          "psgc": "1705107002"
+          "value": "1705107002"
         },
         {
-          "name": "Lumangbayan",
+          "label": "Lumangbayan",
           "code": "175107003",
-          "psgc": "1705107003"
+          "value": "1705107003"
         },
         {
-          "name": "Mananao",
+          "label": "Mananao",
           "code": "175107004",
-          "psgc": "1705107004"
+          "value": "1705107004"
         },
         {
-          "name": "Mapalad Pob.",
+          "label": "Mapalad Pob.",
           "code": "175107006",
-          "psgc": "1705107006"
+          "value": "1705107006"
         },
         {
-          "name": "Marikit",
+          "label": "Marikit",
           "code": "175107005",
-          "psgc": "1705107005"
+          "value": "1705107005"
         },
         {
-          "name": "Pag-Asa Ng Bayan Pob.",
+          "label": "Pag-Asa Ng Bayan Pob.",
           "code": "175107009",
-          "psgc": "1705107009"
+          "value": "1705107009"
         },
         {
-          "name": "San Jose Pob.",
+          "label": "San Jose Pob.",
           "code": "175107011",
-          "psgc": "1705107011"
+          "value": "1705107011"
         },
         {
-          "name": "Silahis Ng Pag-Asa Pob.",
+          "label": "Silahis Ng Pag-Asa Pob.",
           "code": "175107008",
-          "psgc": "1705107008"
+          "value": "1705107008"
         },
         {
-          "name": "Tubili",
+          "label": "Tubili",
           "code": "175107012",
-          "psgc": "1705107012"
+          "value": "1705107012"
         }
       ]
     },
     {
-      "name": "Rizal",
+      "label": "Rizal",
       "code": "175108000",
-      "psgc": "1705108000",
+      "value": "1705108000",
       "barangays": [
         {
-          "name": "Adela",
+          "label": "Adela",
           "code": "175108001",
-          "psgc": "1705108001"
+          "value": "1705108001"
         },
         {
-          "name": "Aguas",
+          "label": "Aguas",
           "code": "175108002",
-          "psgc": "1705108002"
+          "value": "1705108002"
         },
         {
-          "name": "Magsikap",
+          "label": "Magsikap",
           "code": "175108003",
-          "psgc": "1705108003"
+          "value": "1705108003"
         },
         {
-          "name": "Malawaan",
+          "label": "Malawaan",
           "code": "175108004",
-          "psgc": "1705108004"
+          "value": "1705108004"
         },
         {
-          "name": "Manoot",
+          "label": "Manoot",
           "code": "175108012",
-          "psgc": "1705108012"
+          "value": "1705108012"
         },
         {
-          "name": "Pitogo",
+          "label": "Pitogo",
           "code": "175108005",
-          "psgc": "1705108005"
+          "value": "1705108005"
         },
         {
-          "name": "Rizal",
+          "label": "Rizal",
           "code": "175108006",
-          "psgc": "1705108006"
+          "value": "1705108006"
         },
         {
-          "name": "Rumbang",
+          "label": "Rumbang",
           "code": "175108007",
-          "psgc": "1705108007"
+          "value": "1705108007"
         },
         {
-          "name": "Salvacion",
+          "label": "Salvacion",
           "code": "175108008",
-          "psgc": "1705108008"
+          "value": "1705108008"
         },
         {
-          "name": "San Pedro",
+          "label": "San Pedro",
           "code": "175108009",
-          "psgc": "1705108009"
+          "value": "1705108009"
         },
         {
-          "name": "Santo Niño",
+          "label": "Santo Niño",
           "code": "175108010",
-          "psgc": "1705108010"
+          "value": "1705108010"
         }
       ]
     },
     {
-      "name": "Sablayan",
+      "label": "Sablayan",
       "code": "175109000",
-      "psgc": "1705109000",
+      "value": "1705109000",
       "barangays": [
         {
-          "name": "Batong Buhay",
+          "label": "Batong Buhay",
           "code": "175109001",
-          "psgc": "1705109001"
+          "value": "1705109001"
         },
         {
-          "name": "Buenavista",
+          "label": "Buenavista",
           "code": "175109002",
-          "psgc": "1705109002"
+          "value": "1705109002"
         },
         {
-          "name": "Burgos",
+          "label": "Burgos",
           "code": "175109003",
-          "psgc": "1705109003"
+          "value": "1705109003"
         },
         {
-          "name": "Claudio Salgado",
+          "label": "Claudio Salgado",
           "code": "175109004",
-          "psgc": "1705109004"
+          "value": "1705109004"
         },
         {
-          "name": "General Emilio Aguinaldo",
+          "label": "General Emilio Aguinaldo",
           "code": "175109005",
-          "psgc": "1705109005"
+          "value": "1705109005"
         },
         {
-          "name": "Ibud",
+          "label": "Ibud",
           "code": "175109006",
-          "psgc": "1705109006"
+          "value": "1705109006"
         },
         {
-          "name": "Ilvita",
+          "label": "Ilvita",
           "code": "175109007",
-          "psgc": "1705109007"
+          "value": "1705109007"
         },
         {
-          "name": "Lagnas",
+          "label": "Lagnas",
           "code": "175109022",
-          "psgc": "1705109022"
+          "value": "1705109022"
         },
         {
-          "name": "Ligaya",
+          "label": "Ligaya",
           "code": "175109008",
-          "psgc": "1705109008"
+          "value": "1705109008"
         },
         {
-          "name": "Malisbong",
+          "label": "Malisbong",
           "code": "175109023",
-          "psgc": "1705109023"
+          "value": "1705109023"
         },
         {
-          "name": "Paetan",
+          "label": "Paetan",
           "code": "175109010",
-          "psgc": "1705109010"
+          "value": "1705109010"
         },
         {
-          "name": "Pag-Asa",
+          "label": "Pag-Asa",
           "code": "175109011",
-          "psgc": "1705109011"
+          "value": "1705109011"
         },
         {
-          "name": "Poblacion",
+          "label": "Poblacion",
           "code": "175109009",
-          "psgc": "1705109009"
+          "value": "1705109009"
         },
         {
-          "name": "San Agustin",
+          "label": "San Agustin",
           "code": "175109013",
-          "psgc": "1705109013"
+          "value": "1705109013"
         },
         {
-          "name": "San Francisco",
+          "label": "San Francisco",
           "code": "175109014",
-          "psgc": "1705109014"
+          "value": "1705109014"
         },
         {
-          "name": "San Nicolas",
+          "label": "San Nicolas",
           "code": "175109016",
-          "psgc": "1705109016"
+          "value": "1705109016"
         },
         {
-          "name": "San Vicente",
+          "label": "San Vicente",
           "code": "175109017",
-          "psgc": "1705109017"
+          "value": "1705109017"
         },
         {
-          "name": "Santa Lucia",
+          "label": "Santa Lucia",
           "code": "175109018",
-          "psgc": "1705109018"
+          "value": "1705109018"
         },
         {
-          "name": "Santo Niño",
+          "label": "Santo Niño",
           "code": "175109019",
-          "psgc": "1705109019"
+          "value": "1705109019"
         },
         {
-          "name": "Tagumpay",
+          "label": "Tagumpay",
           "code": "175109020",
-          "psgc": "1705109020"
+          "value": "1705109020"
         },
         {
-          "name": "Tuban",
+          "label": "Tuban",
           "code": "175109024",
-          "psgc": "1705109024"
+          "value": "1705109024"
         },
         {
-          "name": "Victoria",
+          "label": "Victoria",
           "code": "175109021",
-          "psgc": "1705109021"
+          "value": "1705109021"
         }
       ]
     },
     {
-      "name": "San Jose",
+      "label": "San Jose",
       "code": "175110000",
-      "psgc": "1705110000",
+      "value": "1705110000",
       "barangays": [
         {
-          "name": "Ambulong",
+          "label": "Ambulong",
           "code": "175110001",
-          "psgc": "1705110001"
+          "value": "1705110001"
         },
         {
-          "name": "Ansiray",
+          "label": "Ansiray",
           "code": "175110002",
-          "psgc": "1705110002"
+          "value": "1705110002"
         },
         {
-          "name": "Bagong Sikat",
+          "label": "Bagong Sikat",
           "code": "175110003",
-          "psgc": "1705110003"
+          "value": "1705110003"
         },
         {
-          "name": "Bangkal",
+          "label": "Bangkal",
           "code": "175110004",
-          "psgc": "1705110004"
+          "value": "1705110004"
         },
         {
-          "name": "Barangay 1 (Pob.)",
+          "label": "Barangay 1 (Pob.)",
           "code": "175110005",
-          "psgc": "1705110005"
+          "value": "1705110005"
         },
         {
-          "name": "Barangay 2 (Pob.)",
+          "label": "Barangay 2 (Pob.)",
           "code": "175110006",
-          "psgc": "1705110006"
+          "value": "1705110006"
         },
         {
-          "name": "Barangay 3 (Pob.)",
+          "label": "Barangay 3 (Pob.)",
           "code": "175110007",
-          "psgc": "1705110007"
+          "value": "1705110007"
         },
         {
-          "name": "Barangay 4 (Pob.)",
+          "label": "Barangay 4 (Pob.)",
           "code": "175110008",
-          "psgc": "1705110008"
+          "value": "1705110008"
         },
         {
-          "name": "Barangay 5 (Pob.)",
+          "label": "Barangay 5 (Pob.)",
           "code": "175110009",
-          "psgc": "1705110009"
+          "value": "1705110009"
         },
         {
-          "name": "Barangay 6 (Pob.)",
+          "label": "Barangay 6 (Pob.)",
           "code": "175110010",
-          "psgc": "1705110010"
+          "value": "1705110010"
         },
         {
-          "name": "Barangay 7 (Pob.)",
+          "label": "Barangay 7 (Pob.)",
           "code": "175110011",
-          "psgc": "1705110011"
+          "value": "1705110011"
         },
         {
-          "name": "Barangay 8 (Pob.)",
+          "label": "Barangay 8 (Pob.)",
           "code": "175110012",
-          "psgc": "1705110012"
+          "value": "1705110012"
         },
         {
-          "name": "Batasan",
+          "label": "Batasan",
           "code": "175110013",
-          "psgc": "1705110013"
+          "value": "1705110013"
         },
         {
-          "name": "Bayotbot",
+          "label": "Bayotbot",
           "code": "175110014",
-          "psgc": "1705110014"
+          "value": "1705110014"
         },
         {
-          "name": "Bubog",
+          "label": "Bubog",
           "code": "175110015",
-          "psgc": "1705110015"
+          "value": "1705110015"
         },
         {
-          "name": "Buri",
+          "label": "Buri",
           "code": "175110016",
-          "psgc": "1705110016"
+          "value": "1705110016"
         },
         {
-          "name": "Camburay",
+          "label": "Camburay",
           "code": "175110017",
-          "psgc": "1705110017"
+          "value": "1705110017"
         },
         {
-          "name": "Caminawit",
+          "label": "Caminawit",
           "code": "175110018",
-          "psgc": "1705110018"
+          "value": "1705110018"
         },
         {
-          "name": "Catayungan",
+          "label": "Catayungan",
           "code": "175110019",
-          "psgc": "1705110019"
+          "value": "1705110019"
         },
         {
-          "name": "Central",
+          "label": "Central",
           "code": "175110020",
-          "psgc": "1705110020"
+          "value": "1705110020"
         },
         {
-          "name": "Iling Proper",
+          "label": "Iling Proper",
           "code": "175110021",
-          "psgc": "1705110021"
+          "value": "1705110021"
         },
         {
-          "name": "Inasakan",
+          "label": "Inasakan",
           "code": "175110022",
-          "psgc": "1705110022"
+          "value": "1705110022"
         },
         {
-          "name": "Ipil",
+          "label": "Ipil",
           "code": "175110023",
-          "psgc": "1705110023"
+          "value": "1705110023"
         },
         {
-          "name": "La Curva",
+          "label": "La Curva",
           "code": "175110024",
-          "psgc": "1705110024"
+          "value": "1705110024"
         },
         {
-          "name": "Labangan Iling",
+          "label": "Labangan Iling",
           "code": "175110025",
-          "psgc": "1705110025"
+          "value": "1705110025"
         },
         {
-          "name": "Labangan Poblacion",
+          "label": "Labangan Poblacion",
           "code": "175110026",
-          "psgc": "1705110026"
+          "value": "1705110026"
         },
         {
-          "name": "Mabini",
+          "label": "Mabini",
           "code": "175110027",
-          "psgc": "1705110027"
+          "value": "1705110027"
         },
         {
-          "name": "Magbay",
+          "label": "Magbay",
           "code": "175110028",
-          "psgc": "1705110028"
+          "value": "1705110028"
         },
         {
-          "name": "Mangarin",
+          "label": "Mangarin",
           "code": "175110029",
-          "psgc": "1705110029"
+          "value": "1705110029"
         },
         {
-          "name": "Mapaya",
+          "label": "Mapaya",
           "code": "175110030",
-          "psgc": "1705110030"
+          "value": "1705110030"
         },
         {
-          "name": "Monte Claro",
+          "label": "Monte Claro",
           "code": "175110032",
-          "psgc": "1705110032"
+          "value": "1705110032"
         },
         {
-          "name": "Murtha",
+          "label": "Murtha",
           "code": "175110031",
-          "psgc": "1705110031"
+          "value": "1705110031"
         },
         {
-          "name": "Naibuan",
+          "label": "Naibuan",
           "code": "175110040",
-          "psgc": "1705110040"
+          "value": "1705110040"
         },
         {
-          "name": "Natandol",
+          "label": "Natandol",
           "code": "175110033",
-          "psgc": "1705110033"
+          "value": "1705110033"
         },
         {
-          "name": "Pag-Asa",
+          "label": "Pag-Asa",
           "code": "175110034",
-          "psgc": "1705110034"
+          "value": "1705110034"
         },
         {
-          "name": "Pawican",
+          "label": "Pawican",
           "code": "175110035",
-          "psgc": "1705110035"
+          "value": "1705110035"
         },
         {
-          "name": "San Agustin",
+          "label": "San Agustin",
           "code": "175110037",
-          "psgc": "1705110037"
+          "value": "1705110037"
         },
         {
-          "name": "San Isidro",
+          "label": "San Isidro",
           "code": "175110038",
-          "psgc": "1705110038"
+          "value": "1705110038"
         },
         {
-          "name": "San Roque",
+          "label": "San Roque",
           "code": "175110039",
-          "psgc": "1705110039"
+          "value": "1705110039"
         }
       ]
     },
     {
-      "name": "Santa Cruz",
+      "label": "Santa Cruz",
       "code": "175111000",
-      "psgc": "1705111000",
+      "value": "1705111000",
       "barangays": [
         {
-          "name": "Alacaak",
+          "label": "Alacaak",
           "code": "175111001",
-          "psgc": "1705111001"
+          "value": "1705111001"
         },
         {
-          "name": "Barahan",
+          "label": "Barahan",
           "code": "175111002",
-          "psgc": "1705111002"
+          "value": "1705111002"
         },
         {
-          "name": "Casague",
+          "label": "Casague",
           "code": "175111003",
-          "psgc": "1705111003"
+          "value": "1705111003"
         },
         {
-          "name": "Dayap",
+          "label": "Dayap",
           "code": "175111004",
-          "psgc": "1705111004"
+          "value": "1705111004"
         },
         {
-          "name": "Kurtinganan",
+          "label": "Kurtinganan",
           "code": "175111012",
-          "psgc": "1705111012"
+          "value": "1705111012"
         },
         {
-          "name": "Lumangbayan",
+          "label": "Lumangbayan",
           "code": "175111006",
-          "psgc": "1705111006"
+          "value": "1705111006"
         },
         {
-          "name": "Mulawin",
+          "label": "Mulawin",
           "code": "175111007",
-          "psgc": "1705111007"
+          "value": "1705111007"
         },
         {
-          "name": "Pinagturilan",
+          "label": "Pinagturilan",
           "code": "175111008",
-          "psgc": "1705111008"
+          "value": "1705111008"
         },
         {
-          "name": "Poblacion I",
+          "label": "Poblacion I",
           "code": "175111009",
-          "psgc": "1705111009"
+          "value": "1705111009"
         },
         {
-          "name": "Poblacion II",
+          "label": "Poblacion II",
           "code": "175111011",
-          "psgc": "1705111011"
+          "value": "1705111011"
         },
         {
-          "name": "San Vicente",
+          "label": "San Vicente",
           "code": "175111010",
-          "psgc": "1705111010"
+          "value": "1705111010"
         }
       ]
     }
