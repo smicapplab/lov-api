@@ -1,13 +1,14 @@
 import { json } from '@sveltejs/kit';
 import { readFile } from 'fs/promises';
-import path from 'path';
 
 /** @type {import('./$types').RequestHandler} */
 export async function POST({ request }) {
 	const { provinceCode, cityCode } = await request.json();
 	try {
 		// Construct the correct file path
-		const filePath = path.join('src', 'lib', 'data', 'geo', 'cities', `${provinceCode}.json`);
+		// const filePath = path.join('src', 'lib', 'data', 'geo', 'cities', `${provinceCode}.json`);
+		const filePath = "src/routes/api/data/geo/cities/" + provinceCode + ".json";
+
 
 		// Read the file
 		const data = await readFile(filePath, 'utf8');
