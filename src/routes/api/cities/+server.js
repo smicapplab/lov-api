@@ -1,20 +1,10 @@
 import { json } from '@sveltejs/kit';
 import { readFile } from 'fs/promises';
-import { env } from '$env/dynamic/private';
 import path from 'path';
 
 /** @type {import('./$types').RequestHandler} */
 export async function POST({ request }) {
 	const { provinceCode, citiesOnly = false } = await request.json();
-
-	// Check for API key in the request headers
-	const apiKey = request.headers.get('X-API-Key');
-
-	// Verify the API key
-	if (!apiKey || apiKey !== env.API_KEY) {
-		return json({ error: 'Unauthorized' }, { status: 401 });
-	}
-
 	try {
 		// Construct the correct file path
 		const filePath = path.join('src', 'lib', 'data', 'geo', 'cities', `${provinceCode}.json`);
