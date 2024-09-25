@@ -1,28 +1,299 @@
 [
-	{ "value": "MANU", "label": "Manufacturing" },
-	{ "value": "HEALTH", "label": "Healthcare Equipment" },
-	{ "value": "CONST", "label": "Construction" },
-	{ "value": "INST", "label": "Installation" },
-	{ "value": "TRADE", "label": "Trading" },
-	{ "value": "SERVC", "label": "Services" },
-	{ "value": "MATL", "label": "Materials" },
-	{ "value": "COMPR", "label": "Commercial & Professional Services" },
-	{ "value": "FOODR", "label": "Food & Staples Retailing" },
-	{ "value": "PHARM", "label": "Pharmacauticals, Biotechnology & Life Sciences" },
-	{ "value": "SEMI", "label": "Semiconductors & Semiconductors Equipment " },
-	{ "value": "ENRGY", "label": "Energy" },
-	{ "value": "TRANS", "label": "Transportation" },
-	{ "value": "AUTO", "label": "Automobiles & Components" },
-	{ "value": "CONDR", "label": "Consumer Durables & Apparel" },
-	{ "value": "CONSV", "label": "Consumer Services" },
-	{ "value": "MEDIA", "label": "Media" },
-	{ "value": "FOODB", "label": "Food, Beverages & Tobacco" },
-	{ "value": "HOUSE", "label": "Household & Personal Products" },
-	{ "value": "BANKS", "label": "Banks" },
-	{ "value": "DIVFN", "label": "Diversified Financials" },
-	{ "value": "INSUR", "label": "Insurance" },
-	{ "value": "REALE", "label": "Real Estate" },
-	{ "value": "SOFTW", "label": "Software & Services" },
-	{ "value": "TECHH", "label": "Technology Hardware & Equipment" },
-	{ "value": "TELCM", "label": "Telecommunication Services" }
+	{
+		"value": "MANU",
+		"label": "Manufacturing",
+		"sub": [
+			{ "value": "MANU-AUTO", "label": "Automotive Manufacturing" },
+			{ "value": "MANU-ELEC", "label": "Electronics Manufacturing" },
+			{ "value": "MANU-FOOD", "label": "Food Manufacturing" },
+			{ "value": "MANU-TEXT", "label": "Textile Manufacturing" },
+			{ "value": "MANU-CHEM", "label": "Chemical Manufacturing" }
+		]
+	},
+	{
+		"value": "HEALTH",
+		"label": "Healthcare Equipment",
+		"sub": [
+			{ "value": "HEALTH-DIAG", "label": "Diagnostic Equipment" },
+			{ "value": "HEALTH-THER", "label": "Therapeutic Devices" },
+			{ "value": "HEALTH-MONI", "label": "Monitoring Systems" },
+			{ "value": "HEALTH-IMPL", "label": "Medical Implants" },
+			{ "value": "HEALTH-CONS", "label": "Consumables and Supplies" }
+		]
+	},
+	{
+		"value": "CONST",
+		"label": "Construction",
+		"sub": [
+			{ "value": "CONST-RESI", "label": "Residential Construction" },
+			{ "value": "CONST-COMM", "label": "Commercial Construction" },
+			{ "value": "CONST-INFR", "label": "Infrastructure Construction" },
+			{ "value": "CONST-SPEC", "label": "Specialized Construction" },
+			{ "value": "CONST-RENO", "label": "Renovation and Repair" }
+		]
+	},
+	{
+		"value": "INST",
+		"label": "Installation",
+		"sub": [
+			{ "value": "INST-ELEC", "label": "Electrical Installation" },
+			{ "value": "INST-PLUM", "label": "Plumbing Installation" },
+			{ "value": "INST-HVAC", "label": "HVAC Installation" },
+			{ "value": "INST-SECU", "label": "Security Systems Installation" },
+			{ "value": "INST-NETW", "label": "Network and Telecom Installation" }
+		]
+	},
+	{
+		"value": "TRADE",
+		"label": "Trading",
+		"sub": [
+			{ "value": "TRADE-WHOL", "label": "Wholesale Trading" },
+			{ "value": "TRADE-RETA", "label": "Retail Trading" },
+			{ "value": "TRADE-ECOM", "label": "E-commerce" },
+			{ "value": "TRADE-COMM", "label": "Commodity Trading" },
+			{ "value": "TRADE-INTL", "label": "International Trading" }
+		]
+	},
+	{
+		"value": "SERVC",
+		"label": "Services",
+		"sub": [
+			{ "value": "SERVC-CONS", "label": "Consulting Services" },
+			{ "value": "SERVC-TECH", "label": "Technical Services" },
+			{ "value": "SERVC-FINA", "label": "Financial Services" },
+			{ "value": "SERVC-HOSP", "label": "Hospitality Services" },
+			{ "value": "SERVC-EDUC", "label": "Educational Services" }
+		]
+	},
+	{
+		"value": "MATL",
+		"label": "Materials",
+		"sub": [
+			{ "value": "MATL-METL", "label": "Metals and Mining" },
+			{ "value": "MATL-CHEM", "label": "Chemicals" },
+			{ "value": "MATL-CONS", "label": "Construction Materials" },
+			{ "value": "MATL-PACK", "label": "Packaging Materials" },
+			{ "value": "MATL-FORE", "label": "Forest Products" }
+		]
+	},
+	{
+		"value": "COMPR",
+		"label": "Commercial & Professional Services",
+		"sub": [
+			{ "value": "COMPR-BUSI", "label": "Business Support Services" },
+			{ "value": "COMPR-CONS", "label": "Consulting Services" },
+			{ "value": "COMPR-SECU", "label": "Security and Alarm Services" },
+			{ "value": "COMPR-HUMA", "label": "Human Resources Services" },
+			{ "value": "COMPR-MARK", "label": "Marketing Services" }
+		]
+	},
+	{
+		"value": "FOODR",
+		"label": "Food & Staples Retailing",
+		"sub": [
+			{ "value": "FOODR-SUPE", "label": "Supermarkets" },
+			{ "value": "FOODR-CONV", "label": "Convenience Stores" },
+			{ "value": "FOODR-DRUG", "label": "Drug Stores" },
+			{ "value": "FOODR-WHOL", "label": "Food Wholesalers" },
+			{ "value": "FOODR-SPEC", "label": "Specialty Food Retailers" }
+		]
+	},
+	{
+		"value": "PHARM",
+		"label": "Pharmacauticals, Biotechnology & Life Sciences",
+		"sub": [
+			{ "value": "PHARM-DRUG", "label": "Pharmaceutical Manufacturing" },
+			{ "value": "PHARM-BIOT", "label": "Biotechnology" },
+			{ "value": "PHARM-LIFE", "label": "Life Sciences Tools and Services" },
+			{ "value": "PHARM-GENE", "label": "Genetic Engineering" },
+			{ "value": "PHARM-DIAG", "label": "Diagnostic Substances" }
+		]
+	},
+	{
+		"value": "SEMI",
+		"label": "Semiconductors & Semiconductors Equipment",
+		"sub": [
+			{ "value": "SEMI-CHIP", "label": "Semiconductor Manufacturing" },
+			{ "value": "SEMI-EQUI", "label": "Semiconductor Equipment" },
+			{ "value": "SEMI-DESI", "label": "Semiconductor Design" },
+			{ "value": "SEMI-PACK", "label": "Semiconductor Packaging and Testing" },
+			{ "value": "SEMI-MATE", "label": "Semiconductor Materials" }
+		]
+	},
+	{
+		"value": "ENRGY",
+		"label": "Energy",
+		"sub": [
+			{ "value": "ENRGY-OIL", "label": "Oil and Gas" },
+			{ "value": "ENRGY-COAL", "label": "Coal and Consumable Fuels" },
+			{ "value": "ENRGY-ALTE", "label": "Alternative Energy" },
+			{ "value": "ENRGY-POWE", "label": "Power Generation" },
+			{ "value": "ENRGY-UTIL", "label": "Utilities" }
+		]
+	},
+	{
+		"value": "TRANS",
+		"label": "Transportation",
+		"sub": [
+			{ "value": "TRANS-AIR", "label": "Air Freight and Logistics" },
+			{ "value": "TRANS-MARI", "label": "Marine Transportation" },
+			{ "value": "TRANS-ROAD", "label": "Road Transportation" },
+			{ "value": "TRANS-RAIL", "label": "Rail Transportation" },
+			{ "value": "TRANS-INFR", "label": "Transportation Infrastructure" }
+		]
+	},
+	{
+		"value": "AUTO",
+		"label": "Automobiles & Components",
+		"sub": [
+			{ "value": "AUTO-MANU", "label": "Automobile Manufacturing" },
+			{ "value": "AUTO-PART", "label": "Auto Parts and Equipment" },
+			{ "value": "AUTO-TIRE", "label": "Tires and Rubber" },
+			{ "value": "AUTO-MOTO", "label": "Motorcycles" },
+			{ "value": "AUTO-ELEC", "label": "Electric Vehicles" }
+		]
+	},
+	{
+		"value": "CONDR",
+		"label": "Consumer Durables & Apparel",
+		"sub": [
+			{ "value": "CONDR-HOME", "label": "Household Appliances" },
+			{ "value": "CONDR-LEIS", "label": "Leisure Products" },
+			{ "value": "CONDR-APPA", "label": "Apparel and Accessories" },
+			{ "value": "CONDR-TEXT", "label": "Textiles" },
+			{ "value": "CONDR-FOOT", "label": "Footwear" }
+		]
+	},
+	{
+		"value": "CONSV",
+		"label": "Consumer Services",
+		"sub": [
+			{ "value": "CONSV-HOTE", "label": "Hotels and Resorts" },
+			{ "value": "CONSV-REST", "label": "Restaurants" },
+			{ "value": "CONSV-TRAV", "label": "Travel and Tourism" },
+			{ "value": "CONSV-CASI", "label": "Casinos and Gaming" },
+			{ "value": "CONSV-PERS", "label": "Personal Services" }
+		]
+	},
+	{
+		"value": "MEDIA",
+		"label": "Media",
+		"sub": [
+			{ "value": "MEDIA-BROD", "label": "Broadcasting" },
+			{ "value": "MEDIA-PUBL", "label": "Publishing" },
+			{ "value": "MEDIA-ADVE", "label": "Advertising" },
+			{ "value": "MEDIA-ENTE", "label": "Entertainment Content" },
+			{ "value": "MEDIA-INTE", "label": "Interactive Media" }
+		]
+	},
+	{
+		"value": "FOODB",
+		"label": "Food, Beverages & Tobacco",
+		"sub": [
+			{ "value": "FOODB-PROC", "label": "Food Processing" },
+			{ "value": "FOODB-BEVE", "label": "Beverages" },
+			{ "value": "FOODB-TOBA", "label": "Tobacco" },
+			{ "value": "FOODB-AGRI", "label": "Agricultural Products" },
+			{ "value": "FOODB-PACK", "label": "Packaged Foods" }
+		]
+	},
+	{
+		"value": "HOUSE",
+		"label": "Household & Personal Products",
+		"sub": [
+			{ "value": "HOUSE-CLEA", "label": "Household Cleaning Products" },
+			{ "value": "HOUSE-PERS", "label": "Personal Care Products" },
+			{ "value": "HOUSE-BEAU", "label": "Beauty and Cosmetics" },
+			{ "value": "HOUSE-PAPER", "label": "Paper and Forest Products" },
+			{ "value": "HOUSE-CONT", "label": "Containers and Packaging" }
+		]
+	},
+	{
+		"value": "BANKS",
+		"label": "Banks",
+		"sub": [
+			{ "value": "BANKS-COMM", "label": "Commercial Banks" },
+			{ "value": "BANKS-INVE", "label": "Investment Banks" },
+			{ "value": "BANKS-REGI", "label": "Regional Banks" },
+			{ "value": "BANKS-THRI", "label": "Thrifts and Mortgage Finance" },
+			{ "value": "BANKS-CRED", "label": "Credit Unions" }
+		]
+	},
+	{
+		"value": "DIVFN",
+		"label": "Diversified Financials",
+		"sub": [
+			{ "value": "DIVFN-ASSE", "label": "Asset Management" },
+			{ "value": "DIVFN-CONS", "label": "Consumer Finance" },
+			{ "value": "DIVFN-INVE", "label": "Investment Services" },
+			{ "value": "DIVFN-SPEC", "label": "Specialized Finance" },
+			{ "value": "DIVFN-MULT", "label": "Multi-Sector Holdings" }
+		]
+	},
+	{
+		"value": "INSUR",
+		"label": "Insurance",
+		"sub": [
+			{ "value": "INSUR-LIFE", "label": "Life and Health Insurance" },
+			{ "value": "INSUR-PROP", "label": "Property and Casualty Insurance" },
+			{ "value": "INSUR-REIN", "label": "Reinsurance" },
+			{ "value": "INSUR-BROK", "label": "Insurance Brokers" },
+			{ "value": "INSUR-MULT", "label": "Multi-line Insurance" }
+		]
+	},
+	{
+		"value": "REALE",
+		"label": "Real Estate",
+		"sub": [
+			{ "value": "REALE-DEVE", "label": "Real Estate Development" },
+			{ "value": "REALE-OPER", "label": "Real Estate Operations" },
+			{ "value": "REALE-INVE", "label": "Real Estate Investment Trusts (REITs)" },
+			{ "value": "REALE-SERV", "label": "Real Estate Services" },
+			{ "value": "REALE-HOLD", "label": "Real Estate Holding and Development" }
+		]
+	},
+	{
+		"value": "SOFTW",
+		"label": "Software & Services",
+		"sub": [
+			{ "value": "SOFTW-APPL", "label": "Application Software" },
+			{ "value": "SOFTW-SYST", "label": "Systems Software" },
+			{ "value": "SOFTW-INTE", "label": "Internet Software and Services" },
+			{ "value": "SOFTW-CONS", "label": "IT Consulting" },
+			{ "value": "SOFTW-DATA", "label": "Data Processing and Outsourced Services" }
+		]
+	},
+	{
+		"value": "TECHH",
+		"label": "Technology Hardware & Equipment",
+		"sub": [
+			{ "value": "TECHH-COMP", "label": "Computer Hardware" },
+			{ "value": "TECHH-STOR", "label": "Electronic Equipment and Instruments" },
+			{ "value": "TECHH-NETW", "label": "Communications Equipment" },
+			{ "value": "TECHH-PERI", "label": "Technology Hardware, Storage and Peripherals" },
+			{ "value": "TECHH-ELEC", "label": "Electronic Components" }
+		]
+	},
+	{
+		"value": "TECHH",
+		"label": "Technology Hardware & Equipment",
+		"sub": [
+			{ "value": "TECHH-COMP", "label": "Computer Hardware" },
+			{ "value": "TECHH-ELEC", "label": "Electronic Equipment and Instruments" },
+			{ "value": "TECHH-NETW", "label": "Communications Equipment" },
+			{ "value": "TECHH-STOR", "label": "Technology Hardware, Storage and Peripherals" },
+			{ "value": "TECHH-SEMI", "label": "Semiconductor Equipment" }
+		]
+	},
+	{
+		"value": "TELCM",
+		"label": "Telecommunication Services",
+		"sub": [
+			{ "value": "TELCM-WIRE", "label": "Wireless Telecommunication Services" },
+			{ "value": "TELCM-INTE", "label": "Integrated Telecommunication Services" },
+			{ "value": "TELCM-ALTE", "label": "Alternative Carriers" },
+			{ "value": "TELCM-TOWE", "label": "Telecommunication Towers" },
+			{ "value": "TELCM-SATE", "label": "Satellite Communication Services" }
+		]
+	}
 ]
