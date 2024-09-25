@@ -1,705 +1,566 @@
 {
-  "code": "025700000",
   "cities": [
     {
       "label": "Aglipay",
-      "code": "025701000",
-      "value": "0205701000",
+      "value": "025701000",
       "barangays": [
         {
           "label": "Alicia",
-          "code": "025701018",
-          "value": "0205701018"
+          "value": "025701018"
         },
         {
           "label": "Cabugao",
-          "code": "025701019",
-          "value": "0205701019"
+          "value": "025701019"
         },
         {
           "label": "Dagupan",
-          "code": "025701001",
-          "value": "0205701001"
+          "value": "025701001"
         },
         {
           "label": "Diodol",
-          "code": "025701020",
-          "value": "0205701020"
+          "value": "025701020"
         },
         {
           "label": "Dumabel",
-          "code": "025701002",
-          "value": "0205701002"
+          "value": "025701002"
         },
         {
           "label": "Dungo",
-          "code": "025701003",
-          "value": "0205701003"
+          "value": "025701003"
         },
         {
           "label": "Guinalbin",
-          "code": "025701004",
-          "value": "0205701004"
+          "value": "025701004"
         },
         {
           "label": "Ligaya",
-          "code": "025701005",
-          "value": "0205701005"
+          "value": "025701005"
         },
         {
           "label": "Nagabgaban",
-          "code": "025701021",
-          "value": "0205701021"
+          "value": "025701021"
         },
         {
           "label": "Palacian",
-          "code": "025701006",
-          "value": "0205701006"
+          "value": "025701006"
         },
         {
           "label": "Pinaripad Norte",
-          "code": "025701022",
-          "value": "0205701022"
+          "value": "025701022"
         },
         {
           "label": "Pinaripad Sur",
-          "code": "025701007",
-          "value": "0205701007"
+          "value": "025701007"
         },
         {
           "label": "Progreso (Pob.)",
-          "code": "025701008",
-          "value": "0205701008"
+          "value": "025701008"
         },
         {
           "label": "Ramos",
-          "code": "025701009",
-          "value": "0205701009"
+          "value": "025701009"
         },
         {
           "label": "Rang-ayan",
-          "code": "025701010",
-          "value": "0205701010"
+          "value": "025701010"
         },
         {
           "label": "San Antonio",
-          "code": "025701011",
-          "value": "0205701011"
+          "value": "025701011"
         },
         {
           "label": "San Benigno",
-          "code": "025701023",
-          "value": "0205701023"
+          "value": "025701023"
         },
         {
           "label": "San Francisco",
-          "code": "025701012",
-          "value": "0205701012"
+          "value": "025701012"
         },
         {
           "label": "San Leonardo",
-          "code": "025701013",
-          "value": "0205701013"
+          "value": "025701013"
         },
         {
           "label": "San Manuel",
-          "code": "025701024",
-          "value": "0205701024"
+          "value": "025701024"
         },
         {
           "label": "San Ramon",
-          "code": "025701014",
-          "value": "0205701014"
+          "value": "025701014"
         },
         {
           "label": "Victoria",
-          "code": "025701015",
-          "value": "0205701015"
+          "value": "025701015"
         },
         {
           "label": "Villa Pagaduan",
-          "code": "025701016",
-          "value": "0205701016"
+          "value": "025701016"
         },
         {
           "label": "Villa Santiago",
-          "code": "025701017",
-          "value": "0205701017"
+          "value": "025701017"
         },
         {
           "label": "Villa Ventura",
-          "code": "025701025",
-          "value": "0205701025"
+          "value": "025701025"
         }
       ]
     },
     {
       "label": "Cabarroguis",
-      "code": "025702000",
-      "value": "0205702000",
+      "value": "025702000",
       "barangays": [
         {
           "label": "Banuar",
-          "code": "025702001",
-          "value": "0205702001"
+          "value": "025702001"
         },
         {
           "label": "Burgos",
-          "code": "025702002",
-          "value": "0205702002"
+          "value": "025702002"
         },
         {
           "label": "Calaocan",
-          "code": "025702003",
-          "value": "0205702003"
+          "value": "025702003"
         },
         {
           "label": "Del Pilar",
-          "code": "025702004",
-          "value": "0205702004"
+          "value": "025702004"
         },
         {
           "label": "Dibibi",
-          "code": "025702005",
-          "value": "0205702005"
+          "value": "025702005"
         },
         {
           "label": "Dingasan",
-          "code": "025702014",
-          "value": "0205702014"
+          "value": "025702014"
         },
         {
           "label": "Eden",
-          "code": "025702006",
-          "value": "0205702006"
+          "value": "025702006"
         },
         {
           "label": "Gomez",
-          "code": "025702016",
-          "value": "0205702016"
+          "value": "025702016"
         },
         {
           "label": "Gundaway (Pob.)",
-          "code": "025702007",
-          "value": "0205702007"
+          "value": "025702007"
         },
         {
           "label": "Mangandingay (Pob.)",
-          "code": "025702008",
-          "value": "0205702008"
+          "value": "025702008"
         },
         {
           "label": "San Marcos",
-          "code": "025702009",
-          "value": "0205702009"
+          "value": "025702009"
         },
         {
           "label": "Santo Domingo",
-          "code": "025702017",
-          "value": "0205702017"
+          "value": "025702017"
         },
         {
           "label": "Tucod",
-          "code": "025702015",
-          "value": "0205702015"
+          "value": "025702015"
         },
         {
           "label": "Villa Peña",
-          "code": "025702013",
-          "value": "0205702013"
+          "value": "025702013"
         },
         {
           "label": "Villamor",
-          "code": "025702010",
-          "value": "0205702010"
+          "value": "025702010"
         },
         {
           "label": "Villarose",
-          "code": "025702012",
-          "value": "0205702012"
+          "value": "025702012"
         },
         {
           "label": "Zamora",
-          "code": "025702011",
-          "value": "0205702011"
+          "value": "025702011"
         }
       ]
     },
     {
       "label": "Diffun",
-      "code": "025703000",
-      "value": "0205703000",
+      "value": "025703000",
       "barangays": [
         {
           "label": "Aklan Village",
-          "code": "025703031",
-          "value": "0205703031"
+          "value": "025703031"
         },
         {
           "label": "Andres Bonifacio (Pob.)",
-          "code": "025703001",
-          "value": "0205703001"
+          "value": "025703001"
         },
         {
           "label": "Aurora East (Pob.)",
-          "code": "025703002",
-          "value": "0205703002"
+          "value": "025703002"
         },
         {
           "label": "Aurora West (Pob.)",
-          "code": "025703003",
-          "value": "0205703003"
+          "value": "025703003"
         },
         {
           "label": "Baguio Village",
-          "code": "025703004",
-          "value": "0205703004"
+          "value": "025703004"
         },
         {
           "label": "Balagbag",
-          "code": "025703005",
-          "value": "0205703005"
+          "value": "025703005"
         },
         {
           "label": "Bannawag",
-          "code": "025703006",
-          "value": "0205703006"
+          "value": "025703006"
         },
         {
           "label": "Cajel",
-          "code": "025703007",
-          "value": "0205703007"
+          "value": "025703007"
         },
         {
           "label": "Campamento",
-          "code": "025703008",
-          "value": "0205703008"
+          "value": "025703008"
         },
         {
           "label": "Diego Silang",
-          "code": "025703009",
-          "value": "0205703009"
+          "value": "025703009"
         },
         {
           "label": "Don Faustino Pagaduan",
-          "code": "025703033",
-          "value": "0205703033"
+          "value": "025703033"
         },
         {
           "label": "Don Mariano Perez, Sr.",
-          "code": "025703010",
-          "value": "0205703010"
+          "value": "025703010"
         },
         {
           "label": "Doña Imelda",
-          "code": "025703011",
-          "value": "0205703011"
+          "value": "025703011"
         },
         {
           "label": "Dumanisi",
-          "code": "025703012",
-          "value": "0205703012"
+          "value": "025703012"
         },
         {
           "label": "Gabriela Silang",
-          "code": "025703013",
-          "value": "0205703013"
+          "value": "025703013"
         },
         {
           "label": "Gregorio Pimentel",
-          "code": "025703032",
-          "value": "0205703032"
+          "value": "025703032"
         },
         {
           "label": "Gulac",
-          "code": "025703014",
-          "value": "0205703014"
+          "value": "025703014"
         },
         {
           "label": "Guribang",
-          "code": "025703015",
-          "value": "0205703015"
+          "value": "025703015"
         },
         {
           "label": "Ifugao Village",
-          "code": "025703016",
-          "value": "0205703016"
+          "value": "025703016"
         },
         {
           "label": "Isidro Paredes",
-          "code": "025703017",
-          "value": "0205703017"
+          "value": "025703017"
         },
         {
           "label": "Liwayway",
-          "code": "025703019",
-          "value": "0205703019"
+          "value": "025703019"
         },
         {
           "label": "Luttuad",
-          "code": "025703020",
-          "value": "0205703020"
+          "value": "025703020"
         },
         {
           "label": "Magsaysay",
-          "code": "025703021",
-          "value": "0205703021"
+          "value": "025703021"
         },
         {
           "label": "Makate",
-          "code": "025703022",
-          "value": "0205703022"
+          "value": "025703022"
         },
         {
           "label": "Maria Clara",
-          "code": "025703023",
-          "value": "0205703023"
+          "value": "025703023"
         },
         {
           "label": "Rafael Palma",
-          "code": "025703024",
-          "value": "0205703024"
+          "value": "025703024"
         },
         {
           "label": "Ricarte Norte",
-          "code": "025703025",
-          "value": "0205703025"
+          "value": "025703025"
         },
         {
           "label": "Ricarte Sur",
-          "code": "025703026",
-          "value": "0205703026"
+          "value": "025703026"
         },
         {
           "label": "Rizal (Pob.)",
-          "code": "025703018",
-          "value": "0205703018"
+          "value": "025703018"
         },
         {
           "label": "San Antonio",
-          "code": "025703027",
-          "value": "0205703027"
+          "value": "025703027"
         },
         {
           "label": "San Isidro",
-          "code": "025703028",
-          "value": "0205703028"
+          "value": "025703028"
         },
         {
           "label": "San Pascual",
-          "code": "025703029",
-          "value": "0205703029"
+          "value": "025703029"
         },
         {
           "label": "Villa Pascua",
-          "code": "025703030",
-          "value": "0205703030"
+          "value": "025703030"
         }
       ]
     },
     {
       "label": "Maddela",
-      "code": "025704000",
-      "value": "0205704000",
+      "value": "025704000",
       "barangays": [
         {
           "label": "Abbag",
-          "code": "025704001",
-          "value": "0205704001"
+          "value": "025704001"
         },
         {
           "label": "Balligui",
-          "code": "025704003",
-          "value": "0205704003"
+          "value": "025704003"
         },
         {
           "label": "Buenavista",
-          "code": "025704005",
-          "value": "0205704005"
+          "value": "025704005"
         },
         {
           "label": "Cabaruan",
-          "code": "025704006",
-          "value": "0205704006"
+          "value": "025704006"
         },
         {
           "label": "Cabua-an",
-          "code": "025704007",
-          "value": "0205704007"
+          "value": "025704007"
         },
         {
           "label": "Cofcaville",
-          "code": "025704008",
-          "value": "0205704008"
+          "value": "025704008"
         },
         {
           "label": "Diduyon",
-          "code": "025704009",
-          "value": "0205704009"
+          "value": "025704009"
         },
         {
           "label": "Dipintin",
-          "code": "025704010",
-          "value": "0205704010"
+          "value": "025704010"
         },
         {
           "label": "Divisoria Norte",
-          "code": "025704011",
-          "value": "0205704011"
+          "value": "025704011"
         },
         {
           "label": "Divisoria Sur",
-          "code": "025704004",
-          "value": "0205704004"
+          "value": "025704004"
         },
         {
           "label": "Dumabato Norte",
-          "code": "025704012",
-          "value": "0205704012"
+          "value": "025704012"
         },
         {
           "label": "Dumabato Sur",
-          "code": "025704013",
-          "value": "0205704013"
+          "value": "025704013"
         },
         {
           "label": "Jose Ancheta",
-          "code": "025704038",
-          "value": "0205704038"
+          "value": "025704038"
         },
         {
           "label": "Lusod",
-          "code": "025704014",
-          "value": "0205704014"
+          "value": "025704014"
         },
         {
           "label": "Manglad",
-          "code": "025704015",
-          "value": "0205704015"
+          "value": "025704015"
         },
         {
           "label": "Pedlisan",
-          "code": "025704016",
-          "value": "0205704016"
+          "value": "025704016"
         },
         {
           "label": "Poblacion Norte",
-          "code": "025704017",
-          "value": "0205704017"
+          "value": "025704017"
         },
         {
           "label": "Poblacion Sur",
-          "code": "025704036",
-          "value": "0205704036"
+          "value": "025704036"
         },
         {
           "label": "San Bernabe",
-          "code": "025704019",
-          "value": "0205704019"
+          "value": "025704019"
         },
         {
           "label": "San Dionisio I",
-          "code": "025704021",
-          "value": "0205704021"
+          "value": "025704021"
         },
         {
           "label": "San Martin",
-          "code": "025704023",
-          "value": "0205704023"
+          "value": "025704023"
         },
         {
           "label": "San Pedro",
-          "code": "025704024",
-          "value": "0205704024"
+          "value": "025704024"
         },
         {
           "label": "San Salvador",
-          "code": "025704025",
-          "value": "0205704025"
+          "value": "025704025"
         },
         {
           "label": "Santa Maria",
-          "code": "025704039",
-          "value": "0205704039"
+          "value": "025704039"
         },
         {
           "label": "Santo Niño",
-          "code": "025704026",
-          "value": "0205704026"
+          "value": "025704026"
         },
         {
           "label": "Santo Tomas",
-          "code": "025704027",
-          "value": "0205704027"
+          "value": "025704027"
         },
         {
           "label": "Villa Agullana",
-          "code": "025704034",
-          "value": "0205704034"
+          "value": "025704034"
         },
         {
           "label": "Villa Gracia",
-          "code": "025704028",
-          "value": "0205704028"
+          "value": "025704028"
         },
         {
           "label": "Villa Hermosa Norte",
-          "code": "025704030",
-          "value": "0205704030"
+          "value": "025704030"
         },
         {
           "label": "Villa Hermosa Sur",
-          "code": "025704029",
-          "value": "0205704029"
+          "value": "025704029"
         },
         {
           "label": "Villa Jose V Ylanan",
-          "code": "025704037",
-          "value": "0205704037"
+          "value": "025704037"
         },
         {
           "label": "Ysmael",
-          "code": "025704032",
-          "value": "0205704032"
+          "value": "025704032"
         }
       ]
     },
     {
       "label": "Nagtipunan",
-      "code": "025706000",
-      "value": "0205706000",
+      "value": "025706000",
       "barangays": [
         {
           "label": "Anak",
-          "code": "025706001",
-          "value": "0205706001"
+          "value": "025706001"
         },
         {
           "label": "Asaklat",
-          "code": "025706016",
-          "value": "0205706016"
+          "value": "025706016"
         },
         {
           "label": "Dipantan",
-          "code": "025706002",
-          "value": "0205706002"
+          "value": "025706002"
         },
         {
           "label": "Dissimungal",
-          "code": "025706003",
-          "value": "0205706003"
+          "value": "025706003"
         },
         {
           "label": "Guino",
-          "code": "025706004",
-          "value": "0205706004"
+          "value": "025706004"
         },
         {
           "label": "La Conwap",
-          "code": "025706005",
-          "value": "0205706005"
+          "value": "025706005"
         },
         {
           "label": "Landingan",
-          "code": "025706006",
-          "value": "0205706006"
+          "value": "025706006"
         },
         {
           "label": "Mataddi",
-          "code": "025706007",
-          "value": "0205706007"
+          "value": "025706007"
         },
         {
           "label": "Matmad",
-          "code": "025706008",
-          "value": "0205706008"
+          "value": "025706008"
         },
         {
           "label": "Old Gumiad",
-          "code": "025706009",
-          "value": "0205706009"
+          "value": "025706009"
         },
         {
           "label": "Ponggo",
-          "code": "025706010",
-          "value": "0205706010"
+          "value": "025706010"
         },
         {
           "label": "San Dionisio II",
-          "code": "025706011",
-          "value": "0205706011"
+          "value": "025706011"
         },
         {
           "label": "San Pugo",
-          "code": "025706012",
-          "value": "0205706012"
+          "value": "025706012"
         },
         {
           "label": "San Ramos",
-          "code": "025706013",
-          "value": "0205706013"
+          "value": "025706013"
         },
         {
           "label": "Sangbay",
-          "code": "025706014",
-          "value": "0205706014"
+          "value": "025706014"
         },
         {
           "label": "Wasid",
-          "code": "025706015",
-          "value": "0205706015"
+          "value": "025706015"
         }
       ]
     },
     {
       "label": "Saguday",
-      "code": "025705000",
-      "value": "0205705000",
+      "value": "025705000",
       "barangays": [
         {
           "label": "Cardenas",
-          "code": "025705008",
-          "value": "0205705008"
+          "value": "025705008"
         },
         {
           "label": "Dibul",
-          "code": "025705001",
-          "value": "0205705001"
+          "value": "025705001"
         },
         {
           "label": "Gamis",
-          "code": "025705009",
-          "value": "0205705009"
+          "value": "025705009"
         },
         {
           "label": "La Paz",
-          "code": "025705002",
-          "value": "0205705002"
+          "value": "025705002"
         },
         {
           "label": "Magsaysay (Pob.)",
-          "code": "025705003",
-          "value": "0205705003"
+          "value": "025705003"
         },
         {
           "label": "Rizal (Pob.)",
-          "code": "025705004",
-          "value": "0205705004"
+          "value": "025705004"
         },
         {
           "label": "Salvacion",
-          "code": "025705005",
-          "value": "0205705005"
+          "value": "025705005"
         },
         {
           "label": "Santo Tomas",
-          "code": "025705006",
-          "value": "0205705006"
+          "value": "025705006"
         },
         {
           "label": "Tres Reyes",
-          "code": "025705007",
-          "value": "0205705007"
+          "value": "025705007"
         }
       ]
     }

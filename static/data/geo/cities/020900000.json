@@ -1,190 +1,154 @@
 {
-  "code": "020900000",
   "cities": [
     {
       "label": "Basco",
-      "code": "020901000",
-      "value": "0200901000",
+      "value": "020901000",
       "barangays": [
         {
           "label": "Chanarian",
-          "code": "020901005",
-          "value": "0200901005"
+          "value": "020901005"
         },
         {
           "label": "Ihubok I",
-          "code": "020901002",
-          "value": "0200901002"
+          "value": "020901002"
         },
         {
           "label": "Ihubok II",
-          "code": "020901001",
-          "value": "0200901001"
+          "value": "020901001"
         },
         {
           "label": "Kayhuvokan",
-          "code": "020901006",
-          "value": "0200901006"
+          "value": "020901006"
         },
         {
           "label": "San Antonio",
-          "code": "020901003",
-          "value": "0200901003"
+          "value": "020901003"
         },
         {
           "label": "San Joaquin",
-          "code": "020901004",
-          "value": "0200901004"
+          "value": "020901004"
         }
       ]
     },
     {
       "label": "Itbayat",
-      "code": "020902000",
-      "value": "0200902000",
+      "value": "020902000",
       "barangays": [
         {
           "label": "Raele",
-          "code": "020902006",
-          "value": "0200902006"
+          "value": "020902006"
         },
         {
           "label": "San Rafael",
-          "code": "020902007",
-          "value": "0200902007"
+          "value": "020902007"
         },
         {
           "label": "Santa Lucia",
-          "code": "020902008",
-          "value": "0200902008"
+          "value": "020902008"
         },
         {
           "label": "Santa Maria",
-          "code": "020902009",
-          "value": "0200902009"
+          "value": "020902009"
         },
         {
           "label": "Santa Rosa",
-          "code": "020902010",
-          "value": "0200902010"
+          "value": "020902010"
         }
       ]
     },
     {
       "label": "Ivana",
-      "code": "020903000",
-      "value": "0200903000",
+      "value": "020903000",
       "barangays": [
         {
           "label": "Radiwan",
-          "code": "020903001",
-          "value": "0200903001"
+          "value": "020903001"
         },
         {
           "label": "Salagao",
-          "code": "020903002",
-          "value": "0200903002"
+          "value": "020903002"
         },
         {
           "label": "San Vicente",
-          "code": "020903003",
-          "value": "0200903003"
+          "value": "020903003"
         },
         {
           "label": "Tuhel (Pob.)",
-          "code": "020903004",
-          "value": "0200903004"
+          "value": "020903004"
         }
       ]
     },
     {
       "label": "Mahatao",
-      "code": "020904000",
-      "value": "0200904000",
+      "value": "020904000",
       "barangays": [
         {
           "label": "Hañib",
-          "code": "020904001",
-          "value": "0200904001"
+          "value": "020904001"
         },
         {
           "label": "Kaumbakan",
-          "code": "020904002",
-          "value": "0200904002"
+          "value": "020904002"
         },
         {
           "label": "Panatayan",
-          "code": "020904003",
-          "value": "0200904003"
+          "value": "020904003"
         },
         {
           "label": "Uvoy (Pob.)",
-          "code": "020904004",
-          "value": "0200904004"
+          "value": "020904004"
         }
       ]
     },
     {
       "label": "Sabtang",
-      "code": "020905000",
-      "value": "0200905000",
+      "value": "020905000",
       "barangays": [
         {
           "label": "Chavayan",
-          "code": "020905001",
-          "value": "0200905001"
+          "value": "020905001"
         },
         {
           "label": "Malakdang (Pob.)",
-          "code": "020905002",
-          "value": "0200905002"
+          "value": "020905002"
         },
         {
           "label": "Nakanmuan",
-          "code": "020905003",
-          "value": "0200905003"
+          "value": "020905003"
         },
         {
           "label": "Savidug",
-          "code": "020905004",
-          "value": "0200905004"
+          "value": "020905004"
         },
         {
           "label": "Sinakan (Pob.)",
-          "code": "020905005",
-          "value": "0200905005"
+          "value": "020905005"
         },
         {
           "label": "Sumnanga",
-          "code": "020905006",
-          "value": "0200905006"
+          "value": "020905006"
         }
       ]
     },
     {
       "label": "Uyugan",
-      "code": "020906000",
-      "value": "0200906000",
+      "value": "020906000",
       "barangays": [
         {
           "label": "Imnajbu",
-          "code": "020906002",
-          "value": "0200906002"
+          "value": "020906002"
         },
         {
           "label": "Itbud",
-          "code": "020906003",
-          "value": "0200906003"
+          "value": "020906003"
         },
         {
           "label": "Kayuganan (Pob.)",
-          "code": "020906004",
-          "value": "0200906004"
+          "value": "020906004"
         },
         {
           "label": "Kayvaluganan (Pob.)",
-          "code": "020906001",
-          "value": "0200906001"
+          "value": "020906001"
         }
       ]
     }

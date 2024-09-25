@@ -1,1095 +1,880 @@
 {
-  "code": "157000000",
   "cities": [
     {
       "label": "Bongao",
-      "code": "157002000",
-      "value": "1907002000",
+      "value": "157002000",
       "barangays": [
         {
           "label": "Bongao Poblacion",
-          "code": "157002027",
-          "value": "1907002027"
+          "value": "157002027"
         },
         {
           "label": "Ipil",
-          "code": "157002005",
-          "value": "1907002005"
+          "value": "157002005"
         },
         {
           "label": "Kamagong",
-          "code": "157002006",
-          "value": "1907002006"
+          "value": "157002006"
         },
         {
           "label": "Karungdong",
-          "code": "157002007",
-          "value": "1907002007"
+          "value": "157002007"
         },
         {
           "label": "Lagasan",
-          "code": "157002044",
-          "value": "1907002044"
+          "value": "157002044"
         },
         {
           "label": "Lakit Lakit",
-          "code": "157002009",
-          "value": "1907002009"
+          "value": "157002009"
         },
         {
           "label": "Lamion",
-          "code": "157002010",
-          "value": "1907002010"
+          "value": "157002010"
         },
         {
           "label": "Lapid Lapid",
-          "code": "157002012",
-          "value": "1907002012"
+          "value": "157002012"
         },
         {
           "label": "Lato Lato",
-          "code": "157002013",
-          "value": "1907002013"
+          "value": "157002013"
         },
         {
           "label": "Luuk Pandan",
-          "code": "157002014",
-          "value": "1907002014"
+          "value": "157002014"
         },
         {
           "label": "Luuk Tulay",
-          "code": "157002015",
-          "value": "1907002015"
+          "value": "157002015"
         },
         {
           "label": "Malassa",
-          "code": "157002016",
-          "value": "1907002016"
+          "value": "157002016"
         },
         {
           "label": "Mandulan",
-          "code": "157002017",
-          "value": "1907002017"
+          "value": "157002017"
         },
         {
           "label": "Masantong",
-          "code": "157002018",
-          "value": "1907002018"
+          "value": "157002018"
         },
         {
           "label": "Montay Montay",
-          "code": "157002019",
-          "value": "1907002019"
+          "value": "157002019"
         },
         {
           "label": "Nalil",
-          "code": "157002045",
-          "value": "1907002045"
+          "value": "157002045"
         },
         {
           "label": "Pababag",
-          "code": "157002021",
-          "value": "1907002021"
+          "value": "157002021"
         },
         {
           "label": "Pag-asa",
-          "code": "157002047",
-          "value": "1907002047"
+          "value": "157002047"
         },
         {
           "label": "Pagasinan",
-          "code": "157002022",
-          "value": "1907002022"
+          "value": "157002022"
         },
         {
           "label": "Pagatpat",
-          "code": "157002046",
-          "value": "1907002046"
+          "value": "157002046"
         },
         {
           "label": "Pahut",
-          "code": "157002023",
-          "value": "1907002023"
+          "value": "157002023"
         },
         {
           "label": "Pakias",
-          "code": "157002024",
-          "value": "1907002024"
+          "value": "157002024"
         },
         {
           "label": "Paniongan",
-          "code": "157002025",
-          "value": "1907002025"
+          "value": "157002025"
         },
         {
           "label": "Pasiagan",
-          "code": "157002026",
-          "value": "1907002026"
+          "value": "157002026"
         },
         {
           "label": "Sanga-sanga",
-          "code": "157002030",
-          "value": "1907002030"
+          "value": "157002030"
         },
         {
           "label": "Silubog",
-          "code": "157002031",
-          "value": "1907002031"
+          "value": "157002031"
         },
         {
           "label": "Simandagit",
-          "code": "157002033",
-          "value": "1907002033"
+          "value": "157002033"
         },
         {
           "label": "Sumangat",
-          "code": "157002034",
-          "value": "1907002034"
+          "value": "157002034"
         },
         {
           "label": "Tarawakan",
-          "code": "157002037",
-          "value": "1907002037"
+          "value": "157002037"
         },
         {
           "label": "Tongsinah",
-          "code": "157002040",
-          "value": "1907002040"
+          "value": "157002040"
         },
         {
           "label": "Tubig Basag",
-          "code": "157002042",
-          "value": "1907002042"
+          "value": "157002042"
         },
         {
           "label": "Tubig Tanah",
-          "code": "157002048",
-          "value": "1907002048"
+          "value": "157002048"
         },
         {
           "label": "Tubig-Boh",
-          "code": "157002049",
-          "value": "1907002049"
+          "value": "157002049"
         },
         {
           "label": "Tubig-Mampallam",
-          "code": "157002050",
-          "value": "1907002050"
+          "value": "157002050"
         },
         {
           "label": "Ungus-ungus",
-          "code": "157002043",
-          "value": "1907002043"
+          "value": "157002043"
         }
       ]
     },
     {
       "label": "Languyan",
-      "code": "157009000",
-      "value": "1907009000",
+      "value": "157009000",
       "barangays": [
         {
           "label": "Adnin",
-          "code": "157009014",
-          "value": "1907009014"
+          "value": "157009014"
         },
         {
           "label": "Bakaw-bakaw",
-          "code": "157009015",
-          "value": "1907009015"
+          "value": "157009015"
         },
         {
           "label": "Bakong",
-          "code": "157009001",
-          "value": "1907009001"
+          "value": "157009001"
         },
         {
           "label": "Bas-bas Proper",
-          "code": "157009002",
-          "value": "1907009002"
+          "value": "157009002"
         },
         {
           "label": "BasLikud",
-          "code": "157009016",
-          "value": "1907009016"
+          "value": "157009016"
         },
         {
           "label": "Basnunuk",
-          "code": "157009003",
-          "value": "1907009003"
+          "value": "157009003"
         },
         {
           "label": "Darussalam",
-          "code": "157009004",
-          "value": "1907009004"
+          "value": "157009004"
         },
         {
           "label": "Jakarta",
-          "code": "157009017",
-          "value": "1907009017"
+          "value": "157009017"
         },
         {
           "label": "Kalupag",
-          "code": "157009018",
-          "value": "1907009018"
+          "value": "157009018"
         },
         {
           "label": "Kiniktal",
-          "code": "157009019",
-          "value": "1907009019"
+          "value": "157009019"
         },
         {
           "label": "Languyan Proper (Pob.)",
-          "code": "157009005",
-          "value": "1907009005"
+          "value": "157009005"
         },
         {
           "label": "Marang-marang",
-          "code": "157009020",
-          "value": "1907009020"
+          "value": "157009020"
         },
         {
           "label": "Maraning",
-          "code": "157009006",
-          "value": "1907009006"
+          "value": "157009006"
         },
         {
           "label": "Parang Pantay",
-          "code": "157009013",
-          "value": "1907009013"
+          "value": "157009013"
         },
         {
           "label": "Sikullis",
-          "code": "157009021",
-          "value": "1907009021"
+          "value": "157009021"
         },
         {
           "label": "Simalak",
-          "code": "157009009",
-          "value": "1907009009"
+          "value": "157009009"
         },
         {
           "label": "Tubig Dakula",
-          "code": "157009022",
-          "value": "1907009022"
+          "value": "157009022"
         },
         {
           "label": "Tuhog-tuhog",
-          "code": "157009010",
-          "value": "1907009010"
+          "value": "157009010"
         },
         {
           "label": "Tumahubong",
-          "code": "157009011",
-          "value": "1907009011"
+          "value": "157009011"
         },
         {
           "label": "Tumbagaan",
-          "code": "157009012",
-          "value": "1907009012"
+          "value": "157009012"
         }
       ]
     },
     {
       "label": "Mapun",
-      "code": "157003000",
-      "value": "1907003000",
+      "value": "157003000",
       "barangays": [
         {
           "label": "Boki",
-          "code": "157003001",
-          "value": "1907003001"
+          "value": "157003001"
         },
         {
           "label": "Duhul Batu",
-          "code": "157003002",
-          "value": "1907003002"
+          "value": "157003002"
         },
         {
           "label": "Erok-erok",
-          "code": "157003013",
-          "value": "1907003013"
+          "value": "157003013"
         },
         {
           "label": "Guppah",
-          "code": "157003005",
-          "value": "1907003005"
+          "value": "157003005"
         },
         {
           "label": "Kompang",
-          "code": "157003003",
-          "value": "1907003003"
+          "value": "157003003"
         },
         {
           "label": "Liyubud",
-          "code": "157003014",
-          "value": "1907003014"
+          "value": "157003014"
         },
         {
           "label": "Lubbak Parang",
-          "code": "157003015",
-          "value": "1907003015"
+          "value": "157003015"
         },
         {
           "label": "Lupa Pula (Pob.)",
-          "code": "157003004",
-          "value": "1907003004"
+          "value": "157003004"
         },
         {
           "label": "Mahalo",
-          "code": "157003006",
-          "value": "1907003006"
+          "value": "157003006"
         },
         {
           "label": "Pawan",
-          "code": "157003007",
-          "value": "1907003007"
+          "value": "157003007"
         },
         {
           "label": "Sapa",
-          "code": "157003016",
-          "value": "1907003016"
+          "value": "157003016"
         },
         {
           "label": "Sikub",
-          "code": "157003008",
-          "value": "1907003008"
+          "value": "157003008"
         },
         {
           "label": "Tabulian",
-          "code": "157003009",
-          "value": "1907003009"
+          "value": "157003009"
         },
         {
           "label": "Tanduan",
-          "code": "157003010",
-          "value": "1907003010"
+          "value": "157003010"
         },
         {
           "label": "Umus Mataha",
-          "code": "157003012",
-          "value": "1907003012"
+          "value": "157003012"
         }
       ]
     },
     {
       "label": "Panglima Sugala",
-      "code": "157001000",
-      "value": "1907001000",
+      "value": "157001000",
       "barangays": [
         {
           "label": "Balimbing Proper",
-          "code": "157001001",
-          "value": "1907001001"
+          "value": "157001001"
         },
         {
           "label": "Batu-batu (Pob.)",
-          "code": "157001002",
-          "value": "1907001002"
+          "value": "157001002"
         },
         {
           "label": "Bauno Garing",
-          "code": "157001010",
-          "value": "1907001010"
+          "value": "157001010"
         },
         {
           "label": "Belatan Halu",
-          "code": "157001011",
-          "value": "1907001011"
+          "value": "157001011"
         },
         {
           "label": "Buan",
-          "code": "157001003",
-          "value": "1907001003"
+          "value": "157001003"
         },
         {
           "label": "Dungon",
-          "code": "157001004",
-          "value": "1907001004"
+          "value": "157001004"
         },
         {
           "label": "Karaha",
-          "code": "157001012",
-          "value": "1907001012"
+          "value": "157001012"
         },
         {
           "label": "Kulape",
-          "code": "157001013",
-          "value": "1907001013"
+          "value": "157001013"
         },
         {
           "label": "Liyaburan",
-          "code": "157001014",
-          "value": "1907001014"
+          "value": "157001014"
         },
         {
           "label": "Luuk Buntal",
-          "code": "157001005",
-          "value": "1907001005"
+          "value": "157001005"
         },
         {
           "label": "Magsaggaw",
-          "code": "157001015",
-          "value": "1907001015"
+          "value": "157001015"
         },
         {
           "label": "Malacca",
-          "code": "157001016",
-          "value": "1907001016"
+          "value": "157001016"
         },
         {
           "label": "Parangan",
-          "code": "157001007",
-          "value": "1907001007"
+          "value": "157001007"
         },
         {
           "label": "Sumangday",
-          "code": "157001017",
-          "value": "1907001017"
+          "value": "157001017"
         },
         {
           "label": "Tabunan",
-          "code": "157001008",
-          "value": "1907001008"
+          "value": "157001008"
         },
         {
           "label": "Tundon",
-          "code": "157001018",
-          "value": "1907001018"
+          "value": "157001018"
         },
         {
           "label": "Tungbangkaw",
-          "code": "157001009",
-          "value": "1907001009"
+          "value": "157001009"
         }
       ]
     },
     {
       "label": "Sapa-Sapa",
-      "code": "157010000",
-      "value": "1907010000",
+      "value": "157010000",
       "barangays": [
         {
           "label": "Baldatal Islam",
-          "code": "157010001",
-          "value": "1907010001"
+          "value": "157010001"
         },
         {
           "label": "Butun",
-          "code": "157010004",
-          "value": "1907010004"
+          "value": "157010004"
         },
         {
           "label": "Dalo-dalo",
-          "code": "157010005",
-          "value": "1907010005"
+          "value": "157010005"
         },
         {
           "label": "Kohec",
-          "code": "157010007",
-          "value": "1907010007"
+          "value": "157010007"
         },
         {
           "label": "Lakit-lakit",
-          "code": "157010009",
-          "value": "1907010009"
+          "value": "157010009"
         },
         {
           "label": "Latuan",
-          "code": "157010008",
-          "value": "1907010008"
+          "value": "157010008"
         },
         {
           "label": "Look Natuh",
-          "code": "157010016",
-          "value": "1907010016"
+          "value": "157010016"
         },
         {
           "label": "Lookan Banaran",
-          "code": "157010002",
-          "value": "1907010002"
+          "value": "157010002"
         },
         {
           "label": "Lookan Latuan",
-          "code": "157010017",
-          "value": "1907010017"
+          "value": "157010017"
         },
         {
           "label": "Malanta",
-          "code": "157010012",
-          "value": "1907010012"
+          "value": "157010012"
         },
         {
           "label": "Mantabuan Tabunan",
-          "code": "157010013",
-          "value": "1907010013"
+          "value": "157010013"
         },
         {
           "label": "Nunuk Likud Sikubong",
-          "code": "157010018",
-          "value": "1907010018"
+          "value": "157010018"
         },
         {
           "label": "Palate Gadjaminah",
-          "code": "157010006",
-          "value": "1907010006"
+          "value": "157010006"
         },
         {
           "label": "Pamasan",
-          "code": "157010019",
-          "value": "1907010019"
+          "value": "157010019"
         },
         {
           "label": "Sapa-sapa (Pob.)",
-          "code": "157010014",
-          "value": "1907010014"
+          "value": "157010014"
         },
         {
           "label": "Sapaat",
-          "code": "157010020",
-          "value": "1907010020"
+          "value": "157010020"
         },
         {
           "label": "Sukah-sukah",
-          "code": "157010021",
-          "value": "1907010021"
+          "value": "157010021"
         },
         {
           "label": "Tabunan Likud Sikubong",
-          "code": "157010011",
-          "value": "1907010011"
+          "value": "157010011"
         },
         {
           "label": "Tangngah",
-          "code": "157010010",
-          "value": "1907010010"
+          "value": "157010010"
         },
         {
           "label": "Tapian Bohe North",
-          "code": "157010015",
-          "value": "1907010015"
+          "value": "157010015"
         },
         {
           "label": "Tapian Bohe South",
-          "code": "157010022",
-          "value": "1907010022"
+          "value": "157010022"
         },
         {
           "label": "Tonggusong Banaran",
-          "code": "157010003",
-          "value": "1907010003"
+          "value": "157010003"
         },
         {
           "label": "Tup-tup Banaran",
-          "code": "157010023",
-          "value": "1907010023"
+          "value": "157010023"
         }
       ]
     },
     {
       "label": "Sibutu",
-      "code": "157011000",
-      "value": "1907011000",
+      "value": "157011000",
       "barangays": [
         {
           "label": "Ambulong Sapal",
-          "code": "157011001",
-          "value": "1907011001"
+          "value": "157011001"
         },
         {
           "label": "Datu Amilhamja Jaafar",
-          "code": "157011002",
-          "value": "1907011002"
+          "value": "157011002"
         },
         {
           "label": "Hadji Imam Bidin",
-          "code": "157011003",
-          "value": "1907011003"
+          "value": "157011003"
         },
         {
           "label": "Hadji Mohtar Sulayman",
-          "code": "157011004",
-          "value": "1907011004"
+          "value": "157011004"
         },
         {
           "label": "Hadji Taha",
-          "code": "157011005",
-          "value": "1907011005"
+          "value": "157011005"
         },
         {
           "label": "Imam Hadji Mohammad",
-          "code": "157011006",
-          "value": "1907011006"
+          "value": "157011006"
         },
         {
           "label": "Ligayan",
-          "code": "157011007",
-          "value": "1907011007"
+          "value": "157011007"
         },
         {
           "label": "Nunukan",
-          "code": "157011008",
-          "value": "1907011008"
+          "value": "157011008"
         },
         {
           "label": "Sheik Makdum",
-          "code": "157011009",
-          "value": "1907011009"
+          "value": "157011009"
         },
         {
           "label": "Sibutu (Pob.)",
-          "code": "157011010",
-          "value": "1907011010"
+          "value": "157011010"
         },
         {
           "label": "Talisay",
-          "code": "157011011",
-          "value": "1907011011"
+          "value": "157011011"
         },
         {
           "label": "Tandu Banak",
-          "code": "157011012",
-          "value": "1907011012"
+          "value": "157011012"
         },
         {
           "label": "Taungoh",
-          "code": "157011013",
-          "value": "1907011013"
+          "value": "157011013"
         },
         {
           "label": "Tongehat",
-          "code": "157011014",
-          "value": "1907011014"
+          "value": "157011014"
         },
         {
           "label": "Tongsibalo",
-          "code": "157011015",
-          "value": "1907011015"
+          "value": "157011015"
         },
         {
           "label": "Ungus-ungus",
-          "code": "157011016",
-          "value": "1907011016"
+          "value": "157011016"
         }
       ]
     },
     {
       "label": "Simunul",
-      "code": "157004000",
-      "value": "1907004000",
+      "value": "157004000",
       "barangays": [
         {
           "label": "Bagid*",
-          "code": "157004015",
-          "value": "1907004015"
+          "value": "157004015"
         },
         {
           "label": "Bakong",
-          "code": "157004001",
-          "value": "1907004001"
+          "value": "157004001"
         },
         {
           "label": "Doh-Tong",
-          "code": "157004008",
-          "value": "1907004008"
+          "value": "157004008"
         },
         {
           "label": "Luuk Datan",
-          "code": "157004009",
-          "value": "1907004009"
+          "value": "157004009"
         },
         {
           "label": "Manuk Mangkaw",
-          "code": "157004002",
-          "value": "1907004002"
+          "value": "157004002"
         },
         {
           "label": "Maruwa",
-          "code": "157004010",
-          "value": "1907004010"
+          "value": "157004010"
         },
         {
           "label": "Mongkay",
-          "code": "157004003",
-          "value": "1907004003"
+          "value": "157004003"
         },
         {
           "label": "Pagasinan",
-          "code": "157004011",
-          "value": "1907004011"
+          "value": "157004011"
         },
         {
           "label": "Panglima Mastul",
-          "code": "157004012",
-          "value": "1907004012"
+          "value": "157004012"
         },
         {
           "label": "Sukah-Bulan",
-          "code": "157004013",
-          "value": "1907004013"
+          "value": "157004013"
         },
         {
           "label": "Tampakan (Pob.)",
-          "code": "157004004",
-          "value": "1907004004"
+          "value": "157004004"
         },
         {
           "label": "Timundon",
-          "code": "157004014",
-          "value": "1907004014"
+          "value": "157004014"
         },
         {
           "label": "Tonggosong",
-          "code": "157004005",
-          "value": "1907004005"
+          "value": "157004005"
         },
         {
           "label": "Tubig Indangan",
-          "code": "157004006",
-          "value": "1907004006"
+          "value": "157004006"
         },
         {
           "label": "Ubol",
-          "code": "157004007",
-          "value": "1907004007"
+          "value": "157004007"
         }
       ]
     },
     {
       "label": "Sitangkai",
-      "code": "157005000",
-      "value": "1907005000",
+      "value": "157005000",
       "barangays": [
         {
           "label": "Datu Baguinda Putih",
-          "code": "157005016",
-          "value": "1907005016"
+          "value": "157005016"
         },
         {
           "label": "Imam Sapie",
-          "code": "157005021",
-          "value": "1907005021"
+          "value": "157005021"
         },
         {
           "label": "North Larap",
-          "code": "157005022",
-          "value": "1907005022"
+          "value": "157005022"
         },
         {
           "label": "Panglima Alari",
-          "code": "157005023",
-          "value": "1907005023"
+          "value": "157005023"
         },
         {
           "label": "Sipangkot",
-          "code": "157005025",
-          "value": "1907005025"
+          "value": "157005025"
         },
         {
           "label": "Sitangkai Poblacion",
-          "code": "157005004",
-          "value": "1907005004"
+          "value": "157005004"
         },
         {
           "label": "South Larap",
-          "code": "157005001",
-          "value": "1907005001"
+          "value": "157005001"
         },
         {
           "label": "Tongmageng",
-          "code": "157005010",
-          "value": "1907005010"
+          "value": "157005010"
         },
         {
           "label": "Tongusong",
-          "code": "157005012",
-          "value": "1907005012"
+          "value": "157005012"
         }
       ]
     },
     {
       "label": "South Ubian",
-      "code": "157006000",
-      "value": "1907006000",
+      "value": "157006000",
       "barangays": [
         {
           "label": "Babagan",
-          "code": "157006001",
-          "value": "1907006001"
+          "value": "157006001"
         },
         {
           "label": "Bengkol",
-          "code": "157006005",
-          "value": "1907006005"
+          "value": "157006005"
         },
         {
           "label": "Bintawlan",
-          "code": "157006006",
-          "value": "1907006006"
+          "value": "157006006"
         },
         {
           "label": "Bohe",
-          "code": "157006007",
-          "value": "1907006007"
+          "value": "157006007"
         },
         {
           "label": "Bubuan",
-          "code": "157006008",
-          "value": "1907006008"
+          "value": "157006008"
         },
         {
           "label": "Bunay Bunay Center",
-          "code": "157006011",
-          "value": "1907006011"
+          "value": "157006011"
         },
         {
           "label": "Bunay Bunay Lookan",
-          "code": "157006010",
-          "value": "1907006010"
+          "value": "157006010"
         },
         {
           "label": "Bunay Bunay Tong",
-          "code": "157006009",
-          "value": "1907006009"
+          "value": "157006009"
         },
         {
           "label": "East Talisay",
-          "code": "157006013",
-          "value": "1907006013"
+          "value": "157006013"
         },
         {
           "label": "Lahad Dampong",
-          "code": "157006012",
-          "value": "1907006012"
+          "value": "157006012"
         },
         {
           "label": "Laitan",
-          "code": "157006015",
-          "value": "1907006015"
+          "value": "157006015"
         },
         {
           "label": "Lambi-lambian",
-          "code": "157006016",
-          "value": "1907006016"
+          "value": "157006016"
         },
         {
           "label": "Laud",
-          "code": "157006017",
-          "value": "1907006017"
+          "value": "157006017"
         },
         {
           "label": "Likud Dampong",
-          "code": "157006038",
-          "value": "1907006038"
+          "value": "157006038"
         },
         {
           "label": "Likud Tabawan",
-          "code": "157006019",
-          "value": "1907006019"
+          "value": "157006019"
         },
         {
           "label": "Nunuk",
-          "code": "157006014",
-          "value": "1907006014"
+          "value": "157006014"
         },
         {
           "label": "Nusa",
-          "code": "157006024",
-          "value": "1907006024"
+          "value": "157006024"
         },
         {
           "label": "Nusa-nusa",
-          "code": "157006023",
-          "value": "1907006023"
+          "value": "157006023"
         },
         {
           "label": "Pampang",
-          "code": "157006025",
-          "value": "1907006025"
+          "value": "157006025"
         },
         {
           "label": "Putat",
-          "code": "157006026",
-          "value": "1907006026"
+          "value": "157006026"
         },
         {
           "label": "Sollogan",
-          "code": "157006027",
-          "value": "1907006027"
+          "value": "157006027"
         },
         {
           "label": "Talisay",
-          "code": "157006028",
-          "value": "1907006028"
+          "value": "157006028"
         },
         {
           "label": "Tampakan Dampong",
-          "code": "157006029",
-          "value": "1907006029"
+          "value": "157006029"
         },
         {
           "label": "Tangngah",
-          "code": "157006039",
-          "value": "1907006039"
+          "value": "157006039"
         },
         {
           "label": "Tinda-tindahan",
-          "code": "157006030",
-          "value": "1907006030"
+          "value": "157006030"
         },
         {
           "label": "Tong Tampakan",
-          "code": "157006032",
-          "value": "1907006032"
+          "value": "157006032"
         },
         {
           "label": "Tubig Dayang",
-          "code": "157006035",
-          "value": "1907006035"
+          "value": "157006035"
         },
         {
           "label": "Tubig Dayang Center",
-          "code": "157006033",
-          "value": "1907006033"
+          "value": "157006033"
         },
         {
           "label": "Tubig Dayang Riverside",
-          "code": "157006034",
-          "value": "1907006034"
+          "value": "157006034"
         },
         {
           "label": "Tukkai",
-          "code": "157006036",
-          "value": "1907006036"
+          "value": "157006036"
         },
         {
           "label": "Unas-unas",
-          "code": "157006037",
-          "value": "1907006037"
+          "value": "157006037"
         }
       ]
     },
     {
       "label": "Tandubas",
-      "code": "157007000",
-      "value": "1907007000",
+      "value": "157007000",
       "barangays": [
         {
           "label": "Baliungan",
-          "code": "157007002",
-          "value": "1907007002"
+          "value": "157007002"
         },
         {
           "label": "Ballak",
-          "code": "157007044",
-          "value": "1907007044"
+          "value": "157007044"
         },
         {
           "label": "Butun",
-          "code": "157007045",
-          "value": "1907007045"
+          "value": "157007045"
         },
         {
           "label": "Himbah",
-          "code": "157007046",
-          "value": "1907007046"
+          "value": "157007046"
         },
         {
           "label": "Kakoong",
-          "code": "157007009",
-          "value": "1907007009"
+          "value": "157007009"
         },
         {
           "label": "Kalang-kalang",
-          "code": "157007047",
-          "value": "1907007047"
+          "value": "157007047"
         },
         {
           "label": "Kepeng",
-          "code": "157007010",
-          "value": "1907007010"
+          "value": "157007010"
         },
         {
           "label": "Lahay-lahay",
-          "code": "157007012",
-          "value": "1907007012"
+          "value": "157007012"
         },
         {
           "label": "Naungan",
-          "code": "157007026",
-          "value": "1907007026"
+          "value": "157007026"
         },
         {
           "label": "Salamat",
-          "code": "157007048",
-          "value": "1907007048"
+          "value": "157007048"
         },
         {
           "label": "Sallangan",
-          "code": "157007030",
-          "value": "1907007030"
+          "value": "157007030"
         },
         {
           "label": "Sapa",
-          "code": "157007031",
-          "value": "1907007031"
+          "value": "157007031"
         },
         {
           "label": "Sibakloon",
-          "code": "157007049",
-          "value": "1907007049"
+          "value": "157007049"
         },
         {
           "label": "Silantup",
-          "code": "157007033",
-          "value": "1907007033"
+          "value": "157007033"
         },
         {
           "label": "Tandubato",
-          "code": "157007050",
-          "value": "1907007050"
+          "value": "157007050"
         },
         {
           "label": "Tangngah",
-          "code": "157007043",
-          "value": "1907007043"
+          "value": "157007043"
         },
         {
           "label": "Tapian",
-          "code": "157007041",
-          "value": "1907007041"
+          "value": "157007041"
         },
         {
           "label": "Tapian Sukah",
-          "code": "157007051",
-          "value": "1907007051"
+          "value": "157007051"
         },
         {
           "label": "Taruk",
-          "code": "157007052",
-          "value": "1907007052"
+          "value": "157007052"
         },
         {
           "label": "Tongbangkaw",
-          "code": "157007042",
-          "value": "1907007042"
+          "value": "157007042"
         }
       ]
     },
     {
       "label": "Turtle Islands",
-      "code": "157008000",
-      "value": "1907008000",
+      "value": "157008000",
       "barangays": [
         {
           "label": "Likud Bakkao",
-          "code": "157008002",
-          "value": "1907008002"
+          "value": "157008002"
         },
         {
           "label": "Taganak Poblacion",
-          "code": "157008001",
-          "value": "1907008001"
+          "value": "157008001"
         }
       ]
     }

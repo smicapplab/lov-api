@@ -1,3016 +1,2422 @@
 {
-  "code": "084800000",
   "cities": [
     {
       "label": "Allen",
-      "code": "084801000",
-      "value": "0804801000",
+      "value": "084801000",
       "barangays": [
         {
           "label": "Alejandro Village",
-          "code": "084801001",
-          "value": "0804801001"
+          "value": "084801001"
         },
         {
           "label": "Bonifacio",
-          "code": "084801002",
-          "value": "0804801002"
+          "value": "084801002"
         },
         {
           "label": "Cabacungan",
-          "code": "084801003",
-          "value": "0804801003"
+          "value": "084801003"
         },
         {
           "label": "Calarayan",
-          "code": "084801004",
-          "value": "0804801004"
+          "value": "084801004"
         },
         {
           "label": "Frederic",
-          "code": "084801018",
-          "value": "0804801018"
+          "value": "084801018"
         },
         {
           "label": "Guin-arawayan",
-          "code": "084801006",
-          "value": "0804801006"
+          "value": "084801006"
         },
         {
           "label": "Imelda",
-          "code": "084801019",
-          "value": "0804801019"
+          "value": "084801019"
         },
         {
           "label": "Jubasan",
-          "code": "084801007",
-          "value": "0804801007"
+          "value": "084801007"
         },
         {
           "label": "Kinabranan Zone I (Pob.)",
-          "code": "084801008",
-          "value": "0804801008"
+          "value": "084801008"
         },
         {
           "label": "Kinabranan Zone II (Pob.)",
-          "code": "084801021",
-          "value": "0804801021"
+          "value": "084801021"
         },
         {
           "label": "Kinaguitman",
-          "code": "084801009",
-          "value": "0804801009"
+          "value": "084801009"
         },
         {
           "label": "Lagundi",
-          "code": "084801010",
-          "value": "0804801010"
+          "value": "084801010"
         },
         {
           "label": "Lipata",
-          "code": "084801011",
-          "value": "0804801011"
+          "value": "084801011"
         },
         {
           "label": "Lo-oc",
-          "code": "084801020",
-          "value": "0804801020"
+          "value": "084801020"
         },
         {
           "label": "Londres",
-          "code": "084801012",
-          "value": "0804801012"
+          "value": "084801012"
         },
         {
           "label": "Sabang Zone I (Pob.)",
-          "code": "084801015",
-          "value": "0804801015"
+          "value": "084801015"
         },
         {
           "label": "Sabang Zone II (Pob.)",
-          "code": "084801022",
-          "value": "0804801022"
+          "value": "084801022"
         },
         {
           "label": "Santa Rita",
-          "code": "084801016",
-          "value": "0804801016"
+          "value": "084801016"
         },
         {
           "label": "Tasvilla",
-          "code": "084801017",
-          "value": "0804801017"
+          "value": "084801017"
         },
         {
           "label": "Victoria",
-          "code": "084801023",
-          "value": "0804801023"
+          "value": "084801023"
         }
       ]
     },
     {
       "label": "Biri",
-      "code": "084802000",
-      "value": "0804802000",
+      "value": "084802000",
       "barangays": [
         {
           "label": "Kauswagan",
-          "code": "084802004",
-          "value": "0804802004"
+          "value": "084802004"
         },
         {
           "label": "MacArthur",
-          "code": "084802003",
-          "value": "0804802003"
+          "value": "084802003"
         },
         {
           "label": "Pio Del Pilar",
-          "code": "084802005",
-          "value": "0804802005"
+          "value": "084802005"
         },
         {
           "label": "Poblacion",
-          "code": "084802002",
-          "value": "0804802002"
+          "value": "084802002"
         },
         {
           "label": "Progresso",
-          "code": "084802007",
-          "value": "0804802007"
+          "value": "084802007"
         },
         {
           "label": "San Antonio",
-          "code": "084802008",
-          "value": "0804802008"
+          "value": "084802008"
         },
         {
           "label": "San Pedro",
-          "code": "084802009",
-          "value": "0804802009"
+          "value": "084802009"
         },
         {
           "label": "Santo Niño",
-          "code": "084802010",
-          "value": "0804802010"
+          "value": "084802010"
         }
       ]
     },
     {
       "label": "Bobon",
-      "code": "084803000",
-      "value": "0804803000",
+      "value": "084803000",
       "barangays": [
         {
           "label": "Acerida",
-          "code": "084803001",
-          "value": "0804803001"
+          "value": "084803001"
         },
         {
           "label": "Arellano",
-          "code": "084803002",
-          "value": "0804803002"
+          "value": "084803002"
         },
         {
           "label": "Balat-balud",
-          "code": "084803003",
-          "value": "0804803003"
+          "value": "084803003"
         },
         {
           "label": "Calantiao",
-          "code": "084803012",
-          "value": "0804803012"
+          "value": "084803012"
         },
         {
           "label": "Dancalan",
-          "code": "084803004",
-          "value": "0804803004"
+          "value": "084803004"
         },
         {
           "label": "E. Duran",
-          "code": "084803005",
-          "value": "0804803005"
+          "value": "084803005"
         },
         {
           "label": "Gen. Lucban (Pob.)",
-          "code": "084803006",
-          "value": "0804803006"
+          "value": "084803006"
         },
         {
           "label": "Jose Abad Santos",
-          "code": "084803007",
-          "value": "0804803007"
+          "value": "084803007"
         },
         {
           "label": "Jose P. Laurel",
-          "code": "084803008",
-          "value": "0804803008"
+          "value": "084803008"
         },
         {
           "label": "Magsaysay",
-          "code": "084803010",
-          "value": "0804803010"
+          "value": "084803010"
         },
         {
           "label": "Quezon",
-          "code": "084803013",
-          "value": "0804803013"
+          "value": "084803013"
         },
         {
           "label": "Salvacion",
-          "code": "084803014",
-          "value": "0804803014"
+          "value": "084803014"
         },
         {
           "label": "San Isidro",
-          "code": "084803015",
-          "value": "0804803015"
+          "value": "084803015"
         },
         {
           "label": "San Juan (Pob.)",
-          "code": "084803016",
-          "value": "0804803016"
+          "value": "084803016"
         },
         {
           "label": "Santa Clara (Pob.)",
-          "code": "084803018",
-          "value": "0804803018"
+          "value": "084803018"
         },
         {
           "label": "Santander",
-          "code": "084803020",
-          "value": "0804803020"
+          "value": "084803020"
         },
         {
           "label": "Somoroy",
-          "code": "084803022",
-          "value": "0804803022"
+          "value": "084803022"
         },
         {
           "label": "Trojello",
-          "code": "084803024",
-          "value": "0804803024"
+          "value": "084803024"
         }
       ]
     },
     {
       "label": "Capul",
-      "code": "084804000",
-      "value": "0804804000",
+      "value": "084804000",
       "barangays": [
         {
           "label": "Aguin",
-          "code": "084804001",
-          "value": "0804804001"
+          "value": "084804001"
         },
         {
           "label": "Jubang",
-          "code": "084804003",
-          "value": "0804804003"
+          "value": "084804003"
         },
         {
           "label": "Landusan",
-          "code": "084804004",
-          "value": "0804804004"
+          "value": "084804004"
         },
         {
           "label": "Oson",
-          "code": "084804005",
-          "value": "0804804005"
+          "value": "084804005"
         },
         {
           "label": "Poblacion Barangay 1",
-          "code": "084804006",
-          "value": "0804804006"
+          "value": "084804006"
         },
         {
           "label": "Poblacion Barangay 2",
-          "code": "084804007",
-          "value": "0804804007"
+          "value": "084804007"
         },
         {
           "label": "Poblacion Barangay 3",
-          "code": "084804008",
-          "value": "0804804008"
+          "value": "084804008"
         },
         {
           "label": "Poblacion Barangay 4",
-          "code": "084804009",
-          "value": "0804804009"
+          "value": "084804009"
         },
         {
           "label": "Poblacion Barangay 5",
-          "code": "084804010",
-          "value": "0804804010"
+          "value": "084804010"
         },
         {
           "label": "Sagaosawan",
-          "code": "084804011",
-          "value": "0804804011"
+          "value": "084804011"
         },
         {
           "label": "San Luis",
-          "code": "084804012",
-          "value": "0804804012"
+          "value": "084804012"
         },
         {
           "label": "Sawang",
-          "code": "084804013",
-          "value": "0804804013"
+          "value": "084804013"
         }
       ]
     },
     {
       "label": "Catarman",
-      "code": "084805000",
-      "value": "0804805000",
+      "value": "084805000",
       "barangays": [
         {
           "label": "Acacia (Pob.)",
-          "code": "084805062",
-          "value": "0804805062"
+          "value": "084805062"
         },
         {
           "label": "Aguinaldo",
-          "code": "084805001",
-          "value": "0804805001"
+          "value": "084805001"
         },
         {
           "label": "Airport Village",
-          "code": "084805002",
-          "value": "0804805002"
+          "value": "084805002"
         },
         {
           "label": "Bangkerohan",
-          "code": "084805076",
-          "value": "0804805076"
+          "value": "084805076"
         },
         {
           "label": "Baybay",
-          "code": "084805003",
-          "value": "0804805003"
+          "value": "084805003"
         },
         {
           "label": "Bocsol",
-          "code": "084805005",
-          "value": "0804805005"
+          "value": "084805005"
         },
         {
           "label": "Cabayhan",
-          "code": "084805007",
-          "value": "0804805007"
+          "value": "084805007"
         },
         {
           "label": "Cag-abaca",
-          "code": "084805008",
-          "value": "0804805008"
+          "value": "084805008"
         },
         {
           "label": "Cal-igang",
-          "code": "084805010",
-          "value": "0804805010"
+          "value": "084805010"
         },
         {
           "label": "Calachuchi (Pob.)",
-          "code": "084805072",
-          "value": "0804805072"
+          "value": "084805072"
         },
         {
           "label": "Cawayan",
-          "code": "084805011",
-          "value": "0804805011"
+          "value": "084805011"
         },
         {
           "label": "Cervantes",
-          "code": "084805012",
-          "value": "0804805012"
+          "value": "084805012"
         },
         {
           "label": "Cularima",
-          "code": "084805013",
-          "value": "0804805013"
+          "value": "084805013"
         },
         {
           "label": "Daganas",
-          "code": "084805015",
-          "value": "0804805015"
+          "value": "084805015"
         },
         {
           "label": "Dalakit (Pob.)",
-          "code": "084805077",
-          "value": "0804805077"
+          "value": "084805077"
         },
         {
           "label": "Doña Pulqueria",
-          "code": "084805025",
-          "value": "0804805025"
+          "value": "084805025"
         },
         {
           "label": "Galutan",
-          "code": "084805016",
-          "value": "0804805016"
+          "value": "084805016"
         },
         {
           "label": "Gebalagnan",
-          "code": "084805021",
-          "value": "0804805021"
+          "value": "084805021"
         },
         {
           "label": "Gebulwangan",
-          "code": "084805022",
-          "value": "0804805022"
+          "value": "084805022"
         },
         {
           "label": "General Malvar",
-          "code": "084805018",
-          "value": "0804805018"
+          "value": "084805018"
         },
         {
           "label": "Guba",
-          "code": "084805020",
-          "value": "0804805020"
+          "value": "084805020"
         },
         {
           "label": "Hinatad",
-          "code": "084805026",
-          "value": "0804805026"
+          "value": "084805026"
         },
         {
           "label": "Imelda",
-          "code": "084805027",
-          "value": "0804805027"
+          "value": "084805027"
         },
         {
           "label": "Ipil-ipil (Pob.)",
-          "code": "084805066",
-          "value": "0804805066"
+          "value": "084805066"
         },
         {
           "label": "Jose Abad Santos (Pob.)",
-          "code": "084805067",
-          "value": "0804805067"
+          "value": "084805067"
         },
         {
           "label": "Jose P. Rizal (Pob.)",
-          "code": "084805075",
-          "value": "0804805075"
+          "value": "084805075"
         },
         {
           "label": "Kasoy (Pob.)",
-          "code": "084805068",
-          "value": "0804805068"
+          "value": "084805068"
         },
         {
           "label": "Lapu-lapu (Pob.)",
-          "code": "084805069",
-          "value": "0804805069"
+          "value": "084805069"
         },
         {
           "label": "Liberty",
-          "code": "084805028",
-          "value": "0804805028"
+          "value": "084805028"
         },
         {
           "label": "Libjo",
-          "code": "084805029",
-          "value": "0804805029"
+          "value": "084805029"
         },
         {
           "label": "Mabini",
-          "code": "084805032",
-          "value": "0804805032"
+          "value": "084805032"
         },
         {
           "label": "Mabolo (Pob.)",
-          "code": "084805074",
-          "value": "0804805074"
+          "value": "084805074"
         },
         {
           "label": "Macagtas",
-          "code": "084805033",
-          "value": "0804805033"
+          "value": "084805033"
         },
         {
           "label": "Mckinley",
-          "code": "084805034",
-          "value": "0804805034"
+          "value": "084805034"
         },
         {
           "label": "Molave (Pob.)",
-          "code": "084805064",
-          "value": "0804805064"
+          "value": "084805064"
         },
         {
           "label": "Narra (Pob.)",
-          "code": "084805071",
-          "value": "0804805071"
+          "value": "084805071"
         },
         {
           "label": "New Rizal",
-          "code": "084805037",
-          "value": "0804805037"
+          "value": "084805037"
         },
         {
           "label": "Old Rizal",
-          "code": "084805038",
-          "value": "0804805038"
+          "value": "084805038"
         },
         {
           "label": "Paticua",
-          "code": "084805041",
-          "value": "0804805041"
+          "value": "084805041"
         },
         {
           "label": "Polangi",
-          "code": "084805042",
-          "value": "0804805042"
+          "value": "084805042"
         },
         {
           "label": "Quezon",
-          "code": "084805043",
-          "value": "0804805043"
+          "value": "084805043"
         },
         {
           "label": "Salvacion",
-          "code": "084805045",
-          "value": "0804805045"
+          "value": "084805045"
         },
         {
           "label": "Sampaguita (Pob.)",
-          "code": "084805073",
-          "value": "0804805073"
+          "value": "084805073"
         },
         {
           "label": "San Julian",
-          "code": "084805049",
-          "value": "0804805049"
+          "value": "084805049"
         },
         {
           "label": "San Pascual",
-          "code": "084805078",
-          "value": "0804805078"
+          "value": "084805078"
         },
         {
           "label": "Santol (Pob.)",
-          "code": "084805070",
-          "value": "0804805070"
+          "value": "084805070"
         },
         {
           "label": "Somoge",
-          "code": "084805051",
-          "value": "0804805051"
+          "value": "084805051"
         },
         {
           "label": "Talisay (Pob.)",
-          "code": "084805063",
-          "value": "0804805063"
+          "value": "084805063"
         },
         {
           "label": "Tinowaran",
-          "code": "084805053",
-          "value": "0804805053"
+          "value": "084805053"
         },
         {
           "label": "Trangue",
-          "code": "084805054",
-          "value": "0804805054"
+          "value": "084805054"
         },
         {
           "label": "UEP I",
-          "code": "084805059",
-          "value": "0804805059"
+          "value": "084805059"
         },
         {
           "label": "UEP II",
-          "code": "084805060",
-          "value": "0804805060"
+          "value": "084805060"
         },
         {
           "label": "UEP III",
-          "code": "084805061",
-          "value": "0804805061"
+          "value": "084805061"
         },
         {
           "label": "Washington",
-          "code": "084805056",
-          "value": "0804805056"
+          "value": "084805056"
         },
         {
           "label": "Yakal (Pob.)",
-          "code": "084805065",
-          "value": "0804805065"
+          "value": "084805065"
         }
       ]
     },
     {
       "label": "Catubig",
-      "code": "084806000",
-      "value": "0804806000",
+      "value": "084806000",
       "barangays": [
         {
           "label": "Anongo",
-          "code": "084806001",
-          "value": "0804806001"
+          "value": "084806001"
         },
         {
           "label": "Barangay 1 (Pob.)",
-          "code": "084806045",
-          "value": "0804806045"
+          "value": "084806045"
         },
         {
           "label": "Barangay 2 (Pob.)",
-          "code": "084806046",
-          "value": "0804806046"
+          "value": "084806046"
         },
         {
           "label": "Barangay 3 (Pob.)",
-          "code": "084806047",
-          "value": "0804806047"
+          "value": "084806047"
         },
         {
           "label": "Barangay 4 (Pob.)",
-          "code": "084806048",
-          "value": "0804806048"
+          "value": "084806048"
         },
         {
           "label": "Barangay 5 (Pob.)",
-          "code": "084806049",
-          "value": "0804806049"
+          "value": "084806049"
         },
         {
           "label": "Barangay 6 (Pob.)",
-          "code": "084806050",
-          "value": "0804806050"
+          "value": "084806050"
         },
         {
           "label": "Barangay 7 (Pob.)",
-          "code": "084806051",
-          "value": "0804806051"
+          "value": "084806051"
         },
         {
           "label": "Barangay 8 (Pob.)",
-          "code": "084806052",
-          "value": "0804806052"
+          "value": "084806052"
         },
         {
           "label": "Bonifacio",
-          "code": "084806003",
-          "value": "0804806003"
+          "value": "084806003"
         },
         {
           "label": "Boring",
-          "code": "084806004",
-          "value": "0804806004"
+          "value": "084806004"
         },
         {
           "label": "Cagbugna",
-          "code": "084806005",
-          "value": "0804806005"
+          "value": "084806005"
         },
         {
           "label": "Cagmanaba",
-          "code": "084806006",
-          "value": "0804806006"
+          "value": "084806006"
         },
         {
           "label": "Cagogobngan",
-          "code": "084806008",
-          "value": "0804806008"
+          "value": "084806008"
         },
         {
           "label": "Calingnan",
-          "code": "084806009",
-          "value": "0804806009"
+          "value": "084806009"
         },
         {
           "label": "Canuctan",
-          "code": "084806010",
-          "value": "0804806010"
+          "value": "084806010"
         },
         {
           "label": "Claro M. Recto",
-          "code": "084806020",
-          "value": "0804806020"
+          "value": "084806020"
         },
         {
           "label": "D. Mercader",
-          "code": "084806002",
-          "value": "0804806002"
+          "value": "084806002"
         },
         {
           "label": "Guibwangan",
-          "code": "084806011",
-          "value": "0804806011"
+          "value": "084806011"
         },
         {
           "label": "Hinagonoyan",
-          "code": "084806013",
-          "value": "0804806013"
+          "value": "084806013"
         },
         {
           "label": "Hiparayan",
-          "code": "084806014",
-          "value": "0804806014"
+          "value": "084806014"
         },
         {
           "label": "Hitapi-an",
-          "code": "084806015",
-          "value": "0804806015"
+          "value": "084806015"
         },
         {
           "label": "Inoburan",
-          "code": "084806016",
-          "value": "0804806016"
+          "value": "084806016"
         },
         {
           "label": "Irawahan",
-          "code": "084806017",
-          "value": "0804806017"
+          "value": "084806017"
         },
         {
           "label": "Lenoyahan",
-          "code": "084806021",
-          "value": "0804806021"
+          "value": "084806021"
         },
         {
           "label": "Libon",
-          "code": "084806018",
-          "value": "0804806018"
+          "value": "084806018"
         },
         {
           "label": "Magongon",
-          "code": "084806023",
-          "value": "0804806023"
+          "value": "084806023"
         },
         {
           "label": "Magtuad",
-          "code": "084806024",
-          "value": "0804806024"
+          "value": "084806024"
         },
         {
           "label": "Manering",
-          "code": "084806025",
-          "value": "0804806025"
+          "value": "084806025"
         },
         {
           "label": "Nabulo",
-          "code": "084806026",
-          "value": "0804806026"
+          "value": "084806026"
         },
         {
           "label": "Nagoocan",
-          "code": "084806027",
-          "value": "0804806027"
+          "value": "084806027"
         },
         {
           "label": "Nahulid",
-          "code": "084806028",
-          "value": "0804806028"
+          "value": "084806028"
         },
         {
           "label": "Opong",
-          "code": "084806029",
-          "value": "0804806029"
+          "value": "084806029"
         },
         {
           "label": "Osang",
-          "code": "084806030",
-          "value": "0804806030"
+          "value": "084806030"
         },
         {
           "label": "Osmeña",
-          "code": "084806031",
-          "value": "0804806031"
+          "value": "084806031"
         },
         {
           "label": "P. Rebadulla",
-          "code": "084806032",
-          "value": "0804806032"
+          "value": "084806032"
         },
         {
           "label": "Roxas",
-          "code": "084806033",
-          "value": "0804806033"
+          "value": "084806033"
         },
         {
           "label": "Sagudsuron",
-          "code": "084806034",
-          "value": "0804806034"
+          "value": "084806034"
         },
         {
           "label": "San Antonio",
-          "code": "084806035",
-          "value": "0804806035"
+          "value": "084806035"
         },
         {
           "label": "San Francisco",
-          "code": "084806036",
-          "value": "0804806036"
+          "value": "084806036"
         },
         {
           "label": "San Jose",
-          "code": "084806037",
-          "value": "0804806037"
+          "value": "084806037"
         },
         {
           "label": "San Vicente",
-          "code": "084806038",
-          "value": "0804806038"
+          "value": "084806038"
         },
         {
           "label": "Santa Fe",
-          "code": "084806039",
-          "value": "0804806039"
+          "value": "084806039"
         },
         {
           "label": "Sulitan",
-          "code": "084806040",
-          "value": "0804806040"
+          "value": "084806040"
         },
         {
           "label": "Tangbo",
-          "code": "084806042",
-          "value": "0804806042"
+          "value": "084806042"
         },
         {
           "label": "Tungodnon",
-          "code": "084806043",
-          "value": "0804806043"
+          "value": "084806043"
         },
         {
           "label": "Vienna Maria",
-          "code": "084806044",
-          "value": "0804806044"
+          "value": "084806044"
         }
       ]
     },
     {
       "label": "Gamay",
-      "code": "084807000",
-      "value": "0804807000",
+      "value": "084807000",
       "barangays": [
         {
           "label": "Anito",
-          "code": "084807001",
-          "value": "0804807001"
+          "value": "084807001"
         },
         {
           "label": "Bangon",
-          "code": "084807002",
-          "value": "0804807002"
+          "value": "084807002"
         },
         {
           "label": "Bato",
-          "code": "084807003",
-          "value": "0804807003"
+          "value": "084807003"
         },
         {
           "label": "Baybay District (Pob.)",
-          "code": "084807023",
-          "value": "0804807023"
+          "value": "084807023"
         },
         {
           "label": "Bonifacio",
-          "code": "084807004",
-          "value": "0804807004"
+          "value": "084807004"
         },
         {
           "label": "Burabod (Pob.)",
-          "code": "084807024",
-          "value": "0804807024"
+          "value": "084807024"
         },
         {
           "label": "Cabarasan",
-          "code": "084807005",
-          "value": "0804807005"
+          "value": "084807005"
         },
         {
           "label": "Cadac-an",
-          "code": "084807006",
-          "value": "0804807006"
+          "value": "084807006"
         },
         {
           "label": "Cade-an",
-          "code": "084807007",
-          "value": "0804807007"
+          "value": "084807007"
         },
         {
           "label": "Cagamutan del Norte",
-          "code": "084807008",
-          "value": "0804807008"
+          "value": "084807008"
         },
         {
           "label": "Cagamutan del Sur",
-          "code": "084807025",
-          "value": "0804807025"
+          "value": "084807025"
         },
         {
           "label": "Dao",
-          "code": "084807010",
-          "value": "0804807010"
+          "value": "084807010"
         },
         {
           "label": "G. M. Osias",
-          "code": "084807011",
-          "value": "0804807011"
+          "value": "084807011"
         },
         {
           "label": "Gamay Central (Pob.)",
-          "code": "084807018",
-          "value": "0804807018"
+          "value": "084807018"
         },
         {
           "label": "Gamay Occidental I (Pob.)",
-          "code": "084807019",
-          "value": "0804807019"
+          "value": "084807019"
         },
         {
           "label": "Gamay Oriental I (Pob.)",
-          "code": "084807020",
-          "value": "0804807020"
+          "value": "084807020"
         },
         {
           "label": "Guibuangan",
-          "code": "084807012",
-          "value": "0804807012"
+          "value": "084807012"
         },
         {
           "label": "Henogawe",
-          "code": "084807013",
-          "value": "0804807013"
+          "value": "084807013"
         },
         {
           "label": "Libertad (Pob.)",
-          "code": "084807026",
-          "value": "0804807026"
+          "value": "084807026"
         },
         {
           "label": "Lonoy",
-          "code": "084807014",
-          "value": "0804807014"
+          "value": "084807014"
         },
         {
           "label": "Luneta",
-          "code": "084807015",
-          "value": "0804807015"
+          "value": "084807015"
         },
         {
           "label": "Malidong",
-          "code": "084807016",
-          "value": "0804807016"
+          "value": "084807016"
         },
         {
           "label": "Occidental II (Pob.)",
-          "code": "084807027",
-          "value": "0804807027"
+          "value": "084807027"
         },
         {
           "label": "Oriental II (Pob.)",
-          "code": "084807028",
-          "value": "0804807028"
+          "value": "084807028"
         },
         {
           "label": "Rizal",
-          "code": "084807021",
-          "value": "0804807021"
+          "value": "084807021"
         },
         {
           "label": "San Antonio",
-          "code": "084807022",
-          "value": "0804807022"
+          "value": "084807022"
         }
       ]
     },
     {
       "label": "Laoang",
-      "code": "084808000",
-      "value": "0804808000",
+      "value": "084808000",
       "barangays": [
         {
           "label": "Abaton",
-          "code": "084808001",
-          "value": "0804808001"
+          "value": "084808001"
         },
         {
           "label": "Aguadahan",
-          "code": "084808002",
-          "value": "0804808002"
+          "value": "084808002"
         },
         {
           "label": "Aroganga",
-          "code": "084808003",
-          "value": "0804808003"
+          "value": "084808003"
         },
         {
           "label": "Atipolo",
-          "code": "084808004",
-          "value": "0804808004"
+          "value": "084808004"
         },
         {
           "label": "Bawang",
-          "code": "084808005",
-          "value": "0804808005"
+          "value": "084808005"
         },
         {
           "label": "Baybay (Pob.)",
-          "code": "084808006",
-          "value": "0804808006"
+          "value": "084808006"
         },
         {
           "label": "Binatiklan",
-          "code": "084808007",
-          "value": "0804808007"
+          "value": "084808007"
         },
         {
           "label": "Bobolosan",
-          "code": "084808008",
-          "value": "0804808008"
+          "value": "084808008"
         },
         {
           "label": "Bongliw",
-          "code": "084808009",
-          "value": "0804808009"
+          "value": "084808009"
         },
         {
           "label": "Burabud",
-          "code": "084808010",
-          "value": "0804808010"
+          "value": "084808010"
         },
         {
           "label": "Cabadiangan",
-          "code": "084808011",
-          "value": "0804808011"
+          "value": "084808011"
         },
         {
           "label": "Cabagngan",
-          "code": "084808012",
-          "value": "0804808012"
+          "value": "084808012"
         },
         {
           "label": "Cabago-an",
-          "code": "084808013",
-          "value": "0804808013"
+          "value": "084808013"
         },
         {
           "label": "Cabulaloan",
-          "code": "084808014",
-          "value": "0804808014"
+          "value": "084808014"
         },
         {
           "label": "Cagaasan",
-          "code": "084808015",
-          "value": "0804808015"
+          "value": "084808015"
         },
         {
           "label": "Cagdara-o",
-          "code": "084808016",
-          "value": "0804808016"
+          "value": "084808016"
         },
         {
           "label": "Cahayagan",
-          "code": "084808017",
-          "value": "0804808017"
+          "value": "084808017"
         },
         {
           "label": "Calintaan Pob.",
-          "code": "084808018",
-          "value": "0804808018"
+          "value": "084808018"
         },
         {
           "label": "Calomotan",
-          "code": "084808019",
-          "value": "0804808019"
+          "value": "084808019"
         },
         {
           "label": "Candawid",
-          "code": "084808020",
-          "value": "0804808020"
+          "value": "084808020"
         },
         {
           "label": "Cangcahipos",
-          "code": "084808021",
-          "value": "0804808021"
+          "value": "084808021"
         },
         {
           "label": "Canyomanao",
-          "code": "084808022",
-          "value": "0804808022"
+          "value": "084808022"
         },
         {
           "label": "Catigbian",
-          "code": "084808023",
-          "value": "0804808023"
+          "value": "084808023"
         },
         {
           "label": "E. J. Dulay",
-          "code": "084808026",
-          "value": "0804808026"
+          "value": "084808026"
         },
         {
           "label": "G. B. Tan",
-          "code": "084808027",
-          "value": "0804808027"
+          "value": "084808027"
         },
         {
           "label": "Gibatangan",
-          "code": "084808028",
-          "value": "0804808028"
+          "value": "084808028"
         },
         {
           "label": "Guilaoangi (Pob.)",
-          "code": "084808029",
-          "value": "0804808029"
+          "value": "084808029"
         },
         {
           "label": "Inamlan",
-          "code": "084808030",
-          "value": "0804808030"
+          "value": "084808030"
         },
         {
           "label": "La Perla",
-          "code": "084808031",
-          "value": "0804808031"
+          "value": "084808031"
         },
         {
           "label": "Langob",
-          "code": "084808032",
-          "value": "0804808032"
+          "value": "084808032"
         },
         {
           "label": "Lawaan",
-          "code": "084808033",
-          "value": "0804808033"
+          "value": "084808033"
         },
         {
           "label": "Little Venice (Pob.)",
-          "code": "084808034",
-          "value": "0804808034"
+          "value": "084808034"
         },
         {
           "label": "Magsaysay",
-          "code": "084808035",
-          "value": "0804808035"
+          "value": "084808035"
         },
         {
           "label": "Marubay",
-          "code": "084808036",
-          "value": "0804808036"
+          "value": "084808036"
         },
         {
           "label": "Mualbual",
-          "code": "084808037",
-          "value": "0804808037"
+          "value": "084808037"
         },
         {
           "label": "Napotiocan",
-          "code": "084808038",
-          "value": "0804808038"
+          "value": "084808038"
         },
         {
           "label": "Oleras",
-          "code": "084808039",
-          "value": "0804808039"
+          "value": "084808039"
         },
         {
           "label": "Onay",
-          "code": "084808040",
-          "value": "0804808040"
+          "value": "084808040"
         },
         {
           "label": "Palmera",
-          "code": "084808041",
-          "value": "0804808041"
+          "value": "084808041"
         },
         {
           "label": "Pangdan",
-          "code": "084808042",
-          "value": "0804808042"
+          "value": "084808042"
         },
         {
           "label": "Rawis",
-          "code": "084808043",
-          "value": "0804808043"
+          "value": "084808043"
         },
         {
           "label": "Rombang",
-          "code": "084808044",
-          "value": "0804808044"
+          "value": "084808044"
         },
         {
           "label": "San Antonio",
-          "code": "084808045",
-          "value": "0804808045"
+          "value": "084808045"
         },
         {
           "label": "San Miguel Heights (Pob.)",
-          "code": "084808046",
-          "value": "0804808046"
+          "value": "084808046"
         },
         {
           "label": "Sangcol",
-          "code": "084808048",
-          "value": "0804808048"
+          "value": "084808048"
         },
         {
           "label": "Sibunot",
-          "code": "084808049",
-          "value": "0804808049"
+          "value": "084808049"
         },
         {
           "label": "Simora",
-          "code": "084808050",
-          "value": "0804808050"
+          "value": "084808050"
         },
         {
           "label": "Suba",
-          "code": "084808052",
-          "value": "0804808052"
+          "value": "084808052"
         },
         {
           "label": "Talisay",
-          "code": "084808061",
-          "value": "0804808061"
+          "value": "084808061"
         },
         {
           "label": "Tan-awan",
-          "code": "084808054",
-          "value": "0804808054"
+          "value": "084808054"
         },
         {
           "label": "Tarusan",
-          "code": "084808055",
-          "value": "0804808055"
+          "value": "084808055"
         },
         {
           "label": "Tinoblan",
-          "code": "084808056",
-          "value": "0804808056"
+          "value": "084808056"
         },
         {
           "label": "Tumaguingting (Pob.)",
-          "code": "084808057",
-          "value": "0804808057"
+          "value": "084808057"
         },
         {
           "label": "Vigo",
-          "code": "084808058",
-          "value": "0804808058"
+          "value": "084808058"
         },
         {
           "label": "Yabyaban",
-          "code": "084808059",
-          "value": "0804808059"
+          "value": "084808059"
         },
         {
           "label": "Yapas",
-          "code": "084808060",
-          "value": "0804808060"
+          "value": "084808060"
         }
       ]
     },
     {
       "label": "Lapinig",
-      "code": "084809000",
-      "value": "0804809000",
+      "value": "084809000",
       "barangays": [
         {
           "label": "Alang-alang",
-          "code": "084809001",
-          "value": "0804809001"
+          "value": "084809001"
         },
         {
           "label": "Bagacay",
-          "code": "084809002",
-          "value": "0804809002"
+          "value": "084809002"
         },
         {
           "label": "Cahagwayan",
-          "code": "084809003",
-          "value": "0804809003"
+          "value": "084809003"
         },
         {
           "label": "Can Maria",
-          "code": "084809004",
-          "value": "0804809004"
+          "value": "084809004"
         },
         {
           "label": "Can Omanio",
-          "code": "084809005",
-          "value": "0804809005"
+          "value": "084809005"
         },
         {
           "label": "Imelda",
-          "code": "084809006",
-          "value": "0804809006"
+          "value": "084809006"
         },
         {
           "label": "Lapinig Del Norte (Pob.)",
-          "code": "084809008",
-          "value": "0804809008"
+          "value": "084809008"
         },
         {
           "label": "Lapinig Del Sur (Pob.)",
-          "code": "084809007",
-          "value": "0804809007"
+          "value": "084809007"
         },
         {
           "label": "Lo-ok",
-          "code": "084809009",
-          "value": "0804809009"
+          "value": "084809009"
         },
         {
           "label": "Mabini",
-          "code": "084809010",
-          "value": "0804809010"
+          "value": "084809010"
         },
         {
           "label": "May-igot",
-          "code": "084809011",
-          "value": "0804809011"
+          "value": "084809011"
         },
         {
           "label": "Palanas",
-          "code": "084809012",
-          "value": "0804809012"
+          "value": "084809012"
         },
         {
           "label": "Pio Del Pilar",
-          "code": "084809013",
-          "value": "0804809013"
+          "value": "084809013"
         },
         {
           "label": "Potong",
-          "code": "084809014",
-          "value": "0804809014"
+          "value": "084809014"
         },
         {
           "label": "Potong Del Sur",
-          "code": "084809015",
-          "value": "0804809015"
+          "value": "084809015"
         }
       ]
     },
     {
       "label": "Las Navas",
-      "code": "084810000",
-      "value": "0804810000",
+      "value": "084810000",
       "barangays": [
         {
           "label": "Balugo",
-          "code": "084810001",
-          "value": "0804810001"
+          "value": "084810001"
         },
         {
           "label": "Bugay",
-          "code": "084810002",
-          "value": "0804810002"
+          "value": "084810002"
         },
         {
           "label": "Bugtosan",
-          "code": "084810003",
-          "value": "0804810003"
+          "value": "084810003"
         },
         {
           "label": "Bukid",
-          "code": "084810004",
-          "value": "0804810004"
+          "value": "084810004"
         },
         {
           "label": "Bulao",
-          "code": "084810005",
-          "value": "0804810005"
+          "value": "084810005"
         },
         {
           "label": "Caputoan",
-          "code": "084810006",
-          "value": "0804810006"
+          "value": "084810006"
         },
         {
           "label": "Catoto-ogan",
-          "code": "084810007",
-          "value": "0804810007"
+          "value": "084810007"
         },
         {
           "label": "Cuenco",
-          "code": "084810008",
-          "value": "0804810008"
+          "value": "084810008"
         },
         {
           "label": "Dapdap",
-          "code": "084810009",
-          "value": "0804810009"
+          "value": "084810009"
         },
         {
           "label": "Del Pilar",
-          "code": "084810010",
-          "value": "0804810010"
+          "value": "084810010"
         },
         {
           "label": "Dolores",
-          "code": "084810011",
-          "value": "0804810011"
+          "value": "084810011"
         },
         {
           "label": "Epaw",
-          "code": "084810012",
-          "value": "0804810012"
+          "value": "084810012"
         },
         {
           "label": "Geguinta",
-          "code": "084810013",
-          "value": "0804810013"
+          "value": "084810013"
         },
         {
           "label": "Geracdo",
-          "code": "084810014",
-          "value": "0804810014"
+          "value": "084810014"
         },
         {
           "label": "Guyo",
-          "code": "084810015",
-          "value": "0804810015"
+          "value": "084810015"
         },
         {
           "label": "H. Jolejole",
-          "code": "084810054",
-          "value": "0804810054"
+          "value": "084810054"
         },
         {
           "label": "H. Jolejole District (Pob.)",
-          "code": "084810016",
-          "value": "0804810016"
+          "value": "084810016"
         },
         {
           "label": "Hangi",
-          "code": "084810017",
-          "value": "0804810017"
+          "value": "084810017"
         },
         {
           "label": "Imelda",
-          "code": "084810018",
-          "value": "0804810018"
+          "value": "084810018"
         },
         {
           "label": "L. Empon",
-          "code": "084810019",
-          "value": "0804810019"
+          "value": "084810019"
         },
         {
           "label": "Lakandula",
-          "code": "084810020",
-          "value": "0804810020"
+          "value": "084810020"
         },
         {
           "label": "Lourdes",
-          "code": "084810022",
-          "value": "0804810022"
+          "value": "084810022"
         },
         {
           "label": "Lumala-og",
-          "code": "084810021",
-          "value": "0804810021"
+          "value": "084810021"
         },
         {
           "label": "Mabini",
-          "code": "084810023",
-          "value": "0804810023"
+          "value": "084810023"
         },
         {
           "label": "Macarthur",
-          "code": "084810024",
-          "value": "0804810024"
+          "value": "084810024"
         },
         {
           "label": "Magsaysay",
-          "code": "084810025",
-          "value": "0804810025"
+          "value": "084810025"
         },
         {
           "label": "Matelarag",
-          "code": "084810026",
-          "value": "0804810026"
+          "value": "084810026"
         },
         {
           "label": "Osmeña",
-          "code": "084810027",
-          "value": "0804810027"
+          "value": "084810027"
         },
         {
           "label": "Paco",
-          "code": "084810028",
-          "value": "0804810028"
+          "value": "084810028"
         },
         {
           "label": "Palanas",
-          "code": "084810029",
-          "value": "0804810029"
+          "value": "084810029"
         },
         {
           "label": "Perez",
-          "code": "084810030",
-          "value": "0804810030"
+          "value": "084810030"
         },
         {
           "label": "Poponton",
-          "code": "084810031",
-          "value": "0804810031"
+          "value": "084810031"
         },
         {
           "label": "Quezon",
-          "code": "084810032",
-          "value": "0804810032"
+          "value": "084810032"
         },
         {
           "label": "Quirino",
-          "code": "084810033",
-          "value": "0804810033"
+          "value": "084810033"
         },
         {
           "label": "Quirino District (Pob.)",
-          "code": "084810034",
-          "value": "0804810034"
+          "value": "084810034"
         },
         {
           "label": "Rebong",
-          "code": "084810035",
-          "value": "0804810035"
+          "value": "084810035"
         },
         {
           "label": "Rizal",
-          "code": "084810036",
-          "value": "0804810036"
+          "value": "084810036"
         },
         {
           "label": "Roxas",
-          "code": "084810037",
-          "value": "0804810037"
+          "value": "084810037"
         },
         {
           "label": "Rufino",
-          "code": "084810038",
-          "value": "0804810038"
+          "value": "084810038"
         },
         {
           "label": "Sag-od",
-          "code": "084810039",
-          "value": "0804810039"
+          "value": "084810039"
         },
         {
           "label": "San Andres",
-          "code": "084810040",
-          "value": "0804810040"
+          "value": "084810040"
         },
         {
           "label": "San Antonio",
-          "code": "084810041",
-          "value": "0804810041"
+          "value": "084810041"
         },
         {
           "label": "San Fernando",
-          "code": "084810042",
-          "value": "0804810042"
+          "value": "084810042"
         },
         {
           "label": "San Francisco",
-          "code": "084810043",
-          "value": "0804810043"
+          "value": "084810043"
         },
         {
           "label": "San Isidro",
-          "code": "084810045",
-          "value": "0804810045"
+          "value": "084810045"
         },
         {
           "label": "San Jorge",
-          "code": "084810046",
-          "value": "0804810046"
+          "value": "084810046"
         },
         {
           "label": "San Jose",
-          "code": "084810047",
-          "value": "0804810047"
+          "value": "084810047"
         },
         {
           "label": "San Miguel",
-          "code": "084810048",
-          "value": "0804810048"
+          "value": "084810048"
         },
         {
           "label": "Santo Tomas",
-          "code": "084810049",
-          "value": "0804810049"
+          "value": "084810049"
         },
         {
           "label": "Tagab-iran",
-          "code": "084810050",
-          "value": "0804810050"
+          "value": "084810050"
         },
         {
           "label": "Tagan-ayan",
-          "code": "084810051",
-          "value": "0804810051"
+          "value": "084810051"
         },
         {
           "label": "Taylor",
-          "code": "084810052",
-          "value": "0804810052"
+          "value": "084810052"
         },
         {
           "label": "Victory",
-          "code": "084810053",
-          "value": "0804810053"
+          "value": "084810053"
         }
       ]
     },
     {
       "label": "Lavezares",
-      "code": "084811000",
-      "value": "0804811000",
+      "value": "084811000",
       "barangays": [
         {
           "label": "Balicuatro",
-          "code": "084811001",
-          "value": "0804811001"
+          "value": "084811001"
         },
         {
           "label": "Bani",
-          "code": "084811002",
-          "value": "0804811002"
+          "value": "084811002"
         },
         {
           "label": "Barobaybay",
-          "code": "084811003",
-          "value": "0804811003"
+          "value": "084811003"
         },
         {
           "label": "Caburihan (Pob.)",
-          "code": "084811004",
-          "value": "0804811004"
+          "value": "084811004"
         },
         {
           "label": "Caragas (Pob.)",
-          "code": "084811005",
-          "value": "0804811005"
+          "value": "084811005"
         },
         {
           "label": "Cataogan (Pob.)",
-          "code": "084811006",
-          "value": "0804811006"
+          "value": "084811006"
         },
         {
           "label": "Chansvilla",
-          "code": "084811007",
-          "value": "0804811007"
+          "value": "084811007"
         },
         {
           "label": "Datag",
-          "code": "084811008",
-          "value": "0804811008"
+          "value": "084811008"
         },
         {
           "label": "Enriqueta",
-          "code": "084811009",
-          "value": "0804811009"
+          "value": "084811009"
         },
         {
           "label": "Libas",
-          "code": "084811010",
-          "value": "0804811010"
+          "value": "084811010"
         },
         {
           "label": "Libertad",
-          "code": "084811011",
-          "value": "0804811011"
+          "value": "084811011"
         },
         {
           "label": "Macarthur",
-          "code": "084811012",
-          "value": "0804811012"
+          "value": "084811012"
         },
         {
           "label": "Magsaysay",
-          "code": "084811013",
-          "value": "0804811013"
+          "value": "084811013"
         },
         {
           "label": "Maravilla",
-          "code": "084811014",
-          "value": "0804811014"
+          "value": "084811014"
         },
         {
           "label": "Ocad (Pob.)",
-          "code": "084811015",
-          "value": "0804811015"
+          "value": "084811015"
         },
         {
           "label": "Sabong-Tabok",
-          "code": "084811030",
-          "value": "0804811030"
+          "value": "084811030"
         },
         {
           "label": "Salvacion",
-          "code": "084811018",
-          "value": "0804811018"
+          "value": "084811018"
         },
         {
           "label": "San Agustin",
-          "code": "084811019",
-          "value": "0804811019"
+          "value": "084811019"
         },
         {
           "label": "San Isidro",
-          "code": "084811020",
-          "value": "0804811020"
+          "value": "084811020"
         },
         {
           "label": "San Jose",
-          "code": "084811021",
-          "value": "0804811021"
+          "value": "084811021"
         },
         {
           "label": "San Juan",
-          "code": "084811022",
-          "value": "0804811022"
+          "value": "084811022"
         },
         {
           "label": "San Miguel",
-          "code": "084811023",
-          "value": "0804811023"
+          "value": "084811023"
         },
         {
           "label": "To-og",
-          "code": "084811026",
-          "value": "0804811026"
+          "value": "084811026"
         },
         {
           "label": "Urdaneta",
-          "code": "084811027",
-          "value": "0804811027"
+          "value": "084811027"
         },
         {
           "label": "Villa",
-          "code": "084811028",
-          "value": "0804811028"
+          "value": "084811028"
         },
         {
           "label": "Villahermosa",
-          "code": "084811029",
-          "value": "0804811029"
+          "value": "084811029"
         }
       ]
     },
     {
       "label": "Lope De Vega",
-      "code": "084824000",
-      "value": "0804824000",
+      "value": "084824000",
       "barangays": [
         {
           "label": "Bayho",
-          "code": "084824001",
-          "value": "0804824001"
+          "value": "084824001"
         },
         {
           "label": "Bonifacio",
-          "code": "084824002",
-          "value": "0804824002"
+          "value": "084824002"
         },
         {
           "label": "Cag-aguingay",
-          "code": "084824004",
-          "value": "0804824004"
+          "value": "084824004"
         },
         {
           "label": "Cagamesarag",
-          "code": "084824003",
-          "value": "0804824003"
+          "value": "084824003"
         },
         {
           "label": "Curry",
-          "code": "084824005",
-          "value": "0804824005"
+          "value": "084824005"
         },
         {
           "label": "Gebonawan",
-          "code": "084824006",
-          "value": "0804824006"
+          "value": "084824006"
         },
         {
           "label": "Gen. Luna",
-          "code": "084824007",
-          "value": "0804824007"
+          "value": "084824007"
         },
         {
           "label": "Getigo",
-          "code": "084824008",
-          "value": "0804824008"
+          "value": "084824008"
         },
         {
           "label": "Henaronagan",
-          "code": "084824009",
-          "value": "0804824009"
+          "value": "084824009"
         },
         {
           "label": "Lope De Vega (Pob.)",
-          "code": "084824010",
-          "value": "0804824010"
+          "value": "084824010"
         },
         {
           "label": "Lower Caynaga",
-          "code": "084824011",
-          "value": "0804824011"
+          "value": "084824011"
         },
         {
           "label": "Maghipid",
-          "code": "084824012",
-          "value": "0804824012"
+          "value": "084824012"
         },
         {
           "label": "Magsaysay",
-          "code": "084824013",
-          "value": "0804824013"
+          "value": "084824013"
         },
         {
           "label": "Osmeña",
-          "code": "084824014",
-          "value": "0804824014"
+          "value": "084824014"
         },
         {
           "label": "Paguite",
-          "code": "084824015",
-          "value": "0804824015"
+          "value": "084824015"
         },
         {
           "label": "Roxas",
-          "code": "084824016",
-          "value": "0804824016"
+          "value": "084824016"
         },
         {
           "label": "Sampaguita",
-          "code": "084824017",
-          "value": "0804824017"
+          "value": "084824017"
         },
         {
           "label": "San Francisco",
-          "code": "084824018",
-          "value": "0804824018"
+          "value": "084824018"
         },
         {
           "label": "San Jose",
-          "code": "084824019",
-          "value": "0804824019"
+          "value": "084824019"
         },
         {
           "label": "San Miguel",
-          "code": "084824020",
-          "value": "0804824020"
+          "value": "084824020"
         },
         {
           "label": "Somoroy",
-          "code": "084824021",
-          "value": "0804824021"
+          "value": "084824021"
         },
         {
           "label": "Upper Caynaga",
-          "code": "084824022",
-          "value": "0804824022"
+          "value": "084824022"
         }
       ]
     },
     {
       "label": "Mapanas",
-      "code": "084812000",
-      "value": "0804812000",
+      "value": "084812000",
       "barangays": [
         {
           "label": "Burgos",
-          "code": "084812001",
-          "value": "0804812001"
+          "value": "084812001"
         },
         {
           "label": "Del Norte (Pob.)",
-          "code": "084812005",
-          "value": "0804812005"
+          "value": "084812005"
         },
         {
           "label": "Del Sur (Pob.)",
-          "code": "084812006",
-          "value": "0804812006"
+          "value": "084812006"
         },
         {
           "label": "E. Laodenio",
-          "code": "084812011",
-          "value": "0804812011"
+          "value": "084812011"
         },
         {
           "label": "Jubasan",
-          "code": "084812002",
-          "value": "0804812002"
+          "value": "084812002"
         },
         {
           "label": "Magsaysay",
-          "code": "084812003",
-          "value": "0804812003"
+          "value": "084812003"
         },
         {
           "label": "Magtaon",
-          "code": "084812004",
-          "value": "0804812004"
+          "value": "084812004"
         },
         {
           "label": "Manaybanay",
-          "code": "084812012",
-          "value": "0804812012"
+          "value": "084812012"
         },
         {
           "label": "Naparasan",
-          "code": "084812010",
-          "value": "0804812010"
+          "value": "084812010"
         },
         {
           "label": "Quezon",
-          "code": "084812007",
-          "value": "0804812007"
+          "value": "084812007"
         },
         {
           "label": "San Jose",
-          "code": "084812008",
-          "value": "0804812008"
+          "value": "084812008"
         },
         {
           "label": "Santa Potenciana (Pob.)",
-          "code": "084812013",
-          "value": "0804812013"
+          "value": "084812013"
         },
         {
           "label": "Siljagon",
-          "code": "084812009",
-          "value": "0804812009"
+          "value": "084812009"
         }
       ]
     },
     {
       "label": "Mondragon",
-      "code": "084813000",
-      "value": "0804813000",
+      "value": "084813000",
       "barangays": [
         {
           "label": "Bagasbas",
-          "code": "084813001",
-          "value": "0804813001"
+          "value": "084813001"
         },
         {
           "label": "Bugko",
-          "code": "084813002",
-          "value": "0804813002"
+          "value": "084813002"
         },
         {
           "label": "Cablangan",
-          "code": "084813003",
-          "value": "0804813003"
+          "value": "084813003"
         },
         {
           "label": "Cagmanaba",
-          "code": "084813004",
-          "value": "0804813004"
+          "value": "084813004"
         },
         {
           "label": "Cahicsan",
-          "code": "084813005",
-          "value": "0804813005"
+          "value": "084813005"
         },
         {
           "label": "Chitongco (Pob.)",
-          "code": "084813006",
-          "value": "0804813006"
+          "value": "084813006"
         },
         {
           "label": "De Maria",
-          "code": "084813007",
-          "value": "0804813007"
+          "value": "084813007"
         },
         {
           "label": "Doña Lucia",
-          "code": "084813008",
-          "value": "0804813008"
+          "value": "084813008"
         },
         {
           "label": "Eco (Pob.)",
-          "code": "084813009",
-          "value": "0804813009"
+          "value": "084813009"
         },
         {
           "label": "Flormina",
-          "code": "084813010",
-          "value": "0804813010"
+          "value": "084813010"
         },
         {
           "label": "Hinabangan",
-          "code": "084813011",
-          "value": "0804813011"
+          "value": "084813011"
         },
         {
           "label": "Imelda",
-          "code": "084813012",
-          "value": "0804813012"
+          "value": "084813012"
         },
         {
           "label": "La Trinidad",
-          "code": "084813013",
-          "value": "0804813013"
+          "value": "084813013"
         },
         {
           "label": "Makiwalo",
-          "code": "084813014",
-          "value": "0804813014"
+          "value": "084813014"
         },
         {
           "label": "Mirador",
-          "code": "084813015",
-          "value": "0804813015"
+          "value": "084813015"
         },
         {
           "label": "Nenita",
-          "code": "084813016",
-          "value": "0804813016"
+          "value": "084813016"
         },
         {
           "label": "Roxas",
-          "code": "084813017",
-          "value": "0804813017"
+          "value": "084813017"
         },
         {
           "label": "San Agustin",
-          "code": "084813018",
-          "value": "0804813018"
+          "value": "084813018"
         },
         {
           "label": "San Antonio",
-          "code": "084813019",
-          "value": "0804813019"
+          "value": "084813019"
         },
         {
           "label": "San Isidro",
-          "code": "084813020",
-          "value": "0804813020"
+          "value": "084813020"
         },
         {
           "label": "San Jose",
-          "code": "084813021",
-          "value": "0804813021"
+          "value": "084813021"
         },
         {
           "label": "San Juan",
-          "code": "084813022",
-          "value": "0804813022"
+          "value": "084813022"
         },
         {
           "label": "Santa Catalina",
-          "code": "084813023",
-          "value": "0804813023"
+          "value": "084813023"
         },
         {
           "label": "Talolora",
-          "code": "084813024",
-          "value": "0804813024"
+          "value": "084813024"
         }
       ]
     },
     {
       "label": "Palapag",
-      "code": "084814000",
-      "value": "0804814000",
+      "value": "084814000",
       "barangays": [
         {
           "label": "Asum (Pob.)",
-          "code": "084814001",
-          "value": "0804814001"
+          "value": "084814001"
         },
         {
           "label": "Bagacay",
-          "code": "084814002",
-          "value": "0804814002"
+          "value": "084814002"
         },
         {
           "label": "Bangon",
-          "code": "084814003",
-          "value": "0804814003"
+          "value": "084814003"
         },
         {
           "label": "Benigno S. Aquino, Jr.",
-          "code": "084814034",
-          "value": "0804814034"
+          "value": "084814034"
         },
         {
           "label": "Binay",
-          "code": "084814004",
-          "value": "0804814004"
+          "value": "084814004"
         },
         {
           "label": "Cabariwan",
-          "code": "084814005",
-          "value": "0804814005"
+          "value": "084814005"
         },
         {
           "label": "Cabatuan",
-          "code": "084814006",
-          "value": "0804814006"
+          "value": "084814006"
         },
         {
           "label": "Campedico",
-          "code": "084814007",
-          "value": "0804814007"
+          "value": "084814007"
         },
         {
           "label": "Capacujan",
-          "code": "084814008",
-          "value": "0804814008"
+          "value": "084814008"
         },
         {
           "label": "Jangtud",
-          "code": "084814009",
-          "value": "0804814009"
+          "value": "084814009"
         },
         {
           "label": "Laniwan (Pob.)",
-          "code": "084814010",
-          "value": "0804814010"
+          "value": "084814010"
         },
         {
           "label": "Mabaras",
-          "code": "084814011",
-          "value": "0804814011"
+          "value": "084814011"
         },
         {
           "label": "Magsaysay",
-          "code": "084814012",
-          "value": "0804814012"
+          "value": "084814012"
         },
         {
           "label": "Manajao",
-          "code": "084814013",
-          "value": "0804814013"
+          "value": "084814013"
         },
         {
           "label": "Mapno",
-          "code": "084814014",
-          "value": "0804814014"
+          "value": "084814014"
         },
         {
           "label": "Maragano",
-          "code": "084814015",
-          "value": "0804814015"
+          "value": "084814015"
         },
         {
           "label": "Matambag",
-          "code": "084814016",
-          "value": "0804814016"
+          "value": "084814016"
         },
         {
           "label": "Monbon",
-          "code": "084814017",
-          "value": "0804814017"
+          "value": "084814017"
         },
         {
           "label": "Nagbobtac",
-          "code": "084814018",
-          "value": "0804814018"
+          "value": "084814018"
         },
         {
           "label": "Napo",
-          "code": "084814019",
-          "value": "0804814019"
+          "value": "084814019"
         },
         {
           "label": "Natawo",
-          "code": "084814020",
-          "value": "0804814020"
+          "value": "084814020"
         },
         {
           "label": "Nipa",
-          "code": "084814021",
-          "value": "0804814021"
+          "value": "084814021"
         },
         {
           "label": "Osmeña",
-          "code": "084814022",
-          "value": "0804814022"
+          "value": "084814022"
         },
         {
           "label": "Pangpang",
-          "code": "084814023",
-          "value": "0804814023"
+          "value": "084814023"
         },
         {
           "label": "Paysud",
-          "code": "084814024",
-          "value": "0804814024"
+          "value": "084814024"
         },
         {
           "label": "Sangay",
-          "code": "084814026",
-          "value": "0804814026"
+          "value": "084814026"
         },
         {
           "label": "Simora",
-          "code": "084814028",
-          "value": "0804814028"
+          "value": "084814028"
         },
         {
           "label": "Sinalaran",
-          "code": "084814029",
-          "value": "0804814029"
+          "value": "084814029"
         },
         {
           "label": "Sumoroy",
-          "code": "084814030",
-          "value": "0804814030"
+          "value": "084814030"
         },
         {
           "label": "Talolora",
-          "code": "084814031",
-          "value": "0804814031"
+          "value": "084814031"
         },
         {
           "label": "Tambangan (Pob.)",
-          "code": "084814032",
-          "value": "0804814032"
+          "value": "084814032"
         },
         {
           "label": "Tinampo (Pob.)",
-          "code": "084814033",
-          "value": "0804814033"
+          "value": "084814033"
         }
       ]
     },
     {
       "label": "Pambujan",
-      "code": "084815000",
-      "value": "0804815000",
+      "value": "084815000",
       "barangays": [
         {
           "label": "Cababto-an",
-          "code": "084815002",
-          "value": "0804815002"
+          "value": "084815002"
         },
         {
           "label": "Cabari-an",
-          "code": "084815004",
-          "value": "0804815004"
+          "value": "084815004"
         },
         {
           "label": "Cagbigajo",
-          "code": "084815005",
-          "value": "0804815005"
+          "value": "084815005"
         },
         {
           "label": "Camparanga",
-          "code": "084815009",
-          "value": "0804815009"
+          "value": "084815009"
         },
         {
           "label": "Canjumadal",
-          "code": "084815007",
-          "value": "0804815007"
+          "value": "084815007"
         },
         {
           "label": "Doña Anecita",
-          "code": "084815008",
-          "value": "0804815008"
+          "value": "084815008"
         },
         {
           "label": "Ge-adgawan",
-          "code": "084815010",
-          "value": "0804815010"
+          "value": "084815010"
         },
         {
           "label": "Geparayan",
-          "code": "084815012",
-          "value": "0804815012"
+          "value": "084815012"
         },
         {
           "label": "Ginulgan",
-          "code": "084815011",
-          "value": "0804815011"
+          "value": "084815011"
         },
         {
           "label": "Igot",
-          "code": "084815013",
-          "value": "0804815013"
+          "value": "084815013"
         },
         {
           "label": "Inanahawan",
-          "code": "084815015",
-          "value": "0804815015"
+          "value": "084815015"
         },
         {
           "label": "Manahao",
-          "code": "084815016",
-          "value": "0804815016"
+          "value": "084815016"
         },
         {
           "label": "Paninirongan",
-          "code": "084815018",
-          "value": "0804815018"
+          "value": "084815018"
         },
         {
           "label": "Poblacion District 1",
-          "code": "084815019",
-          "value": "0804815019"
+          "value": "084815019"
         },
         {
           "label": "Poblacion District 2",
-          "code": "084815020",
-          "value": "0804815020"
+          "value": "084815020"
         },
         {
           "label": "Poblacion District 3",
-          "code": "084815021",
-          "value": "0804815021"
+          "value": "084815021"
         },
         {
           "label": "Poblacion District 4",
-          "code": "084815022",
-          "value": "0804815022"
+          "value": "084815022"
         },
         {
           "label": "Poblacion District 5",
-          "code": "084815023",
-          "value": "0804815023"
+          "value": "084815023"
         },
         {
           "label": "Poblacion District 6",
-          "code": "084815024",
-          "value": "0804815024"
+          "value": "084815024"
         },
         {
           "label": "Poblacion District 7",
-          "code": "084815025",
-          "value": "0804815025"
+          "value": "084815025"
         },
         {
           "label": "Poblacion District 8",
-          "code": "084815026",
-          "value": "0804815026"
+          "value": "084815026"
         },
         {
           "label": "San Ramon",
-          "code": "084815027",
-          "value": "0804815027"
+          "value": "084815027"
         },
         {
           "label": "Senonogan",
-          "code": "084815028",
-          "value": "0804815028"
+          "value": "084815028"
         },
         {
           "label": "Sixto T. Balanguit, Sr.",
-          "code": "084815029",
-          "value": "0804815029"
+          "value": "084815029"
         },
         {
           "label": "Tula",
-          "code": "084815030",
-          "value": "0804815030"
+          "value": "084815030"
         },
         {
           "label": "Ynaguingayan",
-          "code": "084815014",
-          "value": "0804815014"
+          "value": "084815014"
         }
       ]
     },
     {
       "label": "Rosario",
-      "code": "084816000",
-      "value": "0804816000",
+      "value": "084816000",
       "barangays": [
         {
           "label": "Aguada",
-          "code": "084816001",
-          "value": "0804816001"
+          "value": "084816001"
         },
         {
           "label": "Bantolinao",
-          "code": "084816009",
-          "value": "0804816009"
+          "value": "084816009"
         },
         {
           "label": "Buenavista",
-          "code": "084816002",
-          "value": "0804816002"
+          "value": "084816002"
         },
         {
           "label": "Commonwealth",
-          "code": "084816010",
-          "value": "0804816010"
+          "value": "084816010"
         },
         {
           "label": "Guindaulan",
-          "code": "084816011",
-          "value": "0804816011"
+          "value": "084816011"
         },
         {
           "label": "Jamoog",
-          "code": "084816003",
-          "value": "0804816003"
+          "value": "084816003"
         },
         {
           "label": "Kailingan",
-          "code": "084816012",
-          "value": "0804816012"
+          "value": "084816012"
         },
         {
           "label": "Ligaya",
-          "code": "084816005",
-          "value": "0804816005"
+          "value": "084816005"
         },
         {
           "label": "Poblacion",
-          "code": "084816006",
-          "value": "0804816006"
+          "value": "084816006"
         },
         {
           "label": "Salhag",
-          "code": "084816007",
-          "value": "0804816007"
+          "value": "084816007"
         },
         {
           "label": "San Lorenzo",
-          "code": "084816008",
-          "value": "0804816008"
+          "value": "084816008"
         }
       ]
     },
     {
       "label": "San Antonio",
-      "code": "084817000",
-      "value": "0804817000",
+      "value": "084817000",
       "barangays": [
         {
           "label": "Burabod",
-          "code": "084817001",
-          "value": "0804817001"
+          "value": "084817001"
         },
         {
           "label": "Dalupirit",
-          "code": "084817002",
-          "value": "0804817002"
+          "value": "084817002"
         },
         {
           "label": "Manraya",
-          "code": "084817003",
-          "value": "0804817003"
+          "value": "084817003"
         },
         {
           "label": "Pilar",
-          "code": "084817005",
-          "value": "0804817005"
+          "value": "084817005"
         },
         {
           "label": "Rizal",
-          "code": "084817007",
-          "value": "0804817007"
+          "value": "084817007"
         },
         {
           "label": "San Nicolas",
-          "code": "084817008",
-          "value": "0804817008"
+          "value": "084817008"
         },
         {
           "label": "Vinisitahan",
-          "code": "084817009",
-          "value": "0804817009"
+          "value": "084817009"
         },
         {
           "label": "Ward I (Pob.)",
-          "code": "084817006",
-          "value": "0804817006"
+          "value": "084817006"
         },
         {
           "label": "Ward II (Pob.)",
-          "code": "084817010",
-          "value": "0804817010"
+          "value": "084817010"
         },
         {
           "label": "Ward III (Pob.)",
-          "code": "084817011",
-          "value": "0804817011"
+          "value": "084817011"
         }
       ]
     },
     {
       "label": "San Isidro",
-      "code": "084818000",
-      "value": "0804818000",
+      "value": "084818000",
       "barangays": [
         {
           "label": "Alegria",
-          "code": "084818001",
-          "value": "0804818001"
+          "value": "084818001"
         },
         {
           "label": "Balite",
-          "code": "084818003",
-          "value": "0804818003"
+          "value": "084818003"
         },
         {
           "label": "Buenavista",
-          "code": "084818004",
-          "value": "0804818004"
+          "value": "084818004"
         },
         {
           "label": "Caglanipao",
-          "code": "084818005",
-          "value": "0804818005"
+          "value": "084818005"
         },
         {
           "label": "Happy Valley",
-          "code": "084818007",
-          "value": "0804818007"
+          "value": "084818007"
         },
         {
           "label": "Mabuhay",
-          "code": "084818008",
-          "value": "0804818008"
+          "value": "084818008"
         },
         {
           "label": "Palanit",
-          "code": "084818009",
-          "value": "0804818009"
+          "value": "084818009"
         },
         {
           "label": "Poblacion Norte",
-          "code": "084818010",
-          "value": "0804818010"
+          "value": "084818010"
         },
         {
           "label": "Poblacion Sur",
-          "code": "084818011",
-          "value": "0804818011"
+          "value": "084818011"
         },
         {
           "label": "Salvacion",
-          "code": "084818012",
-          "value": "0804818012"
+          "value": "084818012"
         },
         {
           "label": "San Juan",
-          "code": "084818013",
-          "value": "0804818013"
+          "value": "084818013"
         },
         {
           "label": "San Roque",
-          "code": "084818014",
-          "value": "0804818014"
+          "value": "084818014"
         },
         {
           "label": "Seven Hills",
-          "code": "084818015",
-          "value": "0804818015"
+          "value": "084818015"
         },
         {
           "label": "Veriato",
-          "code": "084818016",
-          "value": "0804818016"
+          "value": "084818016"
         }
       ]
     },
     {
       "label": "San Jose",
-      "code": "084819000",
-      "value": "0804819000",
+      "value": "084819000",
       "barangays": [
         {
           "label": "Aguadahan",
-          "code": "084819002",
-          "value": "0804819002"
+          "value": "084819002"
         },
         {
           "label": "Bagong Sabang",
-          "code": "084819003",
-          "value": "0804819003"
+          "value": "084819003"
         },
         {
           "label": "Balite",
-          "code": "084819004",
-          "value": "0804819004"
+          "value": "084819004"
         },
         {
           "label": "Barangay East (Pob.)",
-          "code": "084819029",
-          "value": "0804819029"
+          "value": "084819029"
         },
         {
           "label": "Barangay North (Pob.)",
-          "code": "084819027",
-          "value": "0804819027"
+          "value": "084819027"
         },
         {
           "label": "Barangay South (Pob.)",
-          "code": "084819028",
-          "value": "0804819028"
+          "value": "084819028"
         },
         {
           "label": "Barangay West (Pob.)",
-          "code": "084819030",
-          "value": "0804819030"
+          "value": "084819030"
         },
         {
           "label": "Bonglas",
-          "code": "084819005",
-          "value": "0804819005"
+          "value": "084819005"
         },
         {
           "label": "Da-o",
-          "code": "084819007",
-          "value": "0804819007"
+          "value": "084819007"
         },
         {
           "label": "Gengarog",
-          "code": "084819008",
-          "value": "0804819008"
+          "value": "084819008"
         },
         {
           "label": "Geratag",
-          "code": "084819009",
-          "value": "0804819009"
+          "value": "084819009"
         },
         {
           "label": "Layuhan",
-          "code": "084819012",
-          "value": "0804819012"
+          "value": "084819012"
         },
         {
           "label": "Mandugang",
-          "code": "084819013",
-          "value": "0804819013"
+          "value": "084819013"
         },
         {
           "label": "P. Tingzon",
-          "code": "084819014",
-          "value": "0804819014"
+          "value": "084819014"
         },
         {
           "label": "San Lorenzo",
-          "code": "084819025",
-          "value": "0804819025"
+          "value": "084819025"
         },
         {
           "label": "Tubigdanao",
-          "code": "084819026",
-          "value": "0804819026"
+          "value": "084819026"
         }
       ]
     },
     {
       "label": "San Roque",
-      "code": "084820000",
-      "value": "0804820000",
+      "value": "084820000",
       "barangays": [
         {
           "label": "Balnasan",
-          "code": "084820001",
-          "value": "0804820001"
+          "value": "084820001"
         },
         {
           "label": "Balud",
-          "code": "084820002",
-          "value": "0804820002"
+          "value": "084820002"
         },
         {
           "label": "Bantayan",
-          "code": "084820003",
-          "value": "0804820003"
+          "value": "084820003"
         },
         {
           "label": "Coroconog",
-          "code": "084820004",
-          "value": "0804820004"
+          "value": "084820004"
         },
         {
           "label": "Dale",
-          "code": "084820005",
-          "value": "0804820005"
+          "value": "084820005"
         },
         {
           "label": "Ginagdanan",
-          "code": "084820006",
-          "value": "0804820006"
+          "value": "084820006"
         },
         {
           "label": "Lao-angan",
-          "code": "084820007",
-          "value": "0804820007"
+          "value": "084820007"
         },
         {
           "label": "Lawaan",
-          "code": "084820008",
-          "value": "0804820008"
+          "value": "084820008"
         },
         {
           "label": "Malobago",
-          "code": "084820009",
-          "value": "0804820009"
+          "value": "084820009"
         },
         {
           "label": "Pagsang-an",
-          "code": "084820010",
-          "value": "0804820010"
+          "value": "084820010"
         },
         {
           "label": "Zone 1 (Pob.)",
-          "code": "084820011",
-          "value": "0804820011"
+          "value": "084820011"
         },
         {
           "label": "Zone 2 (Pob.)",
-          "code": "084820012",
-          "value": "0804820012"
+          "value": "084820012"
         },
         {
           "label": "Zone 3 (Pob.)",
-          "code": "084820013",
-          "value": "0804820013"
+          "value": "084820013"
         },
         {
           "label": "Zone 4 (Pob.)",
-          "code": "084820014",
-          "value": "0804820014"
+          "value": "084820014"
         },
         {
           "label": "Zone 5 (Pob.)",
-          "code": "084820015",
-          "value": "0804820015"
+          "value": "084820015"
         },
         {
           "label": "Zone 6 (Pob.)",
-          "code": "084820016",
-          "value": "0804820016"
+          "value": "084820016"
         }
       ]
     },
     {
       "label": "San Vicente",
-      "code": "084821000",
-      "value": "0804821000",
+      "value": "084821000",
       "barangays": [
         {
           "label": "Destacado Pob.",
-          "code": "084821008",
-          "value": "0804821008"
+          "value": "084821008"
         },
         {
           "label": "Maragat",
-          "code": "084821002",
-          "value": "0804821002"
+          "value": "084821002"
         },
         {
           "label": "Mongol Bongol Pob.",
-          "code": "084821003",
-          "value": "0804821003"
+          "value": "084821003"
         },
         {
           "label": "Punta Pob.",
-          "code": "084821009",
-          "value": "0804821009"
+          "value": "084821009"
         },
         {
           "label": "Sangputan",
-          "code": "084821005",
-          "value": "0804821005"
+          "value": "084821005"
         },
         {
           "label": "Sila",
-          "code": "084821006",
-          "value": "0804821006"
+          "value": "084821006"
         },
         {
           "label": "Tarnate",
-          "code": "084821007",
-          "value": "0804821007"
+          "value": "084821007"
         }
       ]
     },
     {
       "label": "Silvino Lobos",
-      "code": "084822000",
-      "value": "0804822000",
+      "value": "084822000",
       "barangays": [
         {
           "label": "Balud",
-          "code": "084822001",
-          "value": "0804822001"
+          "value": "084822001"
         },
         {
           "label": "Cababayogan",
-          "code": "084822002",
-          "value": "0804822002"
+          "value": "084822002"
         },
         {
           "label": "Cabunga-an",
-          "code": "084822003",
-          "value": "0804822003"
+          "value": "084822003"
         },
         {
           "label": "Cagda-o",
-          "code": "084822004",
-          "value": "0804822004"
+          "value": "084822004"
         },
         {
           "label": "Caghilot",
-          "code": "084822005",
-          "value": "0804822005"
+          "value": "084822005"
         },
         {
           "label": "Camanggaran",
-          "code": "084822006",
-          "value": "0804822006"
+          "value": "084822006"
         },
         {
           "label": "Camaya-an",
-          "code": "084822007",
-          "value": "0804822007"
+          "value": "084822007"
         },
         {
           "label": "Deit De Suba",
-          "code": "084822008",
-          "value": "0804822008"
+          "value": "084822008"
         },
         {
           "label": "Deit De Turag",
-          "code": "084822009",
-          "value": "0804822009"
+          "value": "084822009"
         },
         {
           "label": "Gebolwangan",
-          "code": "084822011",
-          "value": "0804822011"
+          "value": "084822011"
         },
         {
           "label": "Gebonawan",
-          "code": "084822010",
-          "value": "0804822010"
+          "value": "084822010"
         },
         {
           "label": "Gecbo-an",
-          "code": "084822012",
-          "value": "0804822012"
+          "value": "084822012"
         },
         {
           "label": "Genagasan",
-          "code": "084822014",
-          "value": "0804822014"
+          "value": "084822014"
         },
         {
           "label": "Geparayan De Turag",
-          "code": "084822015",
-          "value": "0804822015"
+          "value": "084822015"
         },
         {
           "label": "Giguimitan",
-          "code": "084822013",
-          "value": "0804822013"
+          "value": "084822013"
         },
         {
           "label": "Gusaran",
-          "code": "084822016",
-          "value": "0804822016"
+          "value": "084822016"
         },
         {
           "label": "Imelda",
-          "code": "084822017",
-          "value": "0804822017"
+          "value": "084822017"
         },
         {
           "label": "Montalban",
-          "code": "084822018",
-          "value": "0804822018"
+          "value": "084822018"
         },
         {
           "label": "Poblacion I",
-          "code": "084822024",
-          "value": "0804822024"
+          "value": "084822024"
         },
         {
           "label": "Poblacion II",
-          "code": "084822025",
-          "value": "0804822025"
+          "value": "084822025"
         },
         {
           "label": "San Antonio",
-          "code": "084822026",
-          "value": "0804822026"
+          "value": "084822026"
         },
         {
           "label": "San Isidro",
-          "code": "084822020",
-          "value": "0804822020"
+          "value": "084822020"
         },
         {
           "label": "Senonogan de Tubang",
-          "code": "084822021",
-          "value": "0804822021"
+          "value": "084822021"
         },
         {
           "label": "Suba (Pob.)",
-          "code": "084822019",
-          "value": "0804822019"
+          "value": "084822019"
         },
         {
           "label": "Tobgon",
-          "code": "084822022",
-          "value": "0804822022"
+          "value": "084822022"
         },
         {
           "label": "Victory",
-          "code": "084822023",
-          "value": "0804822023"
+          "value": "084822023"
         }
       ]
     },
     {
       "label": "Victoria",
-      "code": "084823000",
-      "value": "0804823000",
+      "value": "084823000",
       "barangays": [
         {
           "label": "Acedillo",
-          "code": "084823001",
-          "value": "0804823001"
+          "value": "084823001"
         },
         {
           "label": "Buenasuerte",
-          "code": "084823002",
-          "value": "0804823002"
+          "value": "084823002"
         },
         {
           "label": "Buenos Aires",
-          "code": "084823003",
-          "value": "0804823003"
+          "value": "084823003"
         },
         {
           "label": "Colab-og",
-          "code": "084823004",
-          "value": "0804823004"
+          "value": "084823004"
         },
         {
           "label": "Erenas",
-          "code": "084823006",
-          "value": "0804823006"
+          "value": "084823006"
         },
         {
           "label": "Libertad",
-          "code": "084823007",
-          "value": "0804823007"
+          "value": "084823007"
         },
         {
           "label": "Luisita",
-          "code": "084823008",
-          "value": "0804823008"
+          "value": "084823008"
         },
         {
           "label": "Lungib",
-          "code": "084823009",
-          "value": "0804823009"
+          "value": "084823009"
         },
         {
           "label": "Maxvilla",
-          "code": "084823010",
-          "value": "0804823010"
+          "value": "084823010"
         },
         {
           "label": "Pasabuena",
-          "code": "084823011",
-          "value": "0804823011"
+          "value": "084823011"
         },
         {
           "label": "San Lazaro",
-          "code": "084823016",
-          "value": "0804823016"
+          "value": "084823016"
         },
         {
           "label": "San Miguel",
-          "code": "084823017",
-          "value": "0804823017"
+          "value": "084823017"
         },
         {
           "label": "San Roman",
-          "code": "084823018",
-          "value": "0804823018"
+          "value": "084823018"
         },
         {
           "label": "Zone I (Pob.)",
-          "code": "084823012",
-          "value": "0804823012"
+          "value": "084823012"
         },
         {
           "label": "Zone II (Pob.)",
-          "code": "084823013",
-          "value": "0804823013"
+          "value": "084823013"
         },
         {
           "label": "Zone III (Pob.)",
-          "code": "084823014",
-          "value": "0804823014"
+          "value": "084823014"
         }
       ]
     }

@@ -1,2150 +1,1724 @@
 {
-  "code": "112400000",
   "cities": [
     {
       "label": "Bansalan",
-      "code": "112401000",
-      "value": "1102401000",
+      "value": "112401000",
       "barangays": [
         {
           "label": "Alegre",
-          "code": "112401001",
-          "value": "1102401001"
+          "value": "112401001"
         },
         {
           "label": "Alta Vista",
-          "code": "112401002",
-          "value": "1102401002"
+          "value": "112401002"
         },
         {
           "label": "Anonang",
-          "code": "112401003",
-          "value": "1102401003"
+          "value": "112401003"
         },
         {
           "label": "Bitaug",
-          "code": "112401004",
-          "value": "1102401004"
+          "value": "112401004"
         },
         {
           "label": "Bonifacio",
-          "code": "112401005",
-          "value": "1102401005"
+          "value": "112401005"
         },
         {
           "label": "Buenavista",
-          "code": "112401006",
-          "value": "1102401006"
+          "value": "112401006"
         },
         {
           "label": "Darapuay",
-          "code": "112401007",
-          "value": "1102401007"
+          "value": "112401007"
         },
         {
           "label": "Dolo",
-          "code": "112401008",
-          "value": "1102401008"
+          "value": "112401008"
         },
         {
           "label": "Eman",
-          "code": "112401009",
-          "value": "1102401009"
+          "value": "112401009"
         },
         {
           "label": "Kinuskusan",
-          "code": "112401010",
-          "value": "1102401010"
+          "value": "112401010"
         },
         {
           "label": "Libertad",
-          "code": "112401011",
-          "value": "1102401011"
+          "value": "112401011"
         },
         {
           "label": "Linawan",
-          "code": "112401012",
-          "value": "1102401012"
+          "value": "112401012"
         },
         {
           "label": "Mabuhay",
-          "code": "112401013",
-          "value": "1102401013"
+          "value": "112401013"
         },
         {
           "label": "Mabunga",
-          "code": "112401014",
-          "value": "1102401014"
+          "value": "112401014"
         },
         {
           "label": "Managa",
-          "code": "112401015",
-          "value": "1102401015"
+          "value": "112401015"
         },
         {
           "label": "Marber",
-          "code": "112401016",
-          "value": "1102401016"
+          "value": "112401016"
         },
         {
           "label": "New Clarin",
-          "code": "112401017",
-          "value": "1102401017"
+          "value": "112401017"
         },
         {
           "label": "Poblacion",
-          "code": "112401018",
-          "value": "1102401018"
+          "value": "112401018"
         },
         {
           "label": "Poblacion Dos",
-          "code": "112401025",
-          "value": "1102401025"
+          "value": "112401025"
         },
         {
           "label": "Rizal",
-          "code": "112401019",
-          "value": "1102401019"
+          "value": "112401019"
         },
         {
           "label": "Santo Niño",
-          "code": "112401020",
-          "value": "1102401020"
+          "value": "112401020"
         },
         {
           "label": "Sibayan",
-          "code": "112401021",
-          "value": "1102401021"
+          "value": "112401021"
         },
         {
           "label": "Tinongtongan",
-          "code": "112401022",
-          "value": "1102401022"
+          "value": "112401022"
         },
         {
           "label": "Tubod",
-          "code": "112401023",
-          "value": "1102401023"
+          "value": "112401023"
         },
         {
           "label": "Union",
-          "code": "112401024",
-          "value": "1102401024"
+          "value": "112401024"
         }
       ]
     },
     {
       "label": "City of Davao",
-      "code": "112402000",
-      "value": "1130700000",
+      "value": "112402000",
       "barangays": [
         {
           "label": "Acacia",
-          "code": "112402001",
-          "value": "1130700001"
+          "value": "112402001"
         },
         {
           "label": "Agdao",
-          "code": "112402002",
-          "value": "1130700002"
+          "value": "112402002"
         },
         {
           "label": "Alambre",
-          "code": "112402003",
-          "value": "1130700003"
+          "value": "112402003"
         },
         {
           "label": "Alejandra Navarro",
-          "code": "112402056",
-          "value": "1130700056"
+          "value": "112402056"
         },
         {
           "label": "Alfonso Angliongto Sr.",
-          "code": "112402197",
-          "value": "1130700197"
+          "value": "112402197"
         },
         {
           "label": "Angalan",
-          "code": "112402174",
-          "value": "1130700174"
+          "value": "112402174"
         },
         {
           "label": "Atan-Awe",
-          "code": "112402004",
-          "value": "1130700004"
+          "value": "112402004"
         },
         {
           "label": "Baganihan",
-          "code": "112402175",
-          "value": "1130700175"
+          "value": "112402175"
         },
         {
           "label": "Bago Aplaya",
-          "code": "112402176",
-          "value": "1130700176"
+          "value": "112402176"
         },
         {
           "label": "Bago Gallera",
-          "code": "112402005",
-          "value": "1130700005"
+          "value": "112402005"
         },
         {
           "label": "Bago Oshiro",
-          "code": "112402006",
-          "value": "1130700006"
+          "value": "112402006"
         },
         {
           "label": "Baguio (Pob.)",
-          "code": "112402007",
-          "value": "1130700007"
+          "value": "112402007"
         },
         {
           "label": "Balengaeng",
-          "code": "112402009",
-          "value": "1130700009"
+          "value": "112402009"
         },
         {
           "label": "Baliok",
-          "code": "112402010",
-          "value": "1130700010"
+          "value": "112402010"
         },
         {
           "label": "Bangkas Heights",
-          "code": "112402012",
-          "value": "1130700012"
+          "value": "112402012"
         },
         {
           "label": "Bantol",
-          "code": "112402177",
-          "value": "1130700177"
+          "value": "112402177"
         },
         {
           "label": "Baracatan",
-          "code": "112402013",
-          "value": "1130700013"
+          "value": "112402013"
         },
         {
           "label": "Barangay 1-A (Pob.)",
-          "code": "112402134",
-          "value": "1130700134"
+          "value": "112402134"
         },
         {
           "label": "Barangay 10-A (Pob.)",
-          "code": "112402143",
-          "value": "1130700143"
+          "value": "112402143"
         },
         {
           "label": "Barangay 11-B (Pob.)",
-          "code": "112402144",
-          "value": "1130700144"
+          "value": "112402144"
         },
         {
           "label": "Barangay 12-B (Pob.)",
-          "code": "112402145",
-          "value": "1130700145"
+          "value": "112402145"
         },
         {
           "label": "Barangay 13-B (Pob.)",
-          "code": "112402146",
-          "value": "1130700146"
+          "value": "112402146"
         },
         {
           "label": "Barangay 14-B (Pob.)",
-          "code": "112402147",
-          "value": "1130700147"
+          "value": "112402147"
         },
         {
           "label": "Barangay 15-B (Pob.)",
-          "code": "112402148",
-          "value": "1130700148"
+          "value": "112402148"
         },
         {
           "label": "Barangay 16-B (Pob.)",
-          "code": "112402149",
-          "value": "1130700149"
+          "value": "112402149"
         },
         {
           "label": "Barangay 17-B (Pob.)",
-          "code": "112402150",
-          "value": "1130700150"
+          "value": "112402150"
         },
         {
           "label": "Barangay 18-B (Pob.)",
-          "code": "112402151",
-          "value": "1130700151"
+          "value": "112402151"
         },
         {
           "label": "Barangay 19-B (Pob.)",
-          "code": "112402152",
-          "value": "1130700152"
+          "value": "112402152"
         },
         {
           "label": "Barangay 2-A (Pob.)",
-          "code": "112402135",
-          "value": "1130700135"
+          "value": "112402135"
         },
         {
           "label": "Barangay 20-B (Pob.)",
-          "code": "112402153",
-          "value": "1130700153"
+          "value": "112402153"
         },
         {
           "label": "Barangay 21-C (Pob.)",
-          "code": "112402154",
-          "value": "1130700154"
+          "value": "112402154"
         },
         {
           "label": "Barangay 22-C (Pob.)",
-          "code": "112402155",
-          "value": "1130700155"
+          "value": "112402155"
         },
         {
           "label": "Barangay 23-C (Pob.)",
-          "code": "112402156",
-          "value": "1130700156"
+          "value": "112402156"
         },
         {
           "label": "Barangay 24-C (Pob.)",
-          "code": "112402157",
-          "value": "1130700157"
+          "value": "112402157"
         },
         {
           "label": "Barangay 25-C (Pob.)",
-          "code": "112402158",
-          "value": "1130700158"
+          "value": "112402158"
         },
         {
           "label": "Barangay 26-C (Pob.)",
-          "code": "112402159",
-          "value": "1130700159"
+          "value": "112402159"
         },
         {
           "label": "Barangay 27-C (Pob.)",
-          "code": "112402160",
-          "value": "1130700160"
+          "value": "112402160"
         },
         {
           "label": "Barangay 28-C (Pob.)",
-          "code": "112402161",
-          "value": "1130700161"
+          "value": "112402161"
         },
         {
           "label": "Barangay 29-C (Pob.)",
-          "code": "112402162",
-          "value": "1130700162"
+          "value": "112402162"
         },
         {
           "label": "Barangay 3-A (Pob.)",
-          "code": "112402136",
-          "value": "1130700136"
+          "value": "112402136"
         },
         {
           "label": "Barangay 30-C (Pob.)",
-          "code": "112402163",
-          "value": "1130700163"
+          "value": "112402163"
         },
         {
           "label": "Barangay 31-D (Pob.)",
-          "code": "112402164",
-          "value": "1130700164"
+          "value": "112402164"
         },
         {
           "label": "Barangay 32-D (Pob.)",
-          "code": "112402165",
-          "value": "1130700165"
+          "value": "112402165"
         },
         {
           "label": "Barangay 33-D (Pob.)",
-          "code": "112402166",
-          "value": "1130700166"
+          "value": "112402166"
         },
         {
           "label": "Barangay 34-D (Pob.)",
-          "code": "112402167",
-          "value": "1130700167"
+          "value": "112402167"
         },
         {
           "label": "Barangay 35-D (Pob.)",
-          "code": "112402168",
-          "value": "1130700168"
+          "value": "112402168"
         },
         {
           "label": "Barangay 36-D (Pob.)",
-          "code": "112402169",
-          "value": "1130700169"
+          "value": "112402169"
         },
         {
           "label": "Barangay 37-D (Pob.)",
-          "code": "112402170",
-          "value": "1130700170"
+          "value": "112402170"
         },
         {
           "label": "Barangay 38-D (Pob.)",
-          "code": "112402171",
-          "value": "1130700171"
+          "value": "112402171"
         },
         {
           "label": "Barangay 39-D (Pob.)",
-          "code": "112402172",
-          "value": "1130700172"
+          "value": "112402172"
         },
         {
           "label": "Barangay 4-A (Pob.)",
-          "code": "112402137",
-          "value": "1130700137"
+          "value": "112402137"
         },
         {
           "label": "Barangay 40-D (Pob.)",
-          "code": "112402173",
-          "value": "1130700173"
+          "value": "112402173"
         },
         {
           "label": "Barangay 5-A (Pob.)",
-          "code": "112402138",
-          "value": "1130700138"
+          "value": "112402138"
         },
         {
           "label": "Barangay 6-A (Pob.)",
-          "code": "112402139",
-          "value": "1130700139"
+          "value": "112402139"
         },
         {
           "label": "Barangay 7-A (Pob.)",
-          "code": "112402140",
-          "value": "1130700140"
+          "value": "112402140"
         },
         {
           "label": "Barangay 8-A (Pob.)",
-          "code": "112402141",
-          "value": "1130700141"
+          "value": "112402141"
         },
         {
           "label": "Barangay 9-A (Pob.)",
-          "code": "112402142",
-          "value": "1130700142"
+          "value": "112402142"
         },
         {
           "label": "Bato",
-          "code": "112402014",
-          "value": "1130700014"
+          "value": "112402014"
         },
         {
           "label": "Bayabas",
-          "code": "112402015",
-          "value": "1130700015"
+          "value": "112402015"
         },
         {
           "label": "Biao Escuela",
-          "code": "112402016",
-          "value": "1130700016"
+          "value": "112402016"
         },
         {
           "label": "Biao Guianga",
-          "code": "112402017",
-          "value": "1130700017"
+          "value": "112402017"
         },
         {
           "label": "Biao Joaquin",
-          "code": "112402018",
-          "value": "1130700018"
+          "value": "112402018"
         },
         {
           "label": "Binugao",
-          "code": "112402019",
-          "value": "1130700019"
+          "value": "112402019"
         },
         {
           "label": "Bucana",
-          "code": "112402020",
-          "value": "1130700020"
+          "value": "112402020"
         },
         {
           "label": "Buda",
-          "code": "112402178",
-          "value": "1130700178"
+          "value": "112402178"
         },
         {
           "label": "Buhangin (Pob.)",
-          "code": "112402021",
-          "value": "1130700021"
+          "value": "112402021"
         },
         {
           "label": "Bunawan (Pob.)",
-          "code": "112402022",
-          "value": "1130700022"
+          "value": "112402022"
         },
         {
           "label": "Cabantian",
-          "code": "112402023",
-          "value": "1130700023"
+          "value": "112402023"
         },
         {
           "label": "Cadalian",
-          "code": "112402024",
-          "value": "1130700024"
+          "value": "112402024"
         },
         {
           "label": "Calinan (Pob.)",
-          "code": "112402026",
-          "value": "1130700026"
+          "value": "112402026"
         },
         {
           "label": "Callawa",
-          "code": "112402027",
-          "value": "1130700027"
+          "value": "112402027"
         },
         {
           "label": "Camansi",
-          "code": "112402028",
-          "value": "1130700028"
+          "value": "112402028"
         },
         {
           "label": "Carmen",
-          "code": "112402029",
-          "value": "1130700029"
+          "value": "112402029"
         },
         {
           "label": "Catalunan Grande",
-          "code": "112402030",
-          "value": "1130700030"
+          "value": "112402030"
         },
         {
           "label": "Catalunan Pequeño",
-          "code": "112402031",
-          "value": "1130700031"
+          "value": "112402031"
         },
         {
           "label": "Catigan",
-          "code": "112402032",
-          "value": "1130700032"
+          "value": "112402032"
         },
         {
           "label": "Cawayan",
-          "code": "112402033",
-          "value": "1130700033"
+          "value": "112402033"
         },
         {
           "label": "Centro",
-          "code": "112402179",
-          "value": "1130700179"
+          "value": "112402179"
         },
         {
           "label": "Colosas",
-          "code": "112402034",
-          "value": "1130700034"
+          "value": "112402034"
         },
         {
           "label": "Communal",
-          "code": "112402035",
-          "value": "1130700035"
+          "value": "112402035"
         },
         {
           "label": "Crossing Bayabas",
-          "code": "112402036",
-          "value": "1130700036"
+          "value": "112402036"
         },
         {
           "label": "Dacudao",
-          "code": "112402037",
-          "value": "1130700037"
+          "value": "112402037"
         },
         {
           "label": "Dalag",
-          "code": "112402038",
-          "value": "1130700038"
+          "value": "112402038"
         },
         {
           "label": "Dalagdag",
-          "code": "112402039",
-          "value": "1130700039"
+          "value": "112402039"
         },
         {
           "label": "Daliao",
-          "code": "112402040",
-          "value": "1130700040"
+          "value": "112402040"
         },
         {
           "label": "Daliaon Plantation",
-          "code": "112402041",
-          "value": "1130700041"
+          "value": "112402041"
         },
         {
           "label": "Datu Salumay",
-          "code": "112402180",
-          "value": "1130700180"
+          "value": "112402180"
         },
         {
           "label": "Dominga",
-          "code": "112402042",
-          "value": "1130700042"
+          "value": "112402042"
         },
         {
           "label": "Dumoy",
-          "code": "112402043",
-          "value": "1130700043"
+          "value": "112402043"
         },
         {
           "label": "Eden",
-          "code": "112402044",
-          "value": "1130700044"
+          "value": "112402044"
         },
         {
           "label": "Fatima",
-          "code": "112402045",
-          "value": "1130700045"
+          "value": "112402045"
         },
         {
           "label": "Gatungan",
-          "code": "112402047",
-          "value": "1130700047"
+          "value": "112402047"
         },
         {
           "label": "Gov. Paciano Bangoy",
-          "code": "112402181",
-          "value": "1130700181"
+          "value": "112402181"
         },
         {
           "label": "Gov. Vicente Duterte",
-          "code": "112402182",
-          "value": "1130700182"
+          "value": "112402182"
         },
         {
           "label": "Gumalang",
-          "code": "112402048",
-          "value": "1130700048"
+          "value": "112402048"
         },
         {
           "label": "Gumitan",
-          "code": "112402183",
-          "value": "1130700183"
+          "value": "112402183"
         },
         {
           "label": "Ilang",
-          "code": "112402049",
-          "value": "1130700049"
+          "value": "112402049"
         },
         {
           "label": "Inayangan",
-          "code": "112402184",
-          "value": "1130700184"
+          "value": "112402184"
         },
         {
           "label": "Indangan",
-          "code": "112402050",
-          "value": "1130700050"
+          "value": "112402050"
         },
         {
           "label": "Kap. Tomas Monteverde, Sr.",
-          "code": "112402185",
-          "value": "1130700185"
+          "value": "112402185"
         },
         {
           "label": "Kilate",
-          "code": "112402051",
-          "value": "1130700051"
+          "value": "112402051"
         },
         {
           "label": "Lacson",
-          "code": "112402052",
-          "value": "1130700052"
+          "value": "112402052"
         },
         {
           "label": "Lamanan",
-          "code": "112402053",
-          "value": "1130700053"
+          "value": "112402053"
         },
         {
           "label": "Lampianao",
-          "code": "112402054",
-          "value": "1130700054"
+          "value": "112402054"
         },
         {
           "label": "Langub",
-          "code": "112402055",
-          "value": "1130700055"
+          "value": "112402055"
         },
         {
           "label": "Lapu-lapu",
-          "code": "112402186",
-          "value": "1130700186"
+          "value": "112402186"
         },
         {
           "label": "Leon Garcia, Sr.",
-          "code": "112402187",
-          "value": "1130700187"
+          "value": "112402187"
         },
         {
           "label": "Lizada",
-          "code": "112402057",
-          "value": "1130700057"
+          "value": "112402057"
         },
         {
           "label": "Los Amigos",
-          "code": "112402058",
-          "value": "1130700058"
+          "value": "112402058"
         },
         {
           "label": "Lubogan",
-          "code": "112402059",
-          "value": "1130700059"
+          "value": "112402059"
         },
         {
           "label": "Lumiad",
-          "code": "112402060",
-          "value": "1130700060"
+          "value": "112402060"
         },
         {
           "label": "Ma-a",
-          "code": "112402061",
-          "value": "1130700061"
+          "value": "112402061"
         },
         {
           "label": "Mabuhay",
-          "code": "112402062",
-          "value": "1130700062"
+          "value": "112402062"
         },
         {
           "label": "Magsaysay",
-          "code": "112402188",
-          "value": "1130700188"
+          "value": "112402188"
         },
         {
           "label": "Magtuod",
-          "code": "112402063",
-          "value": "1130700063"
+          "value": "112402063"
         },
         {
           "label": "Mahayag",
-          "code": "112402064",
-          "value": "1130700064"
+          "value": "112402064"
         },
         {
           "label": "Malabog",
-          "code": "112402065",
-          "value": "1130700065"
+          "value": "112402065"
         },
         {
           "label": "Malagos",
-          "code": "112402066",
-          "value": "1130700066"
+          "value": "112402066"
         },
         {
           "label": "Malamba",
-          "code": "112402067",
-          "value": "1130700067"
+          "value": "112402067"
         },
         {
           "label": "Manambulan",
-          "code": "112402068",
-          "value": "1130700068"
+          "value": "112402068"
         },
         {
           "label": "Mandug",
-          "code": "112402069",
-          "value": "1130700069"
+          "value": "112402069"
         },
         {
           "label": "Manuel Guianga",
-          "code": "112402070",
-          "value": "1130700070"
+          "value": "112402070"
         },
         {
           "label": "Mapula",
-          "code": "112402071",
-          "value": "1130700071"
+          "value": "112402071"
         },
         {
           "label": "Marapangi",
-          "code": "112402072",
-          "value": "1130700072"
+          "value": "112402072"
         },
         {
           "label": "Marilog",
-          "code": "112402073",
-          "value": "1130700073"
+          "value": "112402073"
         },
         {
           "label": "Matina Aplaya",
-          "code": "112402074",
-          "value": "1130700074"
+          "value": "112402074"
         },
         {
           "label": "Matina Biao",
-          "code": "112402078",
-          "value": "1130700078"
+          "value": "112402078"
         },
         {
           "label": "Matina Crossing",
-          "code": "112402075",
-          "value": "1130700075"
+          "value": "112402075"
         },
         {
           "label": "Matina Pangi",
-          "code": "112402077",
-          "value": "1130700077"
+          "value": "112402077"
         },
         {
           "label": "Megkawayan",
-          "code": "112402189",
-          "value": "1130700189"
+          "value": "112402189"
         },
         {
           "label": "Mintal",
-          "code": "112402079",
-          "value": "1130700079"
+          "value": "112402079"
         },
         {
           "label": "Mudiang",
-          "code": "112402080",
-          "value": "1130700080"
+          "value": "112402080"
         },
         {
           "label": "Mulig",
-          "code": "112402081",
-          "value": "1130700081"
+          "value": "112402081"
         },
         {
           "label": "New Carmen",
-          "code": "112402082",
-          "value": "1130700082"
+          "value": "112402082"
         },
         {
           "label": "New Valencia",
-          "code": "112402083",
-          "value": "1130700083"
+          "value": "112402083"
         },
         {
           "label": "Pampanga",
-          "code": "112402086",
-          "value": "1130700086"
+          "value": "112402086"
         },
         {
           "label": "Panacan",
-          "code": "112402087",
-          "value": "1130700087"
+          "value": "112402087"
         },
         {
           "label": "Panalum",
-          "code": "112402088",
-          "value": "1130700088"
+          "value": "112402088"
         },
         {
           "label": "Pandaitan",
-          "code": "112402089",
-          "value": "1130700089"
+          "value": "112402089"
         },
         {
           "label": "Pangyan",
-          "code": "112402090",
-          "value": "1130700090"
+          "value": "112402090"
         },
         {
           "label": "Paquibato (Pob.)",
-          "code": "112402091",
-          "value": "1130700091"
+          "value": "112402091"
         },
         {
           "label": "Paradise Embak",
-          "code": "112402092",
-          "value": "1130700092"
+          "value": "112402092"
         },
         {
           "label": "Rafael Castillo",
-          "code": "112402190",
-          "value": "1130700190"
+          "value": "112402190"
         },
         {
           "label": "Riverside",
-          "code": "112402097",
-          "value": "1130700097"
+          "value": "112402097"
         },
         {
           "label": "Salapawan",
-          "code": "112402098",
-          "value": "1130700098"
+          "value": "112402098"
         },
         {
           "label": "Salaysay",
-          "code": "112402099",
-          "value": "1130700099"
+          "value": "112402099"
         },
         {
           "label": "Saloy",
-          "code": "112402191",
-          "value": "1130700191"
+          "value": "112402191"
         },
         {
           "label": "San Antonio",
-          "code": "112402192",
-          "value": "1130700192"
+          "value": "112402192"
         },
         {
           "label": "San Isidro",
-          "code": "112402100",
-          "value": "1130700100"
+          "value": "112402100"
         },
         {
           "label": "Santo Niño",
-          "code": "112402193",
-          "value": "1130700193"
+          "value": "112402193"
         },
         {
           "label": "Sasa",
-          "code": "112402101",
-          "value": "1130700101"
+          "value": "112402101"
         },
         {
           "label": "Sibulan",
-          "code": "112402102",
-          "value": "1130700102"
+          "value": "112402102"
         },
         {
           "label": "Sirawan",
-          "code": "112402104",
-          "value": "1130700104"
+          "value": "112402104"
         },
         {
           "label": "Sirib",
-          "code": "112402105",
-          "value": "1130700105"
+          "value": "112402105"
         },
         {
           "label": "Suawan",
-          "code": "112402106",
-          "value": "1130700106"
+          "value": "112402106"
         },
         {
           "label": "Subasta",
-          "code": "112402107",
-          "value": "1130700107"
+          "value": "112402107"
         },
         {
           "label": "Sumimao",
-          "code": "112402108",
-          "value": "1130700108"
+          "value": "112402108"
         },
         {
           "label": "Tacunan",
-          "code": "112402110",
-          "value": "1130700110"
+          "value": "112402110"
         },
         {
           "label": "Tagakpan",
-          "code": "112402112",
-          "value": "1130700112"
+          "value": "112402112"
         },
         {
           "label": "Tagluno",
-          "code": "112402113",
-          "value": "1130700113"
+          "value": "112402113"
         },
         {
           "label": "Tagurano",
-          "code": "112402114",
-          "value": "1130700114"
+          "value": "112402114"
         },
         {
           "label": "Talandang",
-          "code": "112402115",
-          "value": "1130700115"
+          "value": "112402115"
         },
         {
           "label": "Talomo (Pob.)",
-          "code": "112402116",
-          "value": "1130700116"
+          "value": "112402116"
         },
         {
           "label": "Talomo River",
-          "code": "112402117",
-          "value": "1130700117"
+          "value": "112402117"
         },
         {
           "label": "Tamayong",
-          "code": "112402118",
-          "value": "1130700118"
+          "value": "112402118"
         },
         {
           "label": "Tambobong",
-          "code": "112402119",
-          "value": "1130700119"
+          "value": "112402119"
         },
         {
           "label": "Tamugan",
-          "code": "112402120",
-          "value": "1130700120"
+          "value": "112402120"
         },
         {
           "label": "Tapak",
-          "code": "112402121",
-          "value": "1130700121"
+          "value": "112402121"
         },
         {
           "label": "Tawan-tawan",
-          "code": "112402122",
-          "value": "1130700122"
+          "value": "112402122"
         },
         {
           "label": "Tibuloy",
-          "code": "112402123",
-          "value": "1130700123"
+          "value": "112402123"
         },
         {
           "label": "Tibungco",
-          "code": "112402124",
-          "value": "1130700124"
+          "value": "112402124"
         },
         {
           "label": "Tigatto",
-          "code": "112402125",
-          "value": "1130700125"
+          "value": "112402125"
         },
         {
           "label": "Toril (Pob.)",
-          "code": "112402126",
-          "value": "1130700126"
+          "value": "112402126"
         },
         {
           "label": "Tugbok (Pob.)",
-          "code": "112402127",
-          "value": "1130700127"
+          "value": "112402127"
         },
         {
           "label": "Tungakalan",
-          "code": "112402128",
-          "value": "1130700128"
+          "value": "112402128"
         },
         {
           "label": "Ubalde",
-          "code": "112402194",
-          "value": "1130700194"
+          "value": "112402194"
         },
         {
           "label": "Ula",
-          "code": "112402129",
-          "value": "1130700129"
+          "value": "112402129"
         },
         {
           "label": "Vicente Hizon Sr.",
-          "code": "112402198",
-          "value": "1130700198"
+          "value": "112402198"
         },
         {
           "label": "Waan",
-          "code": "112402195",
-          "value": "1130700195"
+          "value": "112402195"
         },
         {
           "label": "Wangan",
-          "code": "112402131",
-          "value": "1130700131"
+          "value": "112402131"
         },
         {
           "label": "Wilfredo Aquino",
-          "code": "112402196",
-          "value": "1130700196"
+          "value": "112402196"
         },
         {
           "label": "Wines",
-          "code": "112402133",
-          "value": "1130700133"
+          "value": "112402133"
         }
       ]
     },
     {
       "label": "City of Digos",
-      "code": "112403000",
-      "value": "1102403000",
+      "value": "112403000",
       "barangays": [
         {
           "label": "Aplaya",
-          "code": "112403001",
-          "value": "1102403001"
+          "value": "112403001"
         },
         {
           "label": "Balabag",
-          "code": "112403002",
-          "value": "1102403002"
+          "value": "112403002"
         },
         {
           "label": "Binaton",
-          "code": "112403004",
-          "value": "1102403004"
+          "value": "112403004"
         },
         {
           "label": "Cogon",
-          "code": "112403005",
-          "value": "1102403005"
+          "value": "112403005"
         },
         {
           "label": "Colorado",
-          "code": "112403006",
-          "value": "1102403006"
+          "value": "112403006"
         },
         {
           "label": "Dawis",
-          "code": "112403007",
-          "value": "1102403007"
+          "value": "112403007"
         },
         {
           "label": "Dulangan",
-          "code": "112403008",
-          "value": "1102403008"
+          "value": "112403008"
         },
         {
           "label": "Goma",
-          "code": "112403009",
-          "value": "1102403009"
+          "value": "112403009"
         },
         {
           "label": "Igpit",
-          "code": "112403010",
-          "value": "1102403010"
+          "value": "112403010"
         },
         {
           "label": "Kapatagan",
-          "code": "112403019",
-          "value": "1102403019"
+          "value": "112403019"
         },
         {
           "label": "Kiagot",
-          "code": "112403011",
-          "value": "1102403011"
+          "value": "112403011"
         },
         {
           "label": "Lungag",
-          "code": "112403012",
-          "value": "1102403012"
+          "value": "112403012"
         },
         {
           "label": "Mahayahay",
-          "code": "112403013",
-          "value": "1102403013"
+          "value": "112403013"
         },
         {
           "label": "Matti",
-          "code": "112403014",
-          "value": "1102403014"
+          "value": "112403014"
         },
         {
           "label": "Ruparan",
-          "code": "112403020",
-          "value": "1102403020"
+          "value": "112403020"
         },
         {
           "label": "San Agustin",
-          "code": "112403021",
-          "value": "1102403021"
+          "value": "112403021"
         },
         {
           "label": "San Jose",
-          "code": "112403003",
-          "value": "1102403003"
+          "value": "112403003"
         },
         {
           "label": "San Miguel",
-          "code": "112403022",
-          "value": "1102403022"
+          "value": "112403022"
         },
         {
           "label": "San Roque",
-          "code": "112403023",
-          "value": "1102403023"
+          "value": "112403023"
         },
         {
           "label": "Sinawilan",
-          "code": "112403024",
-          "value": "1102403024"
+          "value": "112403024"
         },
         {
           "label": "Soong",
-          "code": "112403025",
-          "value": "1102403025"
+          "value": "112403025"
         },
         {
           "label": "Tiguman",
-          "code": "112403026",
-          "value": "1102403026"
+          "value": "112403026"
         },
         {
           "label": "Tres De Mayo",
-          "code": "112403027",
-          "value": "1102403027"
+          "value": "112403027"
         },
         {
           "label": "Zone 1 (Pob.)",
-          "code": "112403028",
-          "value": "1102403028"
+          "value": "112403028"
         },
         {
           "label": "Zone 2 (Pob.)",
-          "code": "112403029",
-          "value": "1102403029"
+          "value": "112403029"
         },
         {
           "label": "Zone 3 (Pob.)",
-          "code": "112403030",
-          "value": "1102403030"
+          "value": "112403030"
         }
       ]
     },
     {
       "label": "Hagonoy",
-      "code": "112404000",
-      "value": "1102404000",
+      "value": "112404000",
       "barangays": [
         {
           "label": "Balutakay",
-          "code": "112404002",
-          "value": "1102404002"
+          "value": "112404002"
         },
         {
           "label": "Clib",
-          "code": "112404005",
-          "value": "1102404005"
+          "value": "112404005"
         },
         {
           "label": "Guihing",
-          "code": "112404007",
-          "value": "1102404007"
+          "value": "112404007"
         },
         {
           "label": "Guihing Aplaya",
-          "code": "112404006",
-          "value": "1102404006"
+          "value": "112404006"
         },
         {
           "label": "Hagonoy Crossing",
-          "code": "112404008",
-          "value": "1102404008"
+          "value": "112404008"
         },
         {
           "label": "Kibuaya",
-          "code": "112404009",
-          "value": "1102404009"
+          "value": "112404009"
         },
         {
           "label": "La Union",
-          "code": "112404010",
-          "value": "1102404010"
+          "value": "112404010"
         },
         {
           "label": "Lanuro",
-          "code": "112404011",
-          "value": "1102404011"
+          "value": "112404011"
         },
         {
           "label": "Lapulabao",
-          "code": "112404012",
-          "value": "1102404012"
+          "value": "112404012"
         },
         {
           "label": "Leling",
-          "code": "112404013",
-          "value": "1102404013"
+          "value": "112404013"
         },
         {
           "label": "Mahayahay",
-          "code": "112404014",
-          "value": "1102404014"
+          "value": "112404014"
         },
         {
           "label": "Malabang Damsite",
-          "code": "112404017",
-          "value": "1102404017"
+          "value": "112404017"
         },
         {
           "label": "Maliit Digos",
-          "code": "112404018",
-          "value": "1102404018"
+          "value": "112404018"
         },
         {
           "label": "New Quezon",
-          "code": "112404019",
-          "value": "1102404019"
+          "value": "112404019"
         },
         {
           "label": "Paligue",
-          "code": "112404020",
-          "value": "1102404020"
+          "value": "112404020"
         },
         {
           "label": "Poblacion",
-          "code": "112404021",
-          "value": "1102404021"
+          "value": "112404021"
         },
         {
           "label": "Sacub",
-          "code": "112404022",
-          "value": "1102404022"
+          "value": "112404022"
         },
         {
           "label": "San Guillermo",
-          "code": "112404023",
-          "value": "1102404023"
+          "value": "112404023"
         },
         {
           "label": "San Isidro",
-          "code": "112404024",
-          "value": "1102404024"
+          "value": "112404024"
         },
         {
           "label": "Sinayawan",
-          "code": "112404025",
-          "value": "1102404025"
+          "value": "112404025"
         },
         {
           "label": "Tologan",
-          "code": "112404026",
-          "value": "1102404026"
+          "value": "112404026"
         }
       ]
     },
     {
       "label": "Kiblawan",
-      "code": "112406000",
-      "value": "1102406000",
+      "value": "112406000",
       "barangays": [
         {
           "label": "Abnate",
-          "code": "112406001",
-          "value": "1102406001"
+          "value": "112406001"
         },
         {
           "label": "Bagong Negros",
-          "code": "112406002",
-          "value": "1102406002"
+          "value": "112406002"
         },
         {
           "label": "Bagong Silang",
-          "code": "112406003",
-          "value": "1102406003"
+          "value": "112406003"
         },
         {
           "label": "Bagumbayan",
-          "code": "112406004",
-          "value": "1102406004"
+          "value": "112406004"
         },
         {
           "label": "Balasiao",
-          "code": "112406005",
-          "value": "1102406005"
+          "value": "112406005"
         },
         {
           "label": "Bonifacio",
-          "code": "112406007",
-          "value": "1102406007"
+          "value": "112406007"
         },
         {
           "label": "Bulol-Salo",
-          "code": "112406032",
-          "value": "1102406032"
+          "value": "112406032"
         },
         {
           "label": "Bunot",
-          "code": "112406008",
-          "value": "1102406008"
+          "value": "112406008"
         },
         {
           "label": "Cogon-Bacaca",
-          "code": "112406009",
-          "value": "1102406009"
+          "value": "112406009"
         },
         {
           "label": "Dapok",
-          "code": "112406010",
-          "value": "1102406010"
+          "value": "112406010"
         },
         {
           "label": "Ihan",
-          "code": "112406011",
-          "value": "1102406011"
+          "value": "112406011"
         },
         {
           "label": "Kibongbong",
-          "code": "112406012",
-          "value": "1102406012"
+          "value": "112406012"
         },
         {
           "label": "Kimlawis",
-          "code": "112406013",
-          "value": "1102406013"
+          "value": "112406013"
         },
         {
           "label": "Kisulan",
-          "code": "112406015",
-          "value": "1102406015"
+          "value": "112406015"
         },
         {
           "label": "Lati-an",
-          "code": "112406016",
-          "value": "1102406016"
+          "value": "112406016"
         },
         {
           "label": "Manual",
-          "code": "112406017",
-          "value": "1102406017"
+          "value": "112406017"
         },
         {
           "label": "Maraga-a",
-          "code": "112406018",
-          "value": "1102406018"
+          "value": "112406018"
         },
         {
           "label": "Molopolo",
-          "code": "112406019",
-          "value": "1102406019"
+          "value": "112406019"
         },
         {
           "label": "New Sibonga",
-          "code": "112406020",
-          "value": "1102406020"
+          "value": "112406020"
         },
         {
           "label": "Panaglib",
-          "code": "112406021",
-          "value": "1102406021"
+          "value": "112406021"
         },
         {
           "label": "Pasig",
-          "code": "112406022",
-          "value": "1102406022"
+          "value": "112406022"
         },
         {
           "label": "Poblacion",
-          "code": "112406023",
-          "value": "1102406023"
+          "value": "112406023"
         },
         {
           "label": "Pocaleel",
-          "code": "112406024",
-          "value": "1102406024"
+          "value": "112406024"
         },
         {
           "label": "San Isidro",
-          "code": "112406025",
-          "value": "1102406025"
+          "value": "112406025"
         },
         {
           "label": "San Jose",
-          "code": "112406026",
-          "value": "1102406026"
+          "value": "112406026"
         },
         {
           "label": "San Pedro",
-          "code": "112406027",
-          "value": "1102406027"
+          "value": "112406027"
         },
         {
           "label": "Santo Niño",
-          "code": "112406028",
-          "value": "1102406028"
+          "value": "112406028"
         },
         {
           "label": "Tacub",
-          "code": "112406029",
-          "value": "1102406029"
+          "value": "112406029"
         },
         {
           "label": "Tacul",
-          "code": "112406030",
-          "value": "1102406030"
+          "value": "112406030"
         },
         {
           "label": "Waterfall",
-          "code": "112406031",
-          "value": "1102406031"
+          "value": "112406031"
         }
       ]
     },
     {
       "label": "Magsaysay",
-      "code": "112407000",
-      "value": "1102407000",
+      "value": "112407000",
       "barangays": [
         {
           "label": "Bacungan",
-          "code": "112407001",
-          "value": "1102407001"
+          "value": "112407001"
         },
         {
           "label": "Balnate",
-          "code": "112407002",
-          "value": "1102407002"
+          "value": "112407002"
         },
         {
           "label": "Barayong",
-          "code": "112407003",
-          "value": "1102407003"
+          "value": "112407003"
         },
         {
           "label": "Blocon",
-          "code": "112407004",
-          "value": "1102407004"
+          "value": "112407004"
         },
         {
           "label": "Dalawinon",
-          "code": "112407005",
-          "value": "1102407005"
+          "value": "112407005"
         },
         {
           "label": "Dalumay",
-          "code": "112407006",
-          "value": "1102407006"
+          "value": "112407006"
         },
         {
           "label": "Glamang",
-          "code": "112407007",
-          "value": "1102407007"
+          "value": "112407007"
         },
         {
           "label": "Kanapulo",
-          "code": "112407008",
-          "value": "1102407008"
+          "value": "112407008"
         },
         {
           "label": "Kasuga",
-          "code": "112407009",
-          "value": "1102407009"
+          "value": "112407009"
         },
         {
           "label": "Lower Bala",
-          "code": "112407010",
-          "value": "1102407010"
+          "value": "112407010"
         },
         {
           "label": "Mabini",
-          "code": "112407011",
-          "value": "1102407011"
+          "value": "112407011"
         },
         {
           "label": "Maibo",
-          "code": "112407021",
-          "value": "1102407021"
+          "value": "112407021"
         },
         {
           "label": "Malawanit",
-          "code": "112407012",
-          "value": "1102407012"
+          "value": "112407012"
         },
         {
           "label": "Malongon",
-          "code": "112407013",
-          "value": "1102407013"
+          "value": "112407013"
         },
         {
           "label": "New Ilocos",
-          "code": "112407014",
-          "value": "1102407014"
+          "value": "112407014"
         },
         {
           "label": "New Opon",
-          "code": "112407022",
-          "value": "1102407022"
+          "value": "112407022"
         },
         {
           "label": "Poblacion",
-          "code": "112407015",
-          "value": "1102407015"
+          "value": "112407015"
         },
         {
           "label": "San Isidro",
-          "code": "112407016",
-          "value": "1102407016"
+          "value": "112407016"
         },
         {
           "label": "San Miguel",
-          "code": "112407017",
-          "value": "1102407017"
+          "value": "112407017"
         },
         {
           "label": "Tacul",
-          "code": "112407018",
-          "value": "1102407018"
+          "value": "112407018"
         },
         {
           "label": "Tagaytay",
-          "code": "112407019",
-          "value": "1102407019"
+          "value": "112407019"
         },
         {
           "label": "Upper Bala",
-          "code": "112407020",
-          "value": "1102407020"
+          "value": "112407020"
         }
       ]
     },
     {
       "label": "Malalag",
-      "code": "112408000",
-      "value": "1102408000",
+      "value": "112408000",
       "barangays": [
         {
           "label": "Bagumbayan",
-          "code": "112408019",
-          "value": "1102408019"
+          "value": "112408019"
         },
         {
           "label": "Baybay",
-          "code": "112408002",
-          "value": "1102408002"
+          "value": "112408002"
         },
         {
           "label": "Bolton",
-          "code": "112408004",
-          "value": "1102408004"
+          "value": "112408004"
         },
         {
           "label": "Bulacan",
-          "code": "112408005",
-          "value": "1102408005"
+          "value": "112408005"
         },
         {
           "label": "Caputian",
-          "code": "112408006",
-          "value": "1102408006"
+          "value": "112408006"
         },
         {
           "label": "Ibo",
-          "code": "112408007",
-          "value": "1102408007"
+          "value": "112408007"
         },
         {
           "label": "Kiblagon",
-          "code": "112408009",
-          "value": "1102408009"
+          "value": "112408009"
         },
         {
           "label": "Lapu-Lapu",
-          "code": "112408010",
-          "value": "1102408010"
+          "value": "112408010"
         },
         {
           "label": "Mabini",
-          "code": "112408011",
-          "value": "1102408011"
+          "value": "112408011"
         },
         {
           "label": "New Baclayon",
-          "code": "112408014",
-          "value": "1102408014"
+          "value": "112408014"
         },
         {
           "label": "Pitu",
-          "code": "112408015",
-          "value": "1102408015"
+          "value": "112408015"
         },
         {
           "label": "Poblacion",
-          "code": "112408016",
-          "value": "1102408016"
+          "value": "112408016"
         },
         {
           "label": "Rizal",
-          "code": "112408020",
-          "value": "1102408020"
+          "value": "112408020"
         },
         {
           "label": "San Isidro",
-          "code": "112408021",
-          "value": "1102408021"
+          "value": "112408021"
         },
         {
           "label": "Tagansule",
-          "code": "112408018",
-          "value": "1102408018"
+          "value": "112408018"
         }
       ]
     },
     {
       "label": "Matanao",
-      "code": "112410000",
-      "value": "1102410000",
+      "value": "112410000",
       "barangays": [
         {
           "label": "Asbang",
-          "code": "112410001",
-          "value": "1102410001"
+          "value": "112410001"
         },
         {
           "label": "Asinan",
-          "code": "112410002",
-          "value": "1102410002"
+          "value": "112410002"
         },
         {
           "label": "Bagumbayan",
-          "code": "112410003",
-          "value": "1102410003"
+          "value": "112410003"
         },
         {
           "label": "Bangkal",
-          "code": "112410004",
-          "value": "1102410004"
+          "value": "112410004"
         },
         {
           "label": "Buas",
-          "code": "112410005",
-          "value": "1102410005"
+          "value": "112410005"
         },
         {
           "label": "Buri",
-          "code": "112410006",
-          "value": "1102410006"
+          "value": "112410006"
         },
         {
           "label": "Cabligan",
-          "code": "112410021",
-          "value": "1102410021"
+          "value": "112410021"
         },
         {
           "label": "Camanchiles",
-          "code": "112410007",
-          "value": "1102410007"
+          "value": "112410007"
         },
         {
           "label": "Ceboza",
-          "code": "112410008",
-          "value": "1102410008"
+          "value": "112410008"
         },
         {
           "label": "Colonsabak",
-          "code": "112410009",
-          "value": "1102410009"
+          "value": "112410009"
         },
         {
           "label": "Dongan-Pekong",
-          "code": "112410010",
-          "value": "1102410010"
+          "value": "112410010"
         },
         {
           "label": "Kabasagan",
-          "code": "112410012",
-          "value": "1102410012"
+          "value": "112410012"
         },
         {
           "label": "Kapok",
-          "code": "112410013",
-          "value": "1102410013"
+          "value": "112410013"
         },
         {
           "label": "Kauswagan",
-          "code": "112410014",
-          "value": "1102410014"
+          "value": "112410014"
         },
         {
           "label": "Kibao",
-          "code": "112410015",
-          "value": "1102410015"
+          "value": "112410015"
         },
         {
           "label": "La Suerte",
-          "code": "112410016",
-          "value": "1102410016"
+          "value": "112410016"
         },
         {
           "label": "Langa-an",
-          "code": "112410017",
-          "value": "1102410017"
+          "value": "112410017"
         },
         {
           "label": "Lower Marber",
-          "code": "112410019",
-          "value": "1102410019"
+          "value": "112410019"
         },
         {
           "label": "Manga",
-          "code": "112410022",
-          "value": "1102410022"
+          "value": "112410022"
         },
         {
           "label": "New Katipunan",
-          "code": "112410023",
-          "value": "1102410023"
+          "value": "112410023"
         },
         {
           "label": "New Murcia",
-          "code": "112410024",
-          "value": "1102410024"
+          "value": "112410024"
         },
         {
           "label": "New Visayas",
-          "code": "112410025",
-          "value": "1102410025"
+          "value": "112410025"
         },
         {
           "label": "Poblacion",
-          "code": "112410026",
-          "value": "1102410026"
+          "value": "112410026"
         },
         {
           "label": "Saboy",
-          "code": "112410027",
-          "value": "1102410027"
+          "value": "112410027"
         },
         {
           "label": "San Jose",
-          "code": "112410028",
-          "value": "1102410028"
+          "value": "112410028"
         },
         {
           "label": "San Miguel",
-          "code": "112410029",
-          "value": "1102410029"
+          "value": "112410029"
         },
         {
           "label": "San Vicente",
-          "code": "112410030",
-          "value": "1102410030"
+          "value": "112410030"
         },
         {
           "label": "Saub",
-          "code": "112410031",
-          "value": "1102410031"
+          "value": "112410031"
         },
         {
           "label": "Sinaragan",
-          "code": "112410032",
-          "value": "1102410032"
+          "value": "112410032"
         },
         {
           "label": "Sinawilan",
-          "code": "112410033",
-          "value": "1102410033"
+          "value": "112410033"
         },
         {
           "label": "Tamlangon",
-          "code": "112410034",
-          "value": "1102410034"
+          "value": "112410034"
         },
         {
           "label": "Tibongbong",
-          "code": "112410036",
-          "value": "1102410036"
+          "value": "112410036"
         },
         {
           "label": "Towak",
-          "code": "112410035",
-          "value": "1102410035"
+          "value": "112410035"
         }
       ]
     },
     {
       "label": "Padada",
-      "code": "112411000",
-      "value": "1102411000",
+      "value": "112411000",
       "barangays": [
         {
           "label": "Almendras (Pob.)",
-          "code": "112411001",
-          "value": "1102411001"
+          "value": "112411001"
         },
         {
           "label": "Don Sergio Osmeña, Sr.",
-          "code": "112411002",
-          "value": "1102411002"
+          "value": "112411002"
         },
         {
           "label": "Harada Butai",
-          "code": "112411003",
-          "value": "1102411003"
+          "value": "112411003"
         },
         {
           "label": "Lower Katipunan",
-          "code": "112411004",
-          "value": "1102411004"
+          "value": "112411004"
         },
         {
           "label": "Lower Limonzo",
-          "code": "112411005",
-          "value": "1102411005"
+          "value": "112411005"
         },
         {
           "label": "Lower Malinao",
-          "code": "112411006",
-          "value": "1102411006"
+          "value": "112411006"
         },
         {
           "label": "N C Ordaneza District (Pob.)",
-          "code": "112411007",
-          "value": "1102411007"
+          "value": "112411007"
         },
         {
           "label": "Northern Paligue",
-          "code": "112411008",
-          "value": "1102411008"
+          "value": "112411008"
         },
         {
           "label": "Palili",
-          "code": "112411009",
-          "value": "1102411009"
+          "value": "112411009"
         },
         {
           "label": "Piape",
-          "code": "112411010",
-          "value": "1102411010"
+          "value": "112411010"
         },
         {
           "label": "Punta Piape",
-          "code": "112411011",
-          "value": "1102411011"
+          "value": "112411011"
         },
         {
           "label": "Quirino District (Pob.)",
-          "code": "112411012",
-          "value": "1102411012"
+          "value": "112411012"
         },
         {
           "label": "San Isidro",
-          "code": "112411013",
-          "value": "1102411013"
+          "value": "112411013"
         },
         {
           "label": "Southern Paligue",
-          "code": "112411014",
-          "value": "1102411014"
+          "value": "112411014"
         },
         {
           "label": "Tulogan",
-          "code": "112411015",
-          "value": "1102411015"
+          "value": "112411015"
         },
         {
           "label": "Upper Limonzo",
-          "code": "112411016",
-          "value": "1102411016"
+          "value": "112411016"
         },
         {
           "label": "Upper Malinao",
-          "code": "112411017",
-          "value": "1102411017"
+          "value": "112411017"
         }
       ]
     },
     {
       "label": "Santa Cruz",
-      "code": "112412000",
-      "value": "1102412000",
+      "value": "112412000",
       "barangays": [
         {
           "label": "Astorga",
-          "code": "112412001",
-          "value": "1102412001"
+          "value": "112412001"
         },
         {
           "label": "Bato",
-          "code": "112412002",
-          "value": "1102412002"
+          "value": "112412002"
         },
         {
           "label": "Coronon",
-          "code": "112412003",
-          "value": "1102412003"
+          "value": "112412003"
         },
         {
           "label": "Darong",
-          "code": "112412004",
-          "value": "1102412004"
+          "value": "112412004"
         },
         {
           "label": "Inawayan",
-          "code": "112412005",
-          "value": "1102412005"
+          "value": "112412005"
         },
         {
           "label": "Jose Rizal",
-          "code": "112412006",
-          "value": "1102412006"
+          "value": "112412006"
         },
         {
           "label": "Matutungan",
-          "code": "112412009",
-          "value": "1102412009"
+          "value": "112412009"
         },
         {
           "label": "Melilia",
-          "code": "112412010",
-          "value": "1102412010"
+          "value": "112412010"
         },
         {
           "label": "Saliducon",
-          "code": "112412013",
-          "value": "1102412013"
+          "value": "112412013"
         },
         {
           "label": "Sibulan",
-          "code": "112412014",
-          "value": "1102412014"
+          "value": "112412014"
         },
         {
           "label": "Sinoron",
-          "code": "112412015",
-          "value": "1102412015"
+          "value": "112412015"
         },
         {
           "label": "Tagabuli",
-          "code": "112412016",
-          "value": "1102412016"
+          "value": "112412016"
         },
         {
           "label": "Tibolo",
-          "code": "112412017",
-          "value": "1102412017"
+          "value": "112412017"
         },
         {
           "label": "Tuban",
-          "code": "112412018",
-          "value": "1102412018"
+          "value": "112412018"
         },
         {
           "label": "Zone I (Pob.)",
-          "code": "112412011",
-          "value": "1102412011"
+          "value": "112412011"
         },
         {
           "label": "Zone II (Pob.)",
-          "code": "112412019",
-          "value": "1102412019"
+          "value": "112412019"
         },
         {
           "label": "Zone III (Pob.)",
-          "code": "112412020",
-          "value": "1102412020"
+          "value": "112412020"
         },
         {
           "label": "Zone IV (Pob.)",
-          "code": "112412021",
-          "value": "1102412021"
+          "value": "112412021"
         }
       ]
     },
     {
       "label": "Sulop",
-      "code": "112414000",
-      "value": "1102414000",
+      "value": "112414000",
       "barangays": [
         {
           "label": "Balasinon",
-          "code": "112414001",
-          "value": "1102414001"
+          "value": "112414001"
         },
         {
           "label": "Buguis",
-          "code": "112414002",
-          "value": "1102414002"
+          "value": "112414002"
         },
         {
           "label": "Carre",
-          "code": "112414003",
-          "value": "1102414003"
+          "value": "112414003"
         },
         {
           "label": "Clib",
-          "code": "112414004",
-          "value": "1102414004"
+          "value": "112414004"
         },
         {
           "label": "Harada Butai",
-          "code": "112414005",
-          "value": "1102414005"
+          "value": "112414005"
         },
         {
           "label": "Katipunan",
-          "code": "112414006",
-          "value": "1102414006"
+          "value": "112414006"
         },
         {
           "label": "Kiblagon",
-          "code": "112414007",
-          "value": "1102414007"
+          "value": "112414007"
         },
         {
           "label": "Labon",
-          "code": "112414008",
-          "value": "1102414008"
+          "value": "112414008"
         },
         {
           "label": "Laperas",
-          "code": "112414009",
-          "value": "1102414009"
+          "value": "112414009"
         },
         {
           "label": "Lapla",
-          "code": "112414010",
-          "value": "1102414010"
+          "value": "112414010"
         },
         {
           "label": "Litos",
-          "code": "112414011",
-          "value": "1102414011"
+          "value": "112414011"
         },
         {
           "label": "Luparan",
-          "code": "112414012",
-          "value": "1102414012"
+          "value": "112414012"
         },
         {
           "label": "Mckinley",
-          "code": "112414013",
-          "value": "1102414013"
+          "value": "112414013"
         },
         {
           "label": "New Cebu",
-          "code": "112414014",
-          "value": "1102414014"
+          "value": "112414014"
         },
         {
           "label": "Osmeña",
-          "code": "112414015",
-          "value": "1102414015"
+          "value": "112414015"
         },
         {
           "label": "Palili",
-          "code": "112414016",
-          "value": "1102414016"
+          "value": "112414016"
         },
         {
           "label": "Parame",
-          "code": "112414017",
-          "value": "1102414017"
+          "value": "112414017"
         },
         {
           "label": "Poblacion",
-          "code": "112414018",
-          "value": "1102414018"
+          "value": "112414018"
         },
         {
           "label": "Roxas",
-          "code": "112414020",
-          "value": "1102414020"
+          "value": "112414020"
         },
         {
           "label": "Solongvale",
-          "code": "112414021",
-          "value": "1102414021"
+          "value": "112414021"
         },
         {
           "label": "Tagolilong",
-          "code": "112414022",
-          "value": "1102414022"
+          "value": "112414022"
         },
         {
           "label": "Tala-o",
-          "code": "112414023",
-          "value": "1102414023"
+          "value": "112414023"
         },
         {
           "label": "Talas",
-          "code": "112414024",
-          "value": "1102414024"
+          "value": "112414024"
         },
         {
           "label": "Tanwalang",
-          "code": "112414025",
-          "value": "1102414025"
+          "value": "112414025"
         },
         {
           "label": "Waterfall",
-          "code": "112414026",
-          "value": "1102414026"
+          "value": "112414026"
         }
       ]
     }

@@ -1,552 +1,444 @@
 {
-  "code": "168500000",
   "cities": [
     {
       "label": "Basilisa",
-      "code": "168501000",
-      "value": "1608501000",
+      "value": "168501000",
       "barangays": [
         {
           "label": "Benglen",
-          "code": "168501019",
-          "value": "1608501019"
+          "value": "168501019"
         },
         {
           "label": "Catadman",
-          "code": "168501002",
-          "value": "1608501002"
+          "value": "168501002"
         },
         {
           "label": "Columbus",
-          "code": "168501003",
-          "value": "1608501003"
+          "value": "168501003"
         },
         {
           "label": "Coring",
-          "code": "168501004",
-          "value": "1608501004"
+          "value": "168501004"
         },
         {
           "label": "Cortes",
-          "code": "168501005",
-          "value": "1608501005"
+          "value": "168501005"
         },
         {
           "label": "Diegas",
-          "code": "168501020",
-          "value": "1608501020"
+          "value": "168501020"
         },
         {
           "label": "Doña Helene",
-          "code": "168501006",
-          "value": "1608501006"
+          "value": "168501006"
         },
         {
           "label": "Edera",
-          "code": "168501021",
-          "value": "1608501021"
+          "value": "168501021"
         },
         {
           "label": "Ferdinand",
-          "code": "168501007",
-          "value": "1608501007"
+          "value": "168501007"
         },
         {
           "label": "Geotina",
-          "code": "168501008",
-          "value": "1608501008"
+          "value": "168501008"
         },
         {
           "label": "Imee",
-          "code": "168501009",
-          "value": "1608501009"
+          "value": "168501009"
         },
         {
           "label": "Melgar",
-          "code": "168501010",
-          "value": "1608501010"
+          "value": "168501010"
         },
         {
           "label": "Montag",
-          "code": "168501011",
-          "value": "1608501011"
+          "value": "168501011"
         },
         {
           "label": "Navarro",
-          "code": "168501012",
-          "value": "1608501012"
+          "value": "168501012"
         },
         {
           "label": "New Nazareth",
-          "code": "168501022",
-          "value": "1608501022"
+          "value": "168501022"
         },
         {
           "label": "Poblacion",
-          "code": "168501013",
-          "value": "1608501013"
+          "value": "168501013"
         },
         {
           "label": "Puerto Princesa",
-          "code": "168501014",
-          "value": "1608501014"
+          "value": "168501014"
         },
         {
           "label": "Rita Glenda",
-          "code": "168501015",
-          "value": "1608501015"
+          "value": "168501015"
         },
         {
           "label": "Roma",
-          "code": "168501023",
-          "value": "1608501023"
+          "value": "168501023"
         },
         {
           "label": "Roxas",
-          "code": "168501016",
-          "value": "1608501016"
+          "value": "168501016"
         },
         {
           "label": "Santa Monica",
-          "code": "168501024",
-          "value": "1608501024"
+          "value": "168501024"
         },
         {
           "label": "Santo Niño",
-          "code": "168501025",
-          "value": "1608501025"
+          "value": "168501025"
         },
         {
           "label": "Sering",
-          "code": "168501017",
-          "value": "1608501017"
+          "value": "168501017"
         },
         {
           "label": "Sombrado",
-          "code": "168501026",
-          "value": "1608501026"
+          "value": "168501026"
         },
         {
           "label": "Tag-abaca",
-          "code": "168501018",
-          "value": "1608501018"
+          "value": "168501018"
         },
         {
           "label": "Villa Ecleo",
-          "code": "168501027",
-          "value": "1608501027"
+          "value": "168501027"
         },
         {
           "label": "Villa Pantinople",
-          "code": "168501028",
-          "value": "1608501028"
+          "value": "168501028"
         }
       ]
     },
     {
       "label": "Cagdianao",
-      "code": "168502000",
-      "value": "1608502000",
+      "value": "168502000",
       "barangays": [
         {
           "label": "Boa",
-          "code": "168502001",
-          "value": "1608502001"
+          "value": "168502001"
         },
         {
           "label": "Cabunga-an",
-          "code": "168502002",
-          "value": "1608502002"
+          "value": "168502002"
         },
         {
           "label": "Del Pilar",
-          "code": "168502003",
-          "value": "1608502003"
+          "value": "168502003"
         },
         {
           "label": "Laguna",
-          "code": "168502004",
-          "value": "1608502004"
+          "value": "168502004"
         },
         {
           "label": "Legaspi",
-          "code": "168502005",
-          "value": "1608502005"
+          "value": "168502005"
         },
         {
           "label": "Ma-atas",
-          "code": "168502006",
-          "value": "1608502006"
+          "value": "168502006"
         },
         {
           "label": "Mabini",
-          "code": "168502013",
-          "value": "1608502013"
+          "value": "168502013"
         },
         {
           "label": "Nueva Estrella",
-          "code": "168502007",
-          "value": "1608502007"
+          "value": "168502007"
         },
         {
           "label": "Poblacion",
-          "code": "168502008",
-          "value": "1608502008"
+          "value": "168502008"
         },
         {
           "label": "R. Ecleo, Sr.",
-          "code": "168502014",
-          "value": "1608502014"
+          "value": "168502014"
         },
         {
           "label": "San Jose",
-          "code": "168502009",
-          "value": "1608502009"
+          "value": "168502009"
         },
         {
           "label": "Santa Rita",
-          "code": "168502010",
-          "value": "1608502010"
+          "value": "168502010"
         },
         {
           "label": "Tigbao",
-          "code": "168502011",
-          "value": "1608502011"
+          "value": "168502011"
         },
         {
           "label": "Valencia",
-          "code": "168502012",
-          "value": "1608502012"
+          "value": "168502012"
         }
       ]
     },
     {
       "label": "Dinagat",
-      "code": "168503000",
-      "value": "1608503000",
+      "value": "168503000",
       "barangays": [
         {
           "label": "Bagumbayan",
-          "code": "168503014",
-          "value": "1608503014"
+          "value": "168503014"
         },
         {
           "label": "Cab-ilan",
-          "code": "168503002",
-          "value": "1608503002"
+          "value": "168503002"
         },
         {
           "label": "Cabayawan",
-          "code": "168503003",
-          "value": "1608503003"
+          "value": "168503003"
         },
         {
           "label": "Cayetano",
-          "code": "168503022",
-          "value": "1608503022"
+          "value": "168503022"
         },
         {
           "label": "Escolta (Pob.)",
-          "code": "168503004",
-          "value": "1608503004"
+          "value": "168503004"
         },
         {
           "label": "Gomez",
-          "code": "168503005",
-          "value": "1608503005"
+          "value": "168503005"
         },
         {
           "label": "Justiniana Edera",
-          "code": "168503023",
-          "value": "1608503023"
+          "value": "168503023"
         },
         {
           "label": "Magsaysay",
-          "code": "168503007",
-          "value": "1608503007"
+          "value": "168503007"
         },
         {
           "label": "Mauswagon (Pob.)",
-          "code": "168503009",
-          "value": "1608503009"
+          "value": "168503009"
         },
         {
           "label": "New Mabuhay",
-          "code": "168503016",
-          "value": "1608503016"
+          "value": "168503016"
         },
         {
           "label": "Wadas",
-          "code": "168503021",
-          "value": "1608503021"
+          "value": "168503021"
         },
         {
           "label": "White Beach (Pob.)",
-          "code": "168503012",
-          "value": "1608503012"
+          "value": "168503012"
         }
       ]
     },
     {
       "label": "Libjo",
-      "code": "168504000",
-      "value": "1608504000",
+      "value": "168504000",
       "barangays": [
         {
           "label": "Albor (Pob.)",
-          "code": "168504001",
-          "value": "1608504001"
+          "value": "168504001"
         },
         {
           "label": "Arellano",
-          "code": "168504002",
-          "value": "1608504002"
+          "value": "168504002"
         },
         {
           "label": "Bayanihan",
-          "code": "168504003",
-          "value": "1608504003"
+          "value": "168504003"
         },
         {
           "label": "Doña Helen",
-          "code": "168504004",
-          "value": "1608504004"
+          "value": "168504004"
         },
         {
           "label": "Garcia",
-          "code": "168504005",
-          "value": "1608504005"
+          "value": "168504005"
         },
         {
           "label": "General Aguinaldo",
-          "code": "168504006",
-          "value": "1608504006"
+          "value": "168504006"
         },
         {
           "label": "Kanihaan",
-          "code": "168504007",
-          "value": "1608504007"
+          "value": "168504007"
         },
         {
           "label": "Llamera",
-          "code": "168504015",
-          "value": "1608504015"
+          "value": "168504015"
         },
         {
           "label": "Magsaysay",
-          "code": "168504008",
-          "value": "1608504008"
+          "value": "168504008"
         },
         {
           "label": "Osmeña",
-          "code": "168504009",
-          "value": "1608504009"
+          "value": "168504009"
         },
         {
           "label": "Plaridel",
-          "code": "168504010",
-          "value": "1608504010"
+          "value": "168504010"
         },
         {
           "label": "Quezon",
-          "code": "168504011",
-          "value": "1608504011"
+          "value": "168504011"
         },
         {
           "label": "Rosita",
-          "code": "168504016",
-          "value": "1608504016"
+          "value": "168504016"
         },
         {
           "label": "San Antonio (Pob.)",
-          "code": "168504012",
-          "value": "1608504012"
+          "value": "168504012"
         },
         {
           "label": "San Jose",
-          "code": "168504013",
-          "value": "1608504013"
+          "value": "168504013"
         },
         {
           "label": "Santo Niño",
-          "code": "168504014",
-          "value": "1608504014"
+          "value": "168504014"
         }
       ]
     },
     {
       "label": "Loreto",
-      "code": "168505000",
-      "value": "1608505000",
+      "value": "168505000",
       "barangays": [
         {
           "label": "Carmen (Pob.)",
-          "code": "168505001",
-          "value": "1608505001"
+          "value": "168505001"
         },
         {
           "label": "Esperanza",
-          "code": "168505002",
-          "value": "1608505002"
+          "value": "168505002"
         },
         {
           "label": "Ferdinand",
-          "code": "168505003",
-          "value": "1608505003"
+          "value": "168505003"
         },
         {
           "label": "Helene",
-          "code": "168505004",
-          "value": "1608505004"
+          "value": "168505004"
         },
         {
           "label": "Liberty",
-          "code": "168505006",
-          "value": "1608505006"
+          "value": "168505006"
         },
         {
           "label": "Magsaysay",
-          "code": "168505008",
-          "value": "1608505008"
+          "value": "168505008"
         },
         {
           "label": "Panamaon",
-          "code": "168505011",
-          "value": "1608505011"
+          "value": "168505011"
         },
         {
           "label": "San Juan (Pob.)",
-          "code": "168505013",
-          "value": "1608505013"
+          "value": "168505013"
         },
         {
           "label": "Santa Cruz (Pob.)",
-          "code": "168505015",
-          "value": "1608505015"
+          "value": "168505015"
         },
         {
           "label": "Santiago (Pob.)",
-          "code": "168505017",
-          "value": "1608505017"
+          "value": "168505017"
         }
       ]
     },
     {
       "label": "San Jose",
-      "code": "168506000",
-      "value": "1608506000",
+      "value": "168506000",
       "barangays": [
         {
           "label": "Aurelio",
-          "code": "168506001",
-          "value": "1608506001"
+          "value": "168506001"
         },
         {
           "label": "Cuarinta",
-          "code": "168506002",
-          "value": "1608506002"
+          "value": "168506002"
         },
         {
           "label": "Don Ruben Ecleo",
-          "code": "168506003",
-          "value": "1608506003"
+          "value": "168506003"
         },
         {
           "label": "Jacquez",
-          "code": "168506004",
-          "value": "1608506004"
+          "value": "168506004"
         },
         {
           "label": "Justiniana Edera",
-          "code": "168506005",
-          "value": "1608506005"
+          "value": "168506005"
         },
         {
           "label": "Luna",
-          "code": "168506006",
-          "value": "1608506006"
+          "value": "168506006"
         },
         {
           "label": "Mahayahay",
-          "code": "168506007",
-          "value": "1608506007"
+          "value": "168506007"
         },
         {
           "label": "Matingbe",
-          "code": "168506008",
-          "value": "1608506008"
+          "value": "168506008"
         },
         {
           "label": "San Jose (Pob.)",
-          "code": "168506009",
-          "value": "1608506009"
+          "value": "168506009"
         },
         {
           "label": "San Juan",
-          "code": "168506010",
-          "value": "1608506010"
+          "value": "168506010"
         },
         {
           "label": "Santa Cruz",
-          "code": "168506011",
-          "value": "1608506011"
+          "value": "168506011"
         },
         {
           "label": "Wilson",
-          "code": "168506012",
-          "value": "1608506012"
+          "value": "168506012"
         }
       ]
     },
     {
       "label": "Tubajon",
-      "code": "168507000",
-      "value": "1608507000",
+      "value": "168507000",
       "barangays": [
         {
           "label": "Diaz",
-          "code": "168507005",
-          "value": "1608507005"
+          "value": "168507005"
         },
         {
           "label": "Imelda",
-          "code": "168507001",
-          "value": "1608507001"
+          "value": "168507001"
         },
         {
           "label": "Mabini",
-          "code": "168507002",
-          "value": "1608507002"
+          "value": "168507002"
         },
         {
           "label": "Malinao",
-          "code": "168507003",
-          "value": "1608507003"
+          "value": "168507003"
         },
         {
           "label": "Navarro",
-          "code": "168507004",
-          "value": "1608507004"
+          "value": "168507004"
         },
         {
           "label": "Roxas",
-          "code": "168507006",
-          "value": "1608507006"
+          "value": "168507006"
         },
         {
           "label": "San Roque (Pob.)",
-          "code": "168507007",
-          "value": "1608507007"
+          "value": "168507007"
         },
         {
           "label": "San Vicente (Pob.)",
-          "code": "168507008",
-          "value": "1608507008"
+          "value": "168507008"
         },
         {
           "label": "Santa Cruz (Pob.)",
-          "code": "168507009",
-          "value": "1608507009"
+          "value": "168507009"
         }
       ]
     }

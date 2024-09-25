@@ -1,407 +1,326 @@
 [
   {
     "label": "Abra",
-    "code": "140100000",
-    "value": "1400100000"
+    "value": "140100000"
   },
   {
     "label": "Agusan Del Norte",
-    "code": "160200000",
-    "value": "1600200000"
+    "value": "160200000"
   },
   {
     "label": "Agusan Del Sur",
-    "code": "160300000",
-    "value": "1600300000"
+    "value": "160300000"
   },
   {
     "label": "Aklan",
-    "code": "060400000",
-    "value": "0600400000"
+    "value": "060400000"
   },
   {
     "label": "Albay",
-    "code": "050500000",
-    "value": "0500500000"
+    "value": "050500000"
   },
   {
     "label": "Antique",
-    "code": "060600000",
-    "value": "0600600000"
+    "value": "060600000"
   },
   {
     "label": "Apayao",
-    "code": "148100000",
-    "value": "1408100000"
+    "value": "148100000"
   },
   {
     "label": "Aurora",
-    "code": "037700000",
-    "value": "0307700000"
+    "value": "037700000"
   },
   {
     "label": "Basilan",
-    "code": "150700000",
-    "value": "1900700000"
+    "value": "150700000"
   },
   {
     "label": "Bataan",
-    "code": "030800000",
-    "value": "0300800000"
+    "value": "030800000"
   },
   {
     "label": "Batanes",
-    "code": "020900000",
-    "value": "0200900000"
+    "value": "020900000"
   },
   {
     "label": "Batangas",
-    "code": "041000000",
-    "value": "0401000000"
+    "value": "041000000"
   },
   {
     "label": "Benguet",
-    "code": "141100000",
-    "value": "1401100000"
+    "value": "141100000"
   },
   {
     "label": "Biliran",
-    "code": "087800000",
-    "value": "0807800000"
+    "value": "087800000"
   },
   {
     "label": "Bohol",
-    "code": "071200000",
-    "value": "0701200000"
+    "value": "071200000"
   },
   {
     "label": "Bukidnon",
-    "code": "101300000",
-    "value": "1001300000"
+    "value": "101300000"
   },
   {
     "label": "Bulacan",
-    "code": "031400000",
-    "value": "0301400000"
+    "value": "031400000"
   },
   {
     "label": "Cagayan",
-    "code": "021500000",
-    "value": "0201500000"
+    "value": "021500000"
   },
   {
     "label": "Camarines Norte",
-    "code": "051600000",
-    "value": "0501600000"
+    "value": "051600000"
   },
   {
     "label": "Camarines Sur",
-    "code": "051700000",
-    "value": "0501700000"
+    "value": "051700000"
   },
   {
     "label": "Camiguin",
-    "code": "101800000",
-    "value": "1001800000"
+    "value": "101800000"
   },
   {
     "label": "Capiz",
-    "code": "061900000",
-    "value": "0601900000"
+    "value": "061900000"
   },
   {
     "label": "Catanduanes",
-    "code": "052000000",
-    "value": "0502000000"
+    "value": "052000000"
   },
   {
     "label": "Cavite",
-    "code": "042100000",
-    "value": "0402100000"
+    "value": "042100000"
   },
   {
     "label": "Cebu",
-    "code": "072200000",
-    "value": "0702200000"
+    "value": "072200000"
   },
   {
     "label": "Cotabato",
-    "code": "124700000",
-    "value": "1204700000"
+    "value": "124700000"
   },
   {
     "label": "Davao De Oro",
-    "code": "118200000",
-    "value": "1108200000"
+    "value": "118200000"
   },
   {
     "label": "Davao Del Norte",
-    "code": "112300000",
-    "value": "1102300000"
+    "value": "112300000"
   },
   {
     "label": "Davao Del Sur",
-    "code": "112400000",
-    "value": "1102400000"
+    "value": "112400000"
   },
   {
     "label": "Davao Occidental",
-    "code": "118600000",
-    "value": "1108600000"
+    "value": "118600000"
   },
   {
     "label": "Davao Oriental",
-    "code": "112500000",
-    "value": "1102500000"
+    "value": "112500000"
   },
   {
     "label": "Dinagat Islands",
-    "code": "168500000",
-    "value": "1608500000"
+    "value": "168500000"
   },
   {
     "label": "Eastern Samar",
-    "code": "082600000",
-    "value": "0802600000"
+    "value": "082600000"
   },
   {
     "label": "Guimaras",
-    "code": "067900000",
-    "value": "0607900000"
+    "value": "067900000"
   },
   {
     "label": "Ifugao",
-    "code": "142700000",
-    "value": "1402700000"
+    "value": "142700000"
   },
   {
     "label": "Ilocos Norte",
-    "code": "012800000",
-    "value": "0102800000"
+    "value": "012800000"
   },
   {
     "label": "Ilocos Sur",
-    "code": "012900000",
-    "value": "0102900000"
+    "value": "012900000"
   },
   {
     "label": "Iloilo",
-    "code": "063000000",
-    "value": "0603000000"
+    "value": "063000000"
   },
   {
     "label": "Isabela",
-    "code": "023100000",
-    "value": "0203100000"
+    "value": "023100000"
   },
   {
     "label": "Kalinga",
-    "code": "143200000",
-    "value": "1403200000"
+    "value": "143200000"
   },
   {
     "label": "La Union",
-    "code": "013300000",
-    "value": "0103300000"
+    "value": "013300000"
   },
   {
     "label": "Laguna",
-    "code": "043400000",
-    "value": "0403400000"
+    "value": "043400000"
   },
   {
     "label": "Lanao Del Norte",
-    "code": "103500000",
-    "value": "1003500000"
+    "value": "103500000"
   },
   {
     "label": "Lanao Del Sur",
-    "code": "153600000",
-    "value": "1903600000"
+    "value": "153600000"
   },
   {
     "label": "Leyte",
-    "code": "083700000",
-    "value": "0803700000"
+    "value": "083700000"
   },
   {
     "label": "Maguindanao",
-    "code": "153800000",
-    "value": "1903800000"
+    "value": "153800000"
   },
   {
     "label": "Marinduque",
-    "code": "174000000",
-    "value": "1704000000"
+    "value": "174000000"
   },
   {
     "label": "Masbate",
-    "code": "054100000",
-    "value": "0504100000"
+    "value": "054100000"
   },
   {
     "label": "Misamis Occidental",
-    "code": "104200000",
-    "value": "1004200000"
+    "value": "104200000"
   },
   {
     "label": "Misamis Oriental",
-    "code": "104300000",
-    "value": "1004300000"
+    "value": "104300000"
   },
   {
     "label": "Mountain Province",
-    "code": "144400000",
-    "value": "1404400000"
+    "value": "144400000"
   },
   {
     "label": "Negros Occidental",
-    "code": "064500000",
-    "value": "0604500000"
+    "value": "064500000"
   },
   {
     "label": "Negros Oriental",
-    "code": "074600000",
-    "value": "0704600000"
+    "value": "074600000"
   },
   {
     "label": "Northern Samar",
-    "code": "084800000",
-    "value": "0804800000"
+    "value": "084800000"
   },
   {
     "label": "Nueva Ecija",
-    "code": "034900000",
-    "value": "0304900000"
+    "value": "034900000"
   },
   {
     "label": "Nueva Vizcaya",
-    "code": "025000000",
-    "value": "0205000000"
+    "value": "025000000"
   },
   {
     "label": "Occidental Mindoro",
-    "code": "175100000",
-    "value": "1705100000"
+    "value": "175100000"
   },
   {
     "label": "Oriental Mindoro",
-    "code": "175200000",
-    "value": "1705200000"
+    "value": "175200000"
   },
   {
     "label": "Palawan",
-    "code": "175300000",
-    "value": "1705300000"
+    "value": "175300000"
   },
   {
     "label": "Pampanga",
-    "code": "035400000",
-    "value": "0305400000"
+    "value": "035400000"
   },
   {
     "label": "Pangasinan",
-    "code": "015500000",
-    "value": "0105500000"
+    "value": "015500000"
   },
   {
     "label": "Quezon",
-    "code": "045600000",
-    "value": "0405600000"
+    "value": "045600000"
   },
   {
     "label": "Quirino",
-    "code": "025700000",
-    "value": "0205700000"
+    "value": "025700000"
   },
   {
     "label": "Rizal",
-    "code": "045800000",
-    "value": "0405800000"
+    "value": "045800000"
   },
   {
     "label": "Romblon",
-    "code": "175900000",
-    "value": "1705900000"
+    "value": "175900000"
   },
   {
     "label": "Samar",
-    "code": "086000000",
-    "value": "0806000000"
+    "value": "086000000"
   },
   {
     "label": "Sarangani",
-    "code": "128000000",
-    "value": "1208000000"
+    "value": "128000000"
   },
   {
     "label": "Siquijor",
-    "code": "076100000",
-    "value": "0706100000"
+    "value": "076100000"
   },
   {
     "label": "Sorsogon",
-    "code": "056200000",
-    "value": "0506200000"
+    "value": "056200000"
   },
   {
     "label": "South Cotabato",
-    "code": "126300000",
-    "value": "1206300000"
+    "value": "126300000"
   },
   {
     "label": "Southern Leyte",
-    "code": "086400000",
-    "value": "0806400000"
+    "value": "086400000"
   },
   {
     "label": "Sultan Kudarat",
-    "code": "126500000",
-    "value": "1206500000"
+    "value": "126500000"
   },
   {
     "label": "Sulu",
-    "code": "156600000",
-    "value": "1906600000"
+    "value": "156600000"
   },
   {
     "label": "Surigao Del Norte",
-    "code": "166700000",
-    "value": "1606700000"
+    "value": "166700000"
   },
   {
     "label": "Surigao Del Sur",
-    "code": "166800000",
-    "value": "1606800000"
+    "value": "166800000"
   },
   {
     "label": "Tarlac",
-    "code": "036900000",
-    "value": "0306900000"
+    "value": "036900000"
   },
   {
     "label": "Tawi-Tawi",
-    "code": "157000000",
-    "value": "1907000000"
+    "value": "157000000"
   },
   {
     "label": "Zambales",
-    "code": "037100000",
-    "value": "0307100000"
+    "value": "037100000"
   },
   {
     "label": "Zamboanga Del Norte",
-    "code": "097200000",
-    "value": "0907200000"
+    "value": "097200000"
   },
   {
     "label": "Zamboanga Del Sur",
-    "code": "097300000",
-    "value": "0907300000"
+    "value": "097300000"
   },
   {
     "label": "Zamboanga Sibugay",
-    "code": "098300000",
-    "value": "0908300000"
+    "value": "098300000"
   }
 ]

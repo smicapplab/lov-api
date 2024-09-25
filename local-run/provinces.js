@@ -1,7 +1,7 @@
 import { promises as fs } from 'fs';
 
 const API_URL = 'https://psgc.gitlab.io/api/provinces';
-const OUTPUT_FILE = '../src/lib/data/geo/provinces.json';
+const OUTPUT_FILE = '../static/data/geo/provinces.json';
 
 async function fetchProvinces() {
   try {
@@ -19,8 +19,7 @@ async function fetchProvinces() {
 function processProvinces(rawData) {
   return rawData.map(province => ({
     label: province.name,
-    code: province.code,
-    value: province.psgc10DigitCode
+    value: province.code
   }))
   .sort((a, b) => a.label.localeCompare(b.label));
 }

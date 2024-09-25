@@ -7,79 +7,78 @@ const __dirname = path.dirname(__filename);
 
 const PROVINCES_URL = 'https://psgc.gitlab.io/api/provinces';
 const BARANGAYS_URL = 'https://psgc.gitlab.io/api/cities-municipalities';
-const PROVINCES_FILE = path.join(__dirname, '..', 'src', 'lib', 'data', 'geo', 'provinces.json');
-const OUTPUT_DIR = path.join(__dirname, '..', 'src', 'lib', 'data', 'geo', 'cities');
+const PROVINCES_FILE = path.join(__dirname, '..', 'static', 'data', 'geo', 'provinces.json');
+const OUTPUT_DIR = path.join(__dirname, '..', 'static', 'data', 'geo', 'cities');
 
 async function readProvinces() {
-  const data = await fs.readFile(PROVINCES_FILE, 'utf8');
-  return JSON.parse(data);
+	const data = await fs.readFile(PROVINCES_FILE, 'utf8');
+	return JSON.parse(data);
 }
 
 async function fetchData(url) {
-  const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`HTTP error! status: ${response.status}`);
-  }
-  return await response.json();
+	const response = await fetch(url);
+	if (!response.ok) {
+		throw new Error(`HTTP error! status: ${response.status}`);
+	}
+	return await response.json();
 }
 
 async function fetchCitiesMunicipalities(provinceCode) {
-  return fetchData(`${PROVINCES_URL}/${provinceCode}/cities-municipalities/`);
+	return fetchData(`${PROVINCES_URL}/${provinceCode}/cities-municipalities/`);
 }
 
 async function fetchBarangays(cityCode) {
-  return fetchData(`${BARANGAYS_URL}/${cityCode}/barangays.json`);
+	return fetchData(`${BARANGAYS_URL}/${cityCode}/barangays.json`);
 }
 
 function processBarangays(barangaysData) {
-  return barangaysData.map(item => ({
-    label: item.name,
-    code: item.code,
-    value: item.psgc10DigitCode
-  })).sort((a, b) => a.label.localeCompare(b.label));
+	return barangaysData
+		.map((item) => ({
+			label: item.name,
+			value: item.code
+		}))
+		.sort((a, b) => a.label.localeCompare(b.label));
 }
 
 async function processCitiesMunicipalities(provinceData, citiesData) {
-  const processedCities = [];
+	const processedCities = [];
 
-  for (const city of citiesData) {
-    console.log(`  Fetching barangays for ${city.name}...`);
-    const barangaysData = await fetchBarangays(city.code);
-    processedCities.push({
-      label: city.name,
-      code: city.code,
-      value: city.psgc10DigitCode,
-      barangays: processBarangays(barangaysData)
-    });
-  }
+	for (const city of citiesData) {
+		console.log(`  Fetching barangays for ${city.name}...${city.code}`);
+		const barangaysData = await fetchBarangays(city.code);
+		processedCities.push({
+			label: city.name,
+			value: city.code,
+			barangays: processBarangays(barangaysData)
+		});
+	}
 
-  return {
-    province: provinceData.name,
-    code: provinceData.code,
-    cities: processedCities.sort((a, b) => a.label.localeCompare(b.label))
-  };
+	return {
+		province: provinceData.name,
+		cities: processedCities.sort((a, b) => a.label.localeCompare(b.label))
+	};
 }
 
 async function writeToFile(data, filename) {
-  await fs.mkdir(OUTPUT_DIR, { recursive: true });
-  const filePath = path.join(OUTPUT_DIR, filename);
-  await fs.writeFile(filePath, JSON.stringify(data, null, 2));
-  console.log(`Data written to ${filePath}`);
+	await fs.mkdir(OUTPUT_DIR, { recursive: true });
+	const filePath = path.join(OUTPUT_DIR, filename);
+	await fs.writeFile(filePath, JSON.stringify(data, null, 2));
+	console.log(`Data written to ${filePath}`);
 }
 
 export async function fetchCitiesMunicipalitiesMain() {
-  try {
-    const provinces = await readProvinces();
-    
-    for (const province of provinces) {
-      console.log(`Fetching data for ${province.label}...`);
-      const citiesData = await fetchCitiesMunicipalities(province.code);
-      const processedData = await processCitiesMunicipalities(province, citiesData);
-      await writeToFile(processedData, `${province.code}.json`);
-    }
+	try {
+		const provinces = await readProvinces();
 
-    console.log('All data has been processed and saved.');
-  } catch (error) {
-    console.error('An error occurred:', error);
-  }
+		for (const province of provinces) {
+			console.log(`Fetching data for ${province.label}...`);
+			const citiesData = await fetchCitiesMunicipalities(province.value);
+			const processedData = await processCitiesMunicipalities(province, citiesData);
+			await writeToFile(processedData, `${province.value}.json`);
+		}
+
+		console.log('All data has been processed and saved.');
+	} catch (error) {
+		console.error('An error occurred:', error);
+	}
 }
