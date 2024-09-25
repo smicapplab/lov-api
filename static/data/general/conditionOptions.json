@@ -1,0 +1,22 @@
+[
+    {
+        "value": "START",
+        "label": "Starting - My business is just starting and has been operational for less than 3 years."
+    },
+    {
+        "value": "GROW",
+        "label": "Growing - My business is growing rapidly. We are getting more clients and accepting more projects."
+    },
+    {
+        "value": "ESTAB",
+        "label": "Established - My business is well-established. We have matured in the market, have stable operations, and have a set client base."
+    },
+    {
+        "value": "DECLN",
+        "label": "Decline - My business is currently experiencing a decline. We are losing revenue and have negative cash flow."
+    },
+    {
+        "value": "SUNST",
+        "label": "Sunset - My business is gearing up for exit. There is a chance the business might close if situations do not improve."
+    }
+]
