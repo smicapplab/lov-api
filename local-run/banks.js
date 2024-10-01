@@ -33,6 +33,8 @@ export async function fetchMasterBanks() {
             };
         });
 
+        data = data.sort((a, b) => a.label.localeCompare(b.label));
+
         await fs.writeFile(OUTPUT_FILE, JSON.stringify(data, null, 2));
 		console.log('Master Banks Data:', data); // Log the data
 	} catch (error) {
