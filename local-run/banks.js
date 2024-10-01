@@ -20,11 +20,18 @@ export const getSupabaseClient = () => {
 export async function fetchMasterBanks() {
 	try {
 		const supabase = getSupabaseClient();
-		const { data, error } = await supabase.from('master_banks').select('name, code'); // Await the result
+		let { data, error } = await supabase.from('master_banks').select('name, code'); // Await the result
 
 		if (error) {
 			throw error;
 		}
+
+        data = data.map((bank) => {
+            return {
+                label: bank.name,
+                value: bank.code
+            };
+        });
 
         await fs.writeFile(OUTPUT_FILE, JSON.stringify(data, null, 2));
 		console.log('Master Banks Data:', data); // Log the data
