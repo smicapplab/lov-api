@@ -1,7 +1,7 @@
-import { fetchMasterBanks } from "./banks.js";
+// import { fetchMasterBanks } from "./banks.js";
 import { fetchCitiesMunicipalitiesMain } from "./cities.js";
-import { fetchProvincesMain } from "./provinces.js";
+//import { fetchProvincesMain } from "./provinces.js";
 
-await fetchProvincesMain();
+//await fetchProvincesMain();
 await fetchCitiesMunicipalitiesMain();
-await fetchMasterBanks();
+// await fetchMasterBanks();

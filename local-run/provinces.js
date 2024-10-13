@@ -17,11 +17,22 @@ async function fetchProvinces() {
 }
 
 function processProvinces(rawData) {
-  return rawData.map(province => ({
+  // rawData.push({
+  //   "label": "Metro Manila (NCR)",
+  //   "value": "130000000"
+  // })
+
+  rawData = rawData.map(province => ({
     label: province.name,
     value: province.code
   }))
-  .sort((a, b) => a.label.localeCompare(b.label));
+
+  rawData.push({
+    "label": "Metro Manila (NCR)",
+    "value": "130000000"
+  })
+
+  return rawData.sort((a, b) => a.label.localeCompare(b.label));
 }
 
 async function writeToFile(data) {

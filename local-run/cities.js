@@ -66,18 +66,57 @@ async function writeToFile(data, filename) {
 	console.log(`Data written to ${filePath}`);
 }
 
+
+async function fetchMetroManilaDistricts() {
+	return fetchData("https://psgc.gitlab.io/api/districts/");
+}
+
+async function fetchDistrictCities(districtData) {
+	return fetchData(`https://psgc.gitlab.io/api/districts/${districtData.code}/cities/`);
+}
+
+async function processMetroManilaDistricts(provinceName, districts) {
+	const processedCities = [];
+	for (const district of districts) {
+		const citiesData = await fetchDistrictCities(district);
+		//console.log(citiesData)
+
+		for (const city of citiesData) {
+			const barangaysData = await fetchBarangays(city.code);
+			processedCities.push({
+				label: city.name.replace("City of ", ""),
+				value: city.code,
+				barangays: processBarangays(barangaysData)
+			})
+		}
+	}
+
+	return {
+		province: provinceName,
+		cities: processedCities.sort((a, b) => a.label.localeCompare(b.label))
+	};
+}
+
 export async function fetchCitiesMunicipalitiesMain() {
 	try {
 		const provinces = await readProvinces();
 
 		for (const province of provinces) {
-			console.log(`Fetching data for ${province.label}...`);
-			const citiesData = await fetchCitiesMunicipalities(province.value);
-			const processedData = await processCitiesMunicipalities(province, citiesData);
-			await writeToFile(processedData, `${province.value}.json`);
+			//console.log(`Fetching data for ${province.label}...`);
+
+			if (province.value === '130000000') {
+				const districts = await fetchMetroManilaDistricts();
+				const processedDistricts = await processMetroManilaDistricts(province.label, districts);
+				console.log(`${province.value}.json`)
+				await writeToFile(processedDistricts, `${province.value}.json`);	
+			} else {
+				// const citiesData = await fetchCitiesMunicipalities(province.value);
+				// const processedData = await processCitiesMunicipalities(province, citiesData);
+				// await writeToFile(processedData, `${province.value}.json`);	
+			}
 		}
 
-		console.log('All data has been processed and saved.');
+		// console.log('All data has been processed and saved.');
 	} catch (error) {
 		console.error('An error occurred:', error);
 	}
